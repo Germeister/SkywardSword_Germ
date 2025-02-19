@@ -1,0 +1,46 @@
+.presetList {
+    display: flex;
+    flex-flow: column nowrap;
+}
+
+.presetRow {
+    color: var(--scheme-text);
+    min-height: 40px;
+    border: 1px solid grey;
+    width: 100%;
+    padding: 4px;
+    user-select: none;
+    cursor: pointer;
+
+    &:hover {
+        background-color: var(--scheme-interact);
+        color: var(--scheme-background);
+    }
+
+    .header {
+        display: flex;
+        flex-flow: row nowrap;
+
+        > div {
+            margin-left: auto;
+        }
+    }
+
+    .body {
+        font-size: 12px;
+        white-space: nowrap;
+
+        .presetLogicStringSep {
+            margin: 0 4px;
+        }
+
+        .presetLogicStringSep::before {
+            content: '⋅';
+        }
+
+        .permalink {
+            overflow-wrap: break-word;
+            white-space: pre-line;
+        }
+    }
+}

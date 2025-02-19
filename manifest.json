@@ -1,0 +1,17 @@
+﻿{
+  "name": "The Legend of Zelda: Skyward Sword Randomizer - AP",
+  "game_name": "The Legend of Zelda: Skyward Sword",
+  "package_version": "1.0.0",
+  "package_uid": "SkywardSword_Germ",
+  "platform": "Wii",
+  "author": "Germeister",
+  "variants": {
+    "standard": {
+      "display_name": "Default Tracker",
+      "flags": [
+        "ap"
+      ]
+    }
+  },
+  //"versions_url": "https://raw.githubusercontent.com/Br00ty/tloz_brooty/master/versions.json"
+}

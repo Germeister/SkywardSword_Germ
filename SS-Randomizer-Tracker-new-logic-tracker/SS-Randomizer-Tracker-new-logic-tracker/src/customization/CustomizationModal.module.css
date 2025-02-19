@@ -1,0 +1,31 @@
+.modal {
+    display: flex;
+    flex-flow: column nowrap;
+    padding: 0 12px;
+    overflow: auto;
+}
+
+.colorPresets {
+    display: flex;
+    justify-content: space-around;
+}
+
+.setting {
+    .header {
+        font-size: 24px;
+    }
+
+    .contents {
+        margin-left: 12px;
+    }
+
+    margin-bottom: 15px;
+}
+
+.labeledCheckbox {
+    display: flex;
+    gap: 4px;
+    margin: 4px;
+    flex-direction: row;
+    align-items: center;
+}

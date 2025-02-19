@@ -1,0 +1,246 @@
+{
+    "skyloftSubmap": {
+        "name": "Skyloft",
+        "markerX": 48,
+        "markerY": 49,
+        "map": "skyloftMap",
+        "exitParams": {
+            "image": "leaveSkyloft",
+            "width": 15,
+            "left": 2,
+            "top": 1
+        },
+        "markers": [
+            {
+                "region": "Upper Skyloft",
+                "markerX": 38,
+                "markerY": 35,
+                "submarkerPlacement": "left"
+            },
+            {
+                "region": "Central Skyloft",
+                "markerX": 43.5,
+                "markerY": 57.5
+            },
+            {
+                "region": "Skyloft Village",
+                "markerX": 63.5,
+                "markerY": 70
+            },
+            {
+                "region": "Batreaux's House",
+                "markerX": 58,
+                "markerY": 85
+            },
+            {
+                "region": "Beedle's Shop",
+                "markerX": 80,
+                "markerY": 53
+            }
+        ],
+        "entranceMarkers": [
+            {
+                "exitPool": "dungeons",
+                "entryName": "Sky Keep",
+                "markerX": 50,
+                "markerY": 24
+            },
+            {
+                "exitPool": "silent_realms",
+                "entryName": "Skyloft Silent Realm",
+                "markerX": 45,
+                "markerY": 85,
+                "submarkerPlacement": "left"
+            }
+        ]
+    },
+    "faronSubmap": {
+        "name": "Faron Province",
+        "markerX": 67.6,
+        "markerY": 58,
+        "map": "faronMap",
+        "exitParams": {
+            "image": "leaveFaron",
+            "width": 12,
+            "left": 1,
+            "top": 1
+        },
+        "markers": [
+            {
+                "region": "Sealed Grounds",
+                "markerX": 23,
+                "markerY": 62
+            },
+            {
+                "region": "Faron Woods",
+                "markerX": 45,
+                "markerY": 49,
+                "submarkerPlacement": "left"
+            },
+            {
+                "region": "Lake Floria",
+                "markerX": 58,
+                "markerY": 77
+            },
+            {
+                "region": "Flooded Faron Woods",
+                "markerX": 80,
+                "markerY": 31
+            }
+        ],
+        "entranceMarkers": [
+            {
+                "exitPool": "dungeons",
+                "entryName": "Skyview",
+                "markerX": 58.5,
+                "markerY": 14,
+                "submarkerPlacement": "left"
+            },
+            {
+                "exitPool": "dungeons",
+                "entryName": "Ancient Cistern",
+                "markerX": 45,
+                "markerY": 72,
+                "submarkerPlacement": "left"
+            },
+            {
+                "exitPool": "silent_realms",
+                "entryName": "Faron Silent Realm",
+                "markerX": 58,
+                "markerY": 40
+            }
+        ]
+    },
+    "eldinSubmap": {
+        "name": "Eldin Province",
+        "markerX": 48,
+        "markerY": 22,
+        "map": "eldinMap",
+        "exitParams": {
+            "image": "leaveEldin",
+            "width": 14,
+            "left": 0,
+            "top": 14
+        },
+        "markers": [
+            {
+                "region": "Eldin Volcano",
+                "markerX": 28,
+                "markerY": 73,
+                "submarkerPlacement": "left"
+            },
+            {
+                "region": "Mogma Turf",
+                "markerX": 40,
+                "markerY": 72
+            },
+            {
+                "region": "Volcano Summit",
+                "markerX": 60,
+                "markerY": 40,
+                "submarkerPlacement": "left"
+            },
+            {
+                "region": "Bokoblin Base",
+                "markerX": 80.7,
+                "markerY": 72,
+                "submarkerPlacement": "left"
+            }
+        ],
+        "entranceMarkers": [
+            {
+                "exitPool": "dungeons",
+                "entryName": "Earth Temple",
+                "markerX": 41.5,
+                "markerY": 57
+            },
+            {
+                "exitPool": "dungeons",
+                "entryName": "Fire Sanctuary",
+                "markerX": 72,
+                "markerY": 30
+            },
+            {
+                "exitPool": "silent_realms",
+                "entryName": "Eldin Silent Realm",
+                "markerX": 36,
+                "markerY": 62,
+                "submarkerPlacement": "left"
+            }
+        ]
+    },
+    "lanayruSubmap": {
+        "name": "Lanayru Province",
+        "markerX": 27,
+        "markerY": 50,
+        "map": "lanayruMap",
+        "exitParams": {
+            "image": "leaveLanayru",
+            "width": 12,
+            "left": 7,
+            "top": 1
+        },
+        "markers": [
+            {
+                "region": "Lanayru Mine",
+                "markerX": 72,
+                "markerY": 61.5
+            },
+            {
+                "region": "Lanayru Desert",
+                "markerX": 64,
+                "markerY": 38
+            },
+            {
+                "region": "Lanayru Caves",
+                "markerX": 55,
+                "markerY": 40,
+                "submarkerPlacement": "left"
+            },
+            {
+                "region": "Lanayru Sand Sea",
+                "markerX": 36,
+                "markerY": 50
+            },
+            {
+                "region": "Lanayru Gorge",
+                "markerX": 55,
+                "markerY": 70,
+                "submarkerPlacement": "left"
+            }
+        ],
+        "entranceMarkers": [
+            {
+                "exitPool": "dungeons",
+                "entryName": "Lanayru Mining Facility",
+                "markerX": 64,
+                "markerY": 26,
+                "submarkerPlacement": "left"
+            },
+            {
+                "exitPool": "dungeons",
+                "entryName": "Sandship",
+                "markerX": 27,
+                "markerY": 45,
+                "submarkerPlacement": "left"
+            },
+            {
+                "exitPool": "silent_realms",
+                "entryName": "Lanayru Silent Realm",
+                "markerX": 64,
+                "markerY": 14
+            }
+        ]
+    },
+    "thunderhead": {
+        "region": "Thunderhead",
+        "markerX": 16,
+        "markerY": 11,
+        "submarkerPlacement": "left"
+    },
+    "sky": {
+        "region": "Sky",
+        "markerX": 85,
+        "markerY": 11
+    }
+}

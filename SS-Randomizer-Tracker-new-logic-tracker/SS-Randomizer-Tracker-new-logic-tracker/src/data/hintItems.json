@@ -1,0 +1,74 @@
+{
+    "Quest Items": [
+        "Progressive Sword",
+        "Progressive Mitts",
+        "Goddess's Harp",
+        "Water Dragon's Scale",
+        "Fireshield Earrings",
+        "Emerald Tablet",
+        "Ruby Tablet",
+        "Amber Tablet",
+        "Triforce"
+    ],
+    "B-Wheel Items": [
+        "Progressive Slingshot",
+        "Progressive Beetle",
+        "Bomb Bag",
+        "Gust Bellows",
+        "Whip",
+        "Clawshots",
+        "Progressive Bow",
+        "Progressive Bug Net"
+    ],
+    "Songs": [
+        "Ballad of the Goddess",
+        "Farore's Courage",
+        "Nayru's Wisdom",
+        "Din's Power",
+        "Song of the Hero"
+    ],
+    "Sidequests": [
+        "Cawlin's Letter",
+        "Horned Colossus Beetle",
+        "Baby Rattle",
+        "Gratitude Crystals"
+    ],
+    "Miscellaneous Items": [
+        "Progressive Pouch",
+        "Empty Bottle",
+        "Spiral Charge",
+        "Group of Tadtones",
+        "Lanayru Caves Small Key",
+        "Sea Chart",
+        "Life Tree Fruit",
+        "Scrapper",
+        "Progressive Wallet",
+        "Extra Wallet"
+    ],
+    "Dungeon Items": [
+        "Key Piece",
+        "Stone of Trials",
+        "Skyview Boss Key",
+        "Earth Temple Boss Key",
+        "Lanayru Mining Facility Boss Key",
+        "Ancient Cistern Boss Key",
+        "Sandship Boss Key",
+        "Fire Sanctuary Boss Key"
+    ],
+    "Dungeon Small Keys": [
+        "Skyview Small Key",
+        "Lanayru Mining Facility Small Key",
+        "Ancient Cistern Small Key",
+        "Sandship Small Key",
+        "Fire Sanctuary Small Key",
+        "Sky Keep Small Key"
+    ],
+    "Junk": [
+        "Wooden Shield",
+        "Hylian Shield",
+        "Rupees",
+        "Tumbleweed",
+        "Semi Rare Treasure",
+        "Rare Treasure"
+    ]
+}

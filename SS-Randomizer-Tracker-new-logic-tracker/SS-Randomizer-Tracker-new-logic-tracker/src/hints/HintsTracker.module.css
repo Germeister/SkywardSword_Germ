@@ -1,0 +1,16 @@
+.hintsTracker {
+    height: 100%;
+    padding: 4px;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+
+.hintsTextArea {
+    resize: none;
+    flex: 1;
+    box-sizing: border-box;
+
+    color: var(--scheme-text);
+    background: var(--scheme-background);
+}

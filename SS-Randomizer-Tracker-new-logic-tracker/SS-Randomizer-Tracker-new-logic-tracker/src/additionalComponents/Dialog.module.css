@@ -1,0 +1,90 @@
+.overlay {
+    background-color: black;
+    position: fixed;
+    inset: 0;
+    opacity: 0.5;
+    animation: overlayShow 250ms ease-in-out;
+
+    &[data-state='closed'] {
+        opacity: 0;
+        animation-name: overlayHide;
+    }
+}
+
+.content {
+    background-color: var(--scheme-background);
+    color: var(--scheme-text);
+
+    border-radius: 6px;
+    border: 1px solid var(--scheme-text);
+    box-shadow:
+        hsl(206 22% 7% / 35%) 0px 10px 38px -10px,
+        hsl(206 22% 7% / 20%) 0px 10px 20px -15px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    max-width: 90vw;
+    max-height: 85vh;
+    width: 900px;
+    padding: 25px;
+    animation: contentShow 250ms ease-in-out;
+
+    display: flex;
+    flex-flow: column;
+    gap: 8px;
+
+    &.narrow {
+        width: 600px;
+    }
+
+    &[data-state='closed'] {
+        opacity: 0;
+        animation-name: contentHide;
+    }
+}
+
+@keyframes contentShow {
+    from {
+        opacity: 0;
+        transform: translate(-50%, -55%);
+    }
+    to {
+        opacity: 1;
+        transform: translate(-50%, -50%);
+    }
+}
+
+@keyframes contentHide {
+    from {
+        opacity: 1;
+        transform: translate(-50%, -50%);
+    }
+    to {
+        opacity: 0;
+        transform: translate(-50%, -55%);
+    }
+}
+
+@keyframes overlayShow {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 0.5;
+    }
+}
+
+@keyframes overlayHide {
+    from {
+        opacity: 0.5;
+    }
+    to {
+        opacity: 0;
+    }
+}
+
+.footer {
+    display: flex;
+    flex-flow: row-reverse nowrap;
+}

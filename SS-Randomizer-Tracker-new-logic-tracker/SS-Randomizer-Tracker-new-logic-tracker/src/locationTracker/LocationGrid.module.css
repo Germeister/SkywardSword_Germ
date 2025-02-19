@@ -1,0 +1,18 @@
+.locationGroup {
+    padding: 1px 0 1px 1px;
+
+    column-count: 1;
+    column-gap: 0;
+
+    &.wide {
+        column-count: 2;
+    }
+}
+
+.locationCell {
+    min-height: 45px;
+    outline: 1px solid var(--scheme-text);
+    margin: 0 1px 1px 0;
+    break-inside: avoid;
+    display: grid;
+}

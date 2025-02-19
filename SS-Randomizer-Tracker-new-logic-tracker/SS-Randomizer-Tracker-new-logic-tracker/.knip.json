@@ -1,0 +1,3 @@
+{
+    "entry": ["src/index.tsx", "src/tooltips/worker/Worker.ts"]
+}

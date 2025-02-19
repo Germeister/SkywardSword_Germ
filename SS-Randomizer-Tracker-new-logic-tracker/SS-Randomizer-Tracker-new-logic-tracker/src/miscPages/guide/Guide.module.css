@@ -1,0 +1,32 @@
+.guidePage {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.guideContent {
+    max-width: 800px;
+    margin: 20px;
+}
+
+.guideSection {
+    margin-left: 20px;
+}
+
+.guideItemSection {
+    height: 80px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.guideItem {
+    width: 72px;
+}
+
+.guideTooltipsRow {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: end;
+}

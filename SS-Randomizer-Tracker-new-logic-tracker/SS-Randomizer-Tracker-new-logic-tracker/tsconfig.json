@@ -1,0 +1,20 @@
+{
+    "extends": "./tsconfig.base.json",
+    "compilerOptions": {
+      "target": "es6",
+      "lib": [
+        "dom",
+        "ES2023"
+      ],
+      "types": [
+        "vite/client",
+        "vitest/globals"
+      ],
+      "allowJs": true,
+      "jsx": "react-jsx"
+    },
+    "include": [
+      "src",
+      "vite.config.js"
+    ]
+}

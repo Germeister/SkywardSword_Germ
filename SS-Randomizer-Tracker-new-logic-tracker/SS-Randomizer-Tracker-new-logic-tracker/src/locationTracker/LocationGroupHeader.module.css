@@ -1,0 +1,63 @@
+.locationGroupHeader {
+    user-select: none;
+    display: flex;
+    flex-flow: row nowrap;
+    font-size: 1.75rem;
+
+    &.droppable {
+        background-color: color-mix(
+            in srgb,
+            var(--scheme-interact) 20%,
+            transparent
+        );
+    }
+
+    &.droppableHover {
+        background-color: color-mix(
+            in srgb,
+            var(--scheme-interact) 40%,
+            transparent
+        );
+    }
+
+    .name {
+        flex: 1 1 auto;
+        position: relative;
+    }
+
+    &.selected {
+        .name::before {
+            display: inline-block;
+            bottom: 7.5px;
+            height: 100%;
+            content: '›';
+            left: -15px;
+            font-size: 125%;
+            position: absolute;
+        }
+    }
+
+    .hint {
+        flex: 0 0 45px;
+        text-align: center;
+        margin-left: auto;
+        display: flex;
+
+        img {
+            margin: auto;
+            height: 40px;
+        }
+
+        &.preview {
+            opacity: 0.5;
+        }
+    }
+
+    .counter {
+        flex: 0 0 10%;
+        margin-left: auto;
+        &.align {
+            text-align: right;
+        }
+    }
+}

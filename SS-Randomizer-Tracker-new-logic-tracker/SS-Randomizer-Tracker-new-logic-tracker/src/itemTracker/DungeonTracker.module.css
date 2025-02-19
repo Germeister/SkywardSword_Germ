@@ -1,0 +1,35 @@
+.dungeons {
+    display: grid;
+    justify-items: center;
+    grid-template-columns: repeat(14, minmax(0, 1fr));
+    column-gap: 1%;
+    container-type: inline-size;
+    &.sixDungeons {
+        grid-template-columns: repeat(12, minmax(0, 1fr));
+    }
+    grid-template-rows: minmax(0, 1fr) auto auto auto;
+    &.compact {
+        grid-template-rows: minmax(0, 1fr) auto;
+    }
+}
+
+.keyItem {
+    width: 100%;
+    &.wide {
+        width: 50%;
+    }
+    > img {
+        object-fit: contain;
+    }
+}
+
+.trials {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    justify-items: center;
+    margin-top: 2%;
+
+    .hintsMarker {
+        width: 25%;
+    }
+}

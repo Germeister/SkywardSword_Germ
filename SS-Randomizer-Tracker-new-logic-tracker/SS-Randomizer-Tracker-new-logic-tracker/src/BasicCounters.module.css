@@ -1,0 +1,16 @@
+.counters {
+    display: grid;
+    grid-template-columns: max-content auto;
+    row-gap: 12px;
+    font-size: large;
+    column-gap: 8px;
+}
+
+.counter {
+    text-align: right;
+    font-weight: bold;
+}
+
+.accessibleEntrance {
+    color: var(--scheme-inLogic);
+}

@@ -1,0 +1,10 @@
+.dungeonName {
+    font-family: HyliaSerif;
+    font-size: 7.4cqw;
+    cursor: pointer;
+    line-height: 1;
+    user-select: none;
+    &.complete {
+        text-decoration: line-through;
+    }
+}

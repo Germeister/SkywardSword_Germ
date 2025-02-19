@@ -1,0 +1,15 @@
+.droppable {
+    background-color: color-mix(
+        in srgb,
+        var(--scheme-interact) 20%,
+        transparent
+    );
+}
+
+.droppableHover {
+    background-color: color-mix(
+        in srgb,
+        var(--scheme-interact) 40%,
+        transparent
+    );
+}

@@ -1,0 +1,22 @@
+.entranceChooser {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-flow: column nowrap;
+    input {
+        margin-bottom: 4px;
+        width: 100%;
+        flex-grow: 0;
+    }
+
+    .entrances {
+        color: var(--scheme-inLogic);
+        flex-grow: 1;
+        overflow: visible scroll;
+    }
+
+    .query {
+        font-size: 1.75rem;
+        margin: 2%;
+    }
+}

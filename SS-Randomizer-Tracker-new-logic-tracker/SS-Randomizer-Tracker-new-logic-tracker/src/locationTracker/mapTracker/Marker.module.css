@@ -1,0 +1,82 @@
+:root {
+    --map-marker-size: 5.55cqw;
+    --map-marker-droppable-radius: 4px;
+}
+
+.marker {
+    position: absolute;
+    color: black;
+    border: 2px solid #000000;
+    text-align: center;
+    line-height: 1.3;
+    width: var(--map-marker-size);
+    height: var(--map-marker-size);
+    font-size: 3.7cqw;
+
+    top: var(--map-marker-y);
+    left: var(--map-marker-x);
+
+    &.square {
+        border-radius: 0;
+    }
+
+    &.rounded {
+        border-radius: 8px;
+    }
+
+    &.circle {
+        border-radius: 200px;
+    }
+}
+
+.droppableOutline {
+    position: absolute;
+
+    top: calc(var(--map-marker-y) - var(--map-marker-droppable-radius));
+    left: calc(var(--map-marker-x) - var(--map-marker-droppable-radius));
+    width: calc(
+        var(--map-marker-size) + 2 * var(--map-marker-droppable-radius)
+    );
+    height: calc(
+        var(--map-marker-size) + 2 * var(--map-marker-droppable-radius)
+    );
+    border: 4px solid
+        color-mix(in srgb, var(--scheme-interact) 70%, transparent);
+
+    &.droppableOutlineHover {
+        border: 4px solid var(--scheme-interact);
+    }
+}
+
+.submarkers {
+    position: absolute;
+    display: flex;
+    flex-flow: column wrap;
+    pointer-events: none;
+    height: calc(var(--map-marker-size) * 1.25);
+    top: var(--map-marker-y);
+
+    left: calc(var(--map-marker-x) + var(--map-marker-size));
+
+    &.left {
+        left: calc(var(--map-marker-x) - var(--map-marker-size) / 2);
+        flex-wrap: wrap-reverse;
+    }
+
+    .submarker {
+        position: relative;
+        color: black;
+        border: 1px solid #000000;
+        border-radius: 4px;
+        display: flex;
+
+        width: calc(var(--map-marker-size) / 2);
+        height: calc(var(--map-marker-size) / 2);
+
+        img {
+            width: 100%;
+            height: 100%;
+            object-fit: contain;
+        }
+    }
+}

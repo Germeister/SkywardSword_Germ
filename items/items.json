@@ -1,0 +1,1090 @@
+[
+    {
+		"name": "Sword",
+		"type": "progressive",
+        "allow_disabled": "false",
+        "loop": true,
+        "initial_stage_idx": 0,
+		"stages": [
+            {
+                "img": "images/items/swords/No_Sword.png",
+                "codes": "no_sword"
+            },
+            {
+                "img": "images/items/swords/Practice_Sword.png",
+                "codes": "practice_sword"
+            },
+            {
+                "img": "images/items/swords/Goddess_Sword.png",
+                "codes": "goddess_sword"
+            },
+            {
+                "img": "images/items/swords/Goddess_Long_Sword.png",
+                "codes": "goddess_long_sword"
+            },
+            {
+                "img": "images/items/swords/Goddess_White_Sword.png",
+                "codes": "goddess_white_sword"
+            },
+            {
+                "img": "images/items/swords/Master_Sword.png",
+                "codes": "master_sword"
+            },
+            {
+                "img": "images/items/swords/True_Master_Sword.png",
+                "codes": "true_master_sword"
+            }
+        ],
+        "codes": "sword"
+    },
+    
+    {
+		"name": "Bow",
+		"type": "progressive",
+        "loop": true,
+        "initial_stage_idx": 0,
+		"stages": [
+            {
+                "img": "images/items/b_items/Bow_Icon.png",
+                "codes": "standard_bow"
+            },
+            {
+                "img": "images/items/b_items/Iron_Bow_Icon.png",
+                "codes": "iron_bow"
+            },
+            {
+                "img": "images/items/b_items/Sacred_Bow_Icon.png",
+                "codes": "sacred_bow"
+            }
+        ],
+        "codes": "bow"
+    },
+    
+    {
+        "name": "Bombs",
+        "type": "toggle",
+        "img": "images/items/b_items/Bomb_Icon.png",
+        "codes": "bombs"
+    },
+    
+    {
+		"name": "Beetle",
+		"type": "progressive",
+        "loop": true,
+        "initial_stage_idx": 0,
+		"stages": [
+            {
+                "img": "images/items/b_items/Beetle_Icon.png",
+                "codes": "standard_beetle"
+            },
+            {
+                "img": "images/items/b_items/Hook_Beetle_Icon.png",
+                "codes": "hook_beetle"
+            },
+            {
+                "img": "images/items/b_items/Quick_Beetle_Icon.png",
+                "codes": "quick_beetle"
+            },
+            {
+                "img": "images/items/b_items/Tough_Beetle_Icon.png",
+                "codes": "tough_beetle"
+            }
+        ],
+        "codes": "beetle"
+    },
+    
+    {
+		"name": "Bug Net",
+		"type": "progressive",
+        "loop": true,
+        "initial_stage_idx": 0,
+		"stages": [
+            {
+                "img": "images/items/b_items/Bugnet_Icon.png",
+                "codes": "standard_bugnet"
+            },
+            {
+                "img": "images/items/b_items/Big_Bugnet_Icon.png",
+                "codes": "big_bugnet"
+            }
+        ],
+        "codes": "bugnet"
+    },
+    
+    {
+		"name": "Slingshot",
+		"type": "progressive",
+        "loop": true,
+        "initial_stage_idx": 0,
+		"stages": [
+            {
+                "img": "images/items/b_items/Slingshot_Icon.png",
+                "codes": "regular_slingshot"
+            },
+            {
+                "img": "images/items/b_items/Scattershot_Icon.png",
+                "codes": "scatter_slingshot"
+            }
+        ],
+        "codes": "slingshot"
+    },
+    
+    {
+        "name": "Clawshots",
+        "type": "toggle",
+        "img": "images/items/b_items/Clawshots_Icon.png",
+        "codes": "clawshots"
+    },
+    
+    {
+        "name": "Whip",
+        "type": "toggle",
+        "img": "images/items/b_items/Whip_Icon.png",
+        "codes": "whip"
+    },
+    
+    {
+        "name": "Gust Bellows",
+        "type": "toggle",
+        "img": "images/items/b_items/Gust_Bellows_Icon.png",
+        "codes": "gust_bellows"
+    },
+    
+    {
+		"name": "Triforce",
+		"type": "progressive",
+        "allow_disabled": "false",
+        "loop": true,
+        "initial_stage_idx": 0,
+		"stages": [
+            {
+                "img": "images/items/tablets_triforce/No_Triforce.png",
+                "codes": "no_triforce"
+            },
+            {
+                "img": "images/items/tablets_triforce/1_Triforce.png",
+                "codes": "one_triforce"
+            },
+            {
+                "img": "images/items/tablets_triforce/2_Triforce.png",
+                "codes": "two_triforce"
+            },
+            {
+                "img": "images/items/tablets_triforce/Full_Triforce.png",
+                "codes": "full_triforce"
+            }
+        ],
+        "codes": "triforce"
+    },
+    
+    {
+        "name": "Emerald Tablet",
+        "type": "toggle",
+        "img": "images/items/tablets_triforce/emerald_tablet.png",
+        "codes": "emerald_tablet"
+    },
+    
+    {
+        "name": "Ruby Tablet",
+        "type": "toggle",
+        "img": "images/items/tablets_triforce/ruby_tablet.png",
+        "codes": "ruby_tablet"
+    },
+    
+    {
+        "name": "Amber Tablet",
+        "type": "toggle",
+        "img": "images/items/tablets_triforce/amber_tablet.png",
+        "codes": "amber_tablet"
+    },
+    
+    {
+        "name": "Harp",
+        "type": "toggle",
+        "img": "images/items/harp_images/Goddess_Harp.png",
+        "codes": "harp"
+    },
+    
+    {
+        "name": "Farore's Courage",
+        "type": "toggle",
+        "img": "images/items/harp_images/Farores_Courage.png",
+        "codes": "courage"
+    },
+    
+    {
+        "name": "Din's Power",
+        "type": "toggle",
+        "img": "images/items/harp_images/Dins_Power.png",
+        "codes": "power"
+    },
+    
+    {
+        "name": "Nayru's Wisdom",
+        "type": "toggle",
+        "img": "images/items/harp_images/Nayrus_Wisdom.png",
+        "codes": "wisdom"
+    },
+    
+    {
+        "name": "Ballad of the Goddess",
+        "type": "toggle",
+        "img": "images/items/harp_images/Ballad_of_the_Goddess.png",
+        "codes": "ballad"
+    },
+    
+    {
+		"name": "Song of the Hero",
+		"type": "progressive",
+        "loop": true,
+        "initial_stage_idx": 0,
+		"stages": [
+            {
+                "img": "images/items/harp_images/SOTH1.png",
+                "codes": "one_fragment"
+            },
+            {
+                "img": "images/items/harp_images/SOTH2.png",
+                "codes": "two_fragment"
+            },
+            {
+                "img": "images/items/harp_images/soth_grid.png",
+                "codes": "final_fragment"
+            }
+        ],
+        "codes": "hero"
+    },
+    
+    {
+		"name": "Wallet",
+		"type": "progressive",
+        "loop": true,
+        "allow_disabled": "false",
+        "initial_stage_idx": 0,
+		"stages": [
+            {
+                "img": "images/items/wallets/smallWallet.png",
+                "codes": "smallWallet"
+            },
+            {
+                "img": "images/items/wallets/mediumWallet.png",
+                "codes": "mediumWallet"
+            },
+            {
+                "img": "images/items/wallets/bigWallet.png",
+                "codes": "bigWallet"
+            },
+            {
+                "img": "images/items/wallets/giantWallet.png",
+                "codes": "giantWallet"
+            },
+            {
+                "img": "images/items/wallets/tycoonWallet.png",
+                "codes": "tycoonWallet"
+            }
+        ],
+        "codes": "wallet"
+    },
+    
+    {
+        "name": "Wallet Bonus",
+        "type": "consumable",
+        "img": "images/items/wallets/extraWallet.png",
+        "max_quantity": 900,
+        "increment": 300,
+        "decrement": 300,
+        "initial_quantity": 0,
+        "overlay_background": "#000000",
+        "overlay_font_size": 12,
+        "allow_disabled": true,
+        "codes": "wallet_bonus"
+    },
+    
+    {
+        "name": "Water Dragon's Scale",
+        "type": "toggle",
+        "img": "images/items/passive_unlocks/Water_Dragon_Scale.png",
+        "codes": "scale"
+    },
+    
+    {
+        "name": "Fireshield Earrings",
+        "type": "toggle",
+        "img": "images/items/passive_unlocks/Fireshield_Earrings.png",
+        "codes": "earrings"
+    },
+    
+    {
+		"name": "Mogma Mitts",
+		"type": "progressive",
+        "loop": true,
+        "initial_stage_idx": 0,
+		"stages": [
+            {
+                "img": "images/items/passive_unlocks/Digging_Mitts.png",
+                "codes": "digging_mitts"
+            },
+            {
+                "img": "images/items/passive_unlocks/Mogma_Mitts.png",
+                "codes": "mogma_mitts"
+            }
+        ],
+        "codes": "mitts"
+    },
+    /////////////////////////////////////////////////////
+    {
+        "name": "Progressive Pouch",
+        "type": "toggle",
+        "img": "images/items/passive_unlocks/pouch.png",
+        "codes": "pouch"
+    },
+    
+    {
+        "name": "Empty Bottle",
+        "type": "toggle",
+        "img": "images/items/passive_unlocks/bottle.png",
+        "codes": "bottle"
+    },
+    
+    {
+        "name": "Spiral Charge",
+        "type": "toggle",
+        "img": "images/items/passive_unlocks/bird_statuette.png",
+        "codes": "spiral"
+    },
+    
+    {
+        "name": "Group of Tadtones",
+        "type": "consumable",
+        "img": "images/items/passive_unlocks/tadtones.png",
+        "max_quantity": 17,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_background": "#000000",
+        "overlay_font_size": 12,
+        "allow_disabled": true,
+        "codes": "tadtones"
+    },
+    
+    {
+        "name": "Lanayru Caves Small Key",
+        "type": "toggle",
+        "img": "images/items/dungeons/SS_Small_Key_Icon.png",
+        "codes": "cave_key"
+    },
+    
+    {
+        "name": "Sea Chart",
+        "type": "toggle",
+        "img": "images/items/passive_unlocks/sea_chart.png",
+        "codes": "scroll"
+    },
+    
+    {
+        "name": "Life Tree Fruit",
+        "type": "toggle",
+        "img": "images/items/passive_unlocks/ltf.png",
+        "codes": "life_fruit"
+    },
+    
+    {
+        "name": "Scrapper",
+        "type": "toggle",
+        "img": "images/items/passive_unlocks/Scrapper.png",
+        "codes": "scrapper"
+    },
+    
+    {
+        "name": "Cawlin's Letter",
+        "type": "toggle",
+        "img": "images/items/passive_unlocks/cawlins_letter.png",
+        "codes": "letter"
+    },
+    
+    {
+        "name": "Horned Colossus Beetle",
+        "type": "toggle",
+        "img": "images/items/passive_unlocks/cbeetle.png",
+        "codes": "colossus_beetle"
+    },
+    
+    {
+        "name": "Baby Rattle",
+        "type": "toggle",
+        "img": "images/items/passive_unlocks/rattle.png",
+        "codes": "rattle"
+    },
+    
+    {
+        "name": "Gratitude Crystals",
+        "type": "consumable",
+        "img": "images/items/passive_unlocks/crystal.png",
+        "max_quantity": 80,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_background": "#000000",
+        "overlay_font_size": 12,
+        "allow_disabled": true,
+        "codes": "crystals"
+    },
+    
+    {
+        "name": "Skyview Small Keys",
+        "type": "progressive",
+        "allow_disabled": "false",
+        "loop": true,
+        "stages": [
+          {
+            "img": "images/items/dungeons/noSmallKey.png",
+            "codes": "no_sv_smallkey"
+          },
+          {
+            "img": "images/items/dungeons/1_smallKey.png",
+            "codes": "one_sv_smallkey"
+          },
+          {
+            "img": "images/items/dungeons/2_smallKey.png",
+            "codes": "two_sv_smallkey"
+          }
+        ],
+        "codes": "sv_keys"
+    },
+    
+    {
+        "name": "Skyview Boss Key",
+        "type": "toggle",
+        "img": "images/items/dungeons/SS_Golden_Carving_Icon.png",
+        "codes": "sv_boss_key"
+    },
+    
+    {
+        "name": "Skyview Temple",
+        "type": "toggle",
+        "img": "images/items/dungeons/SV.png",
+        "codes": "sv_requirement"
+    },
+    
+    {
+        "name": "Earth Temple Key Pieces",
+        "type": "progressive",
+        "allow_disabled": "false",
+        "loop": true,
+        "stages": [
+          {
+            "img": "images/items/dungeons/et_key_0.png",
+            "codes": "et_key_0"
+          },
+          {
+            "img": "images/items/dungeons/et_key_1.png",
+            "codes": "et_key_1"
+          },
+          {
+            "img": "images/items/dungeons/et_key_2.png",
+            "codes": "et_key_2"
+          },
+          {
+            "img": "images/items/dungeons/et_key_3.png",
+            "codes": "et_key_3"
+          },
+          {
+            "img": "images/items/dungeons/et_key_4.png",
+            "codes": "et_key_4"
+          },
+          {
+            "img": "images/items/dungeons/et_key_5.png",
+            "codes": "et_key_5"
+          }
+        ],
+        "codes": "et_key_pieces"
+    },
+    
+    {
+        "name": "Earth Temple Boss Key",
+        "type": "toggle",
+        "img": "images/items/dungeons/SS_Dragon_Sculpture_Icon.png",
+        "codes": "et_boss_key"
+    },
+    
+    {
+        "name": "Earth Temple",
+        "type": "toggle",
+        "img": "images/items/dungeons/ET.png",
+        "codes": "et_requirement"
+    },
+    
+    {
+        "name": "Lanayru Mining Facility Small Key",
+        "type": "progressive",
+        "allow_disabled": "false",
+        "loop": true,
+        "stages": [
+          {
+            "img": "images/items/dungeons/noSmallKey.png",
+            "codes": "no_lmf_smallkey"
+          },
+          {   
+            "img": "images/items/dungeons/1_smallKey.png",
+            "codes": "lmf_smallkey"
+          }
+        ],
+        "codes": "lmf_key"
+    },
+    
+    {
+        "name": "Lanayru Mining Facility Boss Key",
+        "type": "toggle",
+        "img": "images/items/dungeons/SS_Ancient_Circuit_Icon.png",
+        "codes": "lmf_boss_key"
+    },
+    
+    {
+        "name": "Lanayru Mining Facility",
+        "type": "toggle",
+        "img": "images/items/dungeons/LMF.png",
+        "codes": "lmf_requirement"
+    },
+    
+    {
+        "name": "Ancient Cistern Small Key",
+        "type": "progressive",
+        "allow_disabled": "false",
+        "loop": true,
+        "stages": [
+          {
+            "img": "images/items/dungeons/noSmallKey.png",
+            "codes": "no_ac_smallkey"
+          },
+          {  
+            "img": "images/items/dungeons/1_smallKey.png",
+            "codes": "one_ac_smallkey"
+          },
+          {  
+            "img": "images/items/dungeons/2_smallKey.png",
+            "codes": "two_ac_smallkey"
+          }
+        ],
+        "codes": "ac_keys"
+    },
+    
+    {
+        "name": "Ancient Cistern Boss Key",
+        "type": "toggle",
+        "img": "images/items/dungeons/SS_Blessed_Idol_Icon.png",
+        "codes": "ac_boss_key"
+    },
+    
+    {
+        "name": "Ancient Cistern",
+        "type": "toggle",
+        "img": "images/items/dungeons/AC.png",
+        "codes": "ac_requirement"
+    },
+    
+    {
+        "name": "Sandship Small Key",
+        "type": "progressive",
+        "allow_disabled": "false",
+        "loop": true,
+        "stages": [
+          {
+            "img": "images/items/dungeons/noSmallKey.png",
+            "codes": "no_ssh_smallkey"
+          },
+          {   
+            "img": "images/items/dungeons/1_smallKey.png",
+            "codes": "one_ssh_smallkey"
+          },
+          {
+            "img": "images/items/dungeons/2_smallKey.png",
+            "codes": "two_ssh_smallkey"
+          }
+        ],
+        "codes": "ssh_keys"
+    },
+    
+    {
+        "name": "Sandship Boss Key",
+        "type": "toggle",
+        "img": "images/items/dungeons/SS_Squid_Carving_Icon.png",
+        "codes": "ssh_boss_key"
+    },
+    
+    {
+        "name": "Sandship",
+        "type": "toggle",
+        "img": "images/items/dungeons/SSH.png",
+        "codes": "ssh_requirement"
+    },
+    
+    {
+        "name": "Fire Sanctuary Small Key",
+        "type": "progressive",
+        "allow_disabled": "false",
+        "loop": true,
+        "stages": [
+          {
+            "img": "images/items/dungeons/noSmallKey.png",
+            "codes": "no_fs_smallkey"
+          },
+          {
+            "img": "images/items/dungeons/1_smallKey.png",
+            "codes": "one_fs_smallkey"
+          },
+          {    
+            "img": "images/items/dungeons/2_smallKey.png",
+            "codes": "two_fs_smallkey"
+          },
+          {   
+            "img": "images/items/dungeons/3_smallKey.png",
+            "codes": "three_fs_smallkey"
+          }
+        ],
+        "codes": "fs_keys"
+    },
+    
+    {
+        "name": "Fire Sanctuary Boss Key",
+        "type": "toggle",
+        "img": "images/items/dungeons/SS_Mysterious_Crystals_Icon.png",
+        "codes": "fs_boss_key"
+    },
+    
+    {
+        "name": "Fire Sanctuary",
+        "type": "toggle",
+        "img": "images/items/dungeons/FS.png",
+        "codes": "fs_requirement"
+    },
+    
+    {
+        "name": "Sky Keep Small Key",
+        "type": "progressive",
+        "allow_disabled": "false",
+        "loop": true,
+        "stages": [
+          {
+            "img": "images/items/dungeons/noSmallKey.png",
+            "codes": "no_sk_smallkey"
+          },
+          {
+            "img": "images/items/dungeons/1_smallKey.png",
+            "codes": "sk_smallkey"
+          }
+        ],
+        "codes": "sk_key"
+    },
+    
+    {
+        "name": "Stone of Trials",
+        "type": "toggle",
+        "img": "images/items/dungeons/Stone_of_Trials.png",
+        "codes": "stone_of_trials"
+    },
+    
+    {
+        "name": "Skykeep",
+        "type": "toggle",
+        "img": "images/items/dungeons/SK.png",
+        "codes": "sk_requirement"
+    }
+]
+
+/*
+[  
+  {
+    "name": "Sword",
+    "type": "toggle",
+    "img": "images/items/sword.png",
+    "codes": "sword"
+  },
+  {
+    "name": "White Sword",
+    "type": "toggle",
+    "img": "images/items/sword2.png",
+    "codes": "sword2"
+  },
+  {
+    "name": "Magical Sword",
+    "type": "toggle",
+    "img": "images/items/sword3.png",
+    "codes": "sword3"
+  },
+  {
+    "name": "Magical Shield",
+    "type": "toggle",
+    "img": "images/items/shield2.png",
+    "codes": "shield2"
+  },
+  {
+    "name": "Blue Candle",
+    "type": "toggle",
+    "img": "images/items/bluecandle.png",
+    "codes": "candle"
+  },
+  {
+    "name": "Red Candle",
+    "type": "toggle",
+    "img": "images/items/redcandle.png",
+    "codes": "candle2"
+  },
+  {
+    "name": "Candles",
+    "type": "composite_toggle",
+    "item_left": "candle",
+    "item_right": "candle2",
+    "codes": "bothcandles",
+    "images": [
+      {
+        "left": false,
+        "right": false,
+        "img": "images/items/bothcandles_a.png"
+      },
+      {
+        "left": true,
+        "right": false,
+        "img": "images/items/bothcandles_b.png"
+      },
+      {
+        "left": false,
+        "right": true,
+        "img": "images/items/bothcandles_c.png"
+      },
+      {
+        "left": true,
+        "right": true,
+        "img": "images/items/bothcandles_d.png"
+      }
+    ]
+  },
+  {
+    "name": "Boomerang",
+    "type": "toggle",
+    "img": "images/items/boomerang.png",
+    "codes": "boomerang"
+  },
+  {
+    "name": "Magic Boomerang",
+    "type": "toggle",
+    "img": "images/items/boomerang2.png",
+    "codes": "boomerang2"
+  },
+  {
+    "name": "Boomerangs",
+    "type": "composite_toggle",
+    "item_left": "boomerang",
+    "item_right": "boomerang2",
+    "codes": "bothboomers",
+    "images": [
+      {
+        "left": false,
+        "right": false,
+        "img": "images/items/bothboomerangs_a.png"
+      },
+      {
+        "left": true,
+        "right": false,
+        "img": "images/items/bothboomerangs_b.png"
+      },
+      {
+        "left": false,
+        "right": true,
+        "img": "images/items/bothboomerangs_c.png"
+      },
+      {
+        "left": true,
+        "right": true,
+        "img": "images/items/bothboomerangs_d.png"
+      }
+    ]
+  },
+  {
+    "name": "Bomb",
+    "type": "toggle",
+    "img": "images/items/bomb.png",
+    "codes": "bomb"
+  },
+  {
+    "name": "Bow",
+    "type": "toggle",
+    "img": "images/items/bow.png",
+    "codes": "bow"
+  },
+  {
+    "name": "Recorder",
+    "type": "toggle",
+    "img": "images/items/flute.png",
+    "codes": "flute"
+  },
+  {
+    "name": "Food",
+    "type": "toggle",
+    "img": "images/items/food.png",
+    "codes": "food"
+  },
+  {
+    "name": "Letter",
+    "type": "toggle",
+    "img": "images/items/letter.png",
+    "codes": "letter"
+  },
+  {
+    "name": "Magic Rod",
+    "type": "toggle",
+    "img": "images/items/magicrod.png",
+    "codes": "magicrod"
+  },
+  {
+    "name": "Book of Magic",
+    "type": "toggle",
+    "img": "images/items/magicbook.png",
+    "codes": "magicbook"
+  },
+  {
+    "name": "Power Bracelet",
+    "type": "toggle",
+    "img": "images/items/bracelet.png",
+    "codes": "bracelet"
+  },
+  {
+    "name": "Magical Key",
+    "type": "toggle",
+    "img": "images/items/magickey.png",
+    "codes": "magickey"
+  },
+  {
+    "name": "Raft",
+    "type": "toggle",
+    "img": "images/items/raft.png",
+    "codes": "raft"
+  },
+  {
+    "name": "Stepladder",
+    "type": "toggle",
+    "img": "images/items/ladder.png",
+    "codes": "ladder"
+  },
+  {
+    "name": "Blue Ring",
+    "type": "toggle",
+    "img": "images/items/bluering.png",
+    "codes": "bluering"
+  },
+  {
+    "name": "Red Ring",
+    "type": "toggle",
+    "img": "images/items/redring.png",
+    "codes": "redring"
+  },
+  {
+    "name": "Blue/Red Ring",
+    "type": "composite_toggle",
+    "item_left": "bluering",
+    "item_right": "redring",
+    "codes": "bothrings",
+    "images": [
+      {
+        "left": false,
+        "right": false,
+        "img": "images/items/bothrings_a.png"
+      },
+      {
+        "left": true,
+        "right": false,
+        "img": "images/items/bothrings_b.png"
+      },
+      {
+        "left": false,
+        "right": true,
+        "img": "images/items/bothrings_c.png"
+      },
+      {
+        "left": true,
+        "right": true,
+        "img": "images/items/bothrings_d.png"
+      }
+    ]
+  },
+  {
+    "name": "Arrows",
+    "type": "toggle",
+    "img": "images/items/arrow.png",
+    "codes": "arrow"
+  },
+  {
+    "name": "Silver Arrows",
+    "type": "toggle",
+    "img": "images/items/arrow2.png",
+    "codes": "arrow2"
+  },
+  {
+    "name": "Arrows/Silver Arrows",
+    "type": "composite_toggle",
+    "item_left": "arrow",
+    "item_right": "arrow2",
+    "codes": "botharrows",
+    "images": [
+      {
+        "left": false,
+        "right": false,
+        "img": "images/items/botharrows_a.png"
+      },
+      {
+        "left": true,
+        "right": false,
+        "img": "images/items/botharrows_b.png"
+      },
+      {
+        "left": false,
+        "right": true,
+        "img": "images/items/botharrows_c.png"
+      },
+      {
+        "left": true,
+        "right": true,
+        "img": "images/items/botharrows_d.png"
+      }
+    ]
+  },
+  {
+    "name": "Small Key",
+    "type": "consumable",
+    "img": "images/items/smallkey.png",
+    "max_quantity": 45,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "overlay_background": "#000000",
+    "overlay_font_size": 12,
+    "codes": "smallkey"
+  },
+  {
+    "name": "Triforce Pieces",
+    "type": "consumable",
+    "img": "images/items/triforce.png",
+    "max_quantity": 8,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "overlay_background": "#000000",
+    "overlay_font_size": 12,
+    "codes": "triforce"
+  },
+  {
+    "name": "Heart Containers",
+    "type": "consumable",
+    "img": "images/items/heart.png",
+    "max_quantity": 13,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "overlay_background": "#000000",
+    "overlay_font_size": 12,
+    "allow_disabled": true,
+    "codes": "heart"
+  },
+  {
+    "name": "Starting Position",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/items/safe.png",
+        "codes": "safe",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/unsafe.png",
+        "codes": "unsafe",
+        "inherit_codes": true
+      },
+      {
+        "img": "images/items/dangerous.png",
+        "codes": "dangerous",
+        "inherit_codes": true
+      }
+    ]
+  },
+  {
+    "name": "Expanded Pool",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/items/pooltrue.png",
+        "codes": "pooltrue",
+        "inherit_codes": false
+      },
+      {
+        "img": "images/items/poolfalse.png",
+        "codes": "poolfalse",
+        "inherit_codes": false
+      }
+    ]
+  },
+  {
+    "name": "Starting Position Button",
+    "type": "toggle",
+    "img": "images/items/positionbutton.png",
+    "codes": "positionbutton",
+    "allow_disabled": false
+  },
+  {
+    "name": "Expanded Pool Button",
+    "type": "toggle",
+    "img": "images/items/poolbutton.png",
+    "codes": "poolbutton",
+    "allow_disabled": false
+  },
+  {
+    "name": "Zelda",
+    "type": "toggle",
+    "img": "images/icons/Zelda.png",
+    "codes": "zelda"
+  },
+  {
+    "name": "Ganon",
+    "type": "toggle",
+    "img": "images/icons/Ganon.png",
+    "codes": "ganon"
+  },
+  {
+    "name": "Shield Shop",
+    "type": "toggle",
+    "img": "images/icons/shieldshop.png",
+    "codes": "shieldshop",
+    "allow_disabled": false
+  },
+  {
+    "name": "Potion Shop",
+    "type": "toggle",
+    "img": "images/icons/potionshop.png",
+    "codes": "potionshop",
+    "allow_disabled": false
+  },
+  {
+    "name": "Candle Shop",
+    "type": "toggle",
+    "img": "images/icons/candleshop.png",
+    "codes": "candleshop",
+    "allow_disabled": false
+  },
+  {
+    "name": "Arrow Shop",
+    "type": "toggle",
+    "img": "images/icons/arrowshop.png",
+    "codes": "arrowshop",
+    "allow_disabled": false
+  },
+  {
+    "name": "Blue Ring Shop",
+    "type": "toggle",
+    "img": "images/icons/ringshop.png",
+    "codes": "ringshop",
+    "allow_disabled": false
+  }
+]
+*/

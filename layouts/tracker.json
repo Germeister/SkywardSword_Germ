@@ -1,0 +1,191 @@
+﻿{
+  "tracker_default": {
+    "type": "container",
+    "background": "#000000",
+    "content": {
+      "type": "dock",
+      "dropshadow": true,
+      "content": [
+        {
+          "type": "dock",
+          "dock": "bottom",
+          "v_alignment": "stretch",
+          "content": [
+            {
+              "type": "group",
+              "header": "Sword",
+              "dock": "left",
+              "content": {
+                "type": "layout",
+                "key": "sword_ui"
+              }
+            },
+            {
+                "type": "group",
+                "header": "B Items",
+                "dock": "left",
+                "content": {
+                    "type": "layout",
+                    "key": "b_item_grid"
+                }
+            },
+            {
+                "type": "group",
+                "header": "Story Items",
+                "dock": "left",
+                "content": {
+                    "type": "layout",
+                    "key": "story_item_grid"
+                }
+            },
+            {
+                "type": "group",
+                "header": "Harp & Songs",
+                "dock": "left",
+                "content": {
+                    "type": "layout",
+                    "key": "music"
+                }
+            },
+            {
+                "type": "group",
+                "header": "Misc. Items",
+                "dock": "left",
+                "content": {
+                    "type": "layout",
+                    "key": "other"
+                }
+            },
+            {
+                "type": "group",
+                "header": "Special Items",
+                "dock": "left",
+                "content": {
+                    "type": "layout",
+                    "key": "special"
+                }
+            }
+             
+            /*
+              ,
+            {
+              "type": "group",
+              "header": "Shops",
+              "dock": "left",
+              "content": {
+                "type": "layout",
+                "key": "shop_grid"
+              }
+            },
+            {
+              "type": "group",
+              "header": "*Track shops",
+              "dock": "left",
+              "content": {
+                "type": "layout",
+                "key": "shop_grid2"
+              }
+            },
+            {
+              "type": "group",
+              "header": "Settings",
+              "dock": "right",
+              "content": {
+                "type": "layout",
+                "key": "settings_grid"
+              }
+            }
+            */
+          ]
+        },
+        { 
+            "type": "array",
+            "dock": "top",
+            "orientation": "horizontal",
+            "content": [
+                {"type": "layout",
+                "key": "sv",
+                },
+                {"type": "layout",
+                "key": "et",
+                },
+                {"type": "layout",
+                "key": "lmf",
+                },
+                {"type": "layout",
+                "key": "ac",
+                },
+                {"type": "layout",
+                "key": "ssh",
+                },
+                {"type": "layout",
+                "key": "fs",
+                },
+                {"type": "layout",
+                "key": "sk",
+                }
+            ]
+        },
+        {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "Skyloft",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Skyloft"
+                ]
+              }
+            },
+            {
+              "title": "Faron Woods",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Faron Woods"
+                ]
+              }
+            },
+            {
+              "title": "Eldin Volcano",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Eldin Volcano"
+                ]
+              }
+            },
+            {
+              "title": "Lanayru Desert",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Lanayru Desert"
+                ]
+              }
+            },
+            {
+              "title": "The Sky",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "The Sky"
+                ]
+              }
+            },
+            {
+              "title": "The Thunderhead",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "The Thunderhead"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

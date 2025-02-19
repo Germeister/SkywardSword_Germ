@@ -1,0 +1,7 @@
+.contributor {
+    display: flex;
+    flex-flow: row nowrap;
+    gap: 4px;
+    align-items: center;
+    justify-content: center;
+}

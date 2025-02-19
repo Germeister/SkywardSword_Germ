@@ -1,0 +1,19 @@
+.counterItemContainer {
+    container-type: inline-size;
+    position: relative;
+}
+
+.counter {
+    font-size: 50cqw;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: grey;
+    width: 40%;
+    height: 60%;
+    pointer-events: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

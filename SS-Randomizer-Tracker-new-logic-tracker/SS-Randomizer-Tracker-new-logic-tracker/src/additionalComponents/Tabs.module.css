@@ -1,0 +1,35 @@
+.tabsList {
+    border-bottom: 1px solid #dee2e6;
+}
+
+.tabsButton {
+    border: none;
+    color: var(--scheme-interact);
+    background-color: transparent;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid transparent;
+    margin-bottom: -1px;
+
+    &[data-state='active'],
+    &:hover {
+        border-color: #dee2e6;
+        border-radius: 6px 6px 0 0;
+        border-style: solid;
+        border-width: 1px;
+        border-bottom-color: var(--scheme-background);
+        background-color: var(--scheme-background);
+    }
+
+    &:hover {
+        color: var(--scheme-interact-hover) !important;
+    }
+
+    &[data-state='active'] {
+        color: var(--scheme-text) !important;
+    }
+
+    transition:
+        background-color 150ms ease-out,
+        border-color 150ms ease-out;
+}

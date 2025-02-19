@@ -1,0 +1,59 @@
+# This workflow will do a clean install of node dependencies, cache/restore them, build the source code and run tests across different versions of node
+# For more information see: https://help.github.com/actions/language-and-framework-guides/using-nodejs-with-github-actions
+
+name: Node.js CI
+
+on: [ push, pull_request ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [20.x, 23.x]
+        # See supported Node.js release schedule at https://nodejs.org/en/about/releases/
+
+    steps:
+    - uses: actions/checkout@v4
+    - name: Use Node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v4
+      with:
+        node-version: ${{ matrix.node-version }}
+        cache: 'npm'
+    - run: npm install
+    - run: npm run build
+    - run: npm run test
+    - run: npm run lint
+    - name: Upload a Build Artifact
+      uses: actions/upload-artifact@v4
+      with:
+        name: SSR-Tracker-Build-${{ matrix.node-version }}
+        
+        # A file, directory or wildcard pattern that describes what to upload
+        path: build
+
+  deploy:
+    runs-on: ubuntu-latest
+    needs: build
+    if: github.event_name == 'push' && github.ref == 'refs/heads/new-logic-tracker'
+    steps:
+      - uses: actions/checkout@v4
+      - name: Use Node.js 23.x
+        uses: actions/setup-node@v4
+        with:
+          node-version: 23.x
+          cache: 'npm'
+      - run: npm install
+      - run: npm run build
+      # All paths should resolve to index.html, but on GitHub
+      # Pages our only workaround is serving the app from 404 too
+      - run: cp build/index.html build/404.html
+      - name: Deploy
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: gh-pages
+          build_dir: build # The folder the action should deploy.
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

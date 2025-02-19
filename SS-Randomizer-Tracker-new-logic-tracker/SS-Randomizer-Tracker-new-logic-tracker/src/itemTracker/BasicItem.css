@@ -1,0 +1,12 @@
+@layer common {
+    /* this should be a :global class but vite simply doesn't generate a class name here??? */
+    .item-container {
+        user-select: none;
+        outline-style: none;
+        display: flex;
+        touch-action: none;
+        > img {
+            width: 100%;
+        }
+    }
+}

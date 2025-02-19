@@ -1,0 +1,412 @@
+{
+    "sword_ui": {
+        "type": "item",
+        "margin": "0,10",
+        //"item_margin":
+        //"item_size":
+        "item": "sword"
+    },
+    
+    "b_item_grid": {
+        "type": "itemgrid",
+        "item_margin": "0,10",
+        "margin": "0,0",
+        "item_size": "5,5",
+        "h_alignment": "left",
+        "rows": [
+            [
+                "bow", "bombs", "beetle", "bugnet"
+            ],
+            [
+                "slingshot", "clawshots", "whip", "gust_bellows"
+            ]
+        ]
+    },
+    "story_item_grid": {
+        "type": "itemgrid",
+        "item_margin": "5,10",
+        "margin": "0,0",
+        "item_size": "5,5",
+        "h_alignment": "left",
+        "rows": [
+            [
+                "triforce", "emerald_tablet","ruby_tablet","amber_tablet"
+            ]
+        ]
+    },
+    "music": {
+        "type": "itemgrid",
+        "item_margin": "5,10",
+        "margin": "0,0",
+        "item_size": "5,5",
+        "h_alignment": "left",
+        "rows": [
+            [
+                "harp", "courage","power","wisdom"
+            ],
+            [
+                "ballad", "hero"
+            ]
+        ]
+    },
+    
+    "other": {
+        "type": "itemgrid",
+        "item_margin": "5,10",
+        "margin": "0,0",
+        "item_size": "4,4",
+        "h_alignment": "left",
+        "rows": [
+            [
+                "wallet", "wallet_bonus", "scale","earrings","mitts"
+            ],
+            [
+                "pouch", "bottle", "spiral", "tadtones", "cave_key", "scroll", "life_fruit", "scrapper"
+            ]
+        ]
+    },
+    
+    "special": {
+        "type": "itemgrid",
+        "item_margin": "5,10",
+        "margin": "0,0",
+        "item_size": "4,4",
+        "h_alignment": "left",
+        "rows": [
+            [
+                "letter", "colossus_beetle", "rattle", "crystals"
+            ],
+        ]
+    },
+    "sv": {
+        "type": "itemgrid",
+        "item_margin": "5,10",
+        "item_size": "4,4",
+        "rows": [
+            [
+                "sv_keys", "sv_boss_key"
+            ],
+            [
+                "sv_requirement"
+            ]
+        ]
+    },
+    "et": {
+        "type": "itemgrid",
+        "item_margin": "5,10",
+        "item_size": "4,4",
+        "rows": [
+            [
+                "et_key_pieces", "et_boss_key"
+            ],
+            [
+                "et_requirement"
+            ]
+        ]
+    },
+    "lmf": {
+        "type": "itemgrid",
+        "item_margin": "5,10",
+        "item_size": "4,4",
+        "rows": [
+            [
+                "lmf_key", "lmf_boss_key"
+            ],
+            [
+                "lmf_requirement"
+            ]
+        ]
+    },
+    "ac": {
+        "type": "itemgrid",
+        "item_margin": "5,10",
+        "item_size": "4,4",
+        "rows": [
+            [
+                "ac_keys", "ac_boss_key"
+            ],
+            [
+                "ac_requirement"
+            ]
+        ]
+    },
+    "ssh": {
+        "type": "itemgrid",
+        "item_margin": "5,10",
+        "item_size": "4,4",
+        "rows": [
+            [
+                "ssh_keys", "ssh_boss_key"
+            ],
+            [
+                "ssh_requirement"
+            ]
+        ]
+    },
+    "fs": {
+        "type": "itemgrid",
+        "item_margin": "5,10",
+        "item_size": "4,4",
+        "rows": [
+            [
+                "fs_keys", "fs_boss_key"
+            ],
+            [
+                "fs_requirement"
+            ]
+        ]
+    },
+    "sk": {
+        "type": "itemgrid",
+        "item_margin": "5,10",
+        "item_size": "4,4",
+        "rows": [
+            [
+                "sk_key", "stone_of_trials"
+            ],
+            [
+                "sk_requirement"
+            ]
+        ]
+    }
+    
+}
+
+/*
+
+{
+    "shared_item_grid": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "2,2",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "vertical",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "3, 10",
+                        "margin": "0,0",
+                        "h_alignment": "left",
+                        "rows": [
+                            [
+                                "sword", "sword2", "sword3", "shield2", "bomb", "bow", "botharrows"    
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "3, 10",
+                        "margin": "0,0",
+                        "h_alignment": "left",
+                        "rows": [
+                            [
+                                "bracelet", "magicrod", "bothboomers", "bothcandles", "food", "letter", "magicbook"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "3, 10",
+                        "margin": "0,0",
+                        "h_alignment": "left",
+                        "rows": [
+                            [
+                                "flute", "raft", "ladder", "bothrings", "magickey", "heart", "triforce"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "settings_grid": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "2,2",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "vertical",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "10, 10",
+                        "margin": "10,0",
+                        "h_alignment": "left",
+                        "item_size": 100,
+                        "rows": [
+                            [
+                                "positionbutton", "safe"   
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "10, -30",
+                        "margin": "10,0",
+                        "h_alignment": "left",
+                        "item_size": 100,
+                        "rows": [
+                            [
+                                "poolbutton", "pooltrue"  
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "shop_grid": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "15,2",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "vertical",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "0, 2",
+                        "margin": "0,0",
+                        "h_alignment": "left",
+                        "item_size": 30,
+                        "rows": [
+                            [
+                                "arrowshop"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "0, 2",
+                        "margin": "0,0",
+                        "h_alignment": "left",
+                        "item_size": 30,
+                        "rows": [
+                            [
+                                "candleshop"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "0, 2",
+                        "margin": "0,0",
+                        "h_alignment": "left",
+                        "item_size": 30,
+                        "rows": [
+                            [
+                                "potionshop"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "0, 2",
+                        "margin": "0,0",
+                        "h_alignment": "left",
+                        "item_size": 30,
+                        "rows": [
+                            [
+                                "ringshop"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "0, 2",
+                        "margin": "0,0",
+                        "h_alignment": "left",
+                        "item_size": 30,
+                        "rows": [
+                            [
+                                "shieldshop"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "shop_grid2": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,4",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "vertical",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "3, 0",
+                        "margin": "0,3",
+                        "h_alignment": "left",
+                        "item_size": 26,
+                        "rows": [
+                            [
+                                "1","30","61"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "3, 0",
+                        "margin": "0,4",
+                        "h_alignment": "left",
+                        "item_size": 26,
+                        "rows": [
+                            [
+                                "91","121","151"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "3, 0",
+                        "margin": "0,4",
+                        "h_alignment": "left",
+                        "item_size": 26,
+                        "rows": [
+                            [
+                                "181","211","241"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "3, 0",
+                        "margin": "0,4",
+                        "h_alignment": "left",
+                        "item_size": 26,
+                        "rows": [
+                            [
+                                "271","301","331"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "3, 0",
+                        "margin": "0,4",
+                        "h_alignment": "left",
+                        "item_size": 26,
+                        "rows": [
+                            [
+                                "361","391","421"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
+*/

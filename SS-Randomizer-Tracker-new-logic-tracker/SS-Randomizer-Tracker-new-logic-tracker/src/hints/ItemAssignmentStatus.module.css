@@ -1,0 +1,11 @@
+.row {
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    gap: 6px;
+    height: 56px;
+}
+
+.button {
+    padding: 0px 4px;
+}

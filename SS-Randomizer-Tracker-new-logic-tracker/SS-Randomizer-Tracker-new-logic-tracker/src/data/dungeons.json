@@ -1,0 +1,9 @@
+[
+    { "hintRegion": "Skyview", "abbr": "SV", "bossNames": ["Ghirahim 1", "G1"] },
+    { "hintRegion": "Earth Temple", "abbr": "ET", "bossNames": ["Scaldera", "Scaldy"] },
+    { "hintRegion": "Lanayru Mining Facility", "abbr": "LMF", "bossNames": ["Moldarach", "Moldy"] },
+    { "hintRegion": "Ancient Cistern", "abbr": "AC", "bossNames": ["Koloktos"] },
+    { "hintRegion": "Sandship", "abbr": "SSH", "bossNames": ["Tentalus"] },
+    { "hintRegion": "Fire Sanctuary", "abbr": "FS", "bossNames": ["Ghirahim 2", "G2"] },
+    { "hintRegion": "Sky Keep", "abbr": "SK", "bossNames": [] }
+]
