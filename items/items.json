@@ -688,6 +688,36 @@
         "type": "toggle",
         "img": "images/items/dungeons/SK.png",
         "codes": "sk_requirement"
+    },
+	{
+        "name": "Rupee Sanity",
+        "type": "toggle",
+        "img": "images/icons/r_sanity.png",
+        "codes": "r_sanity"
+    },
+	{
+        "name": "Shop Sanity",
+        "type": "toggle",
+        "img": "images/icons/sh_sanity.png",
+        "codes": "sh_sanity"
+    },
+	{
+        "name": "Placeable Scrap Upgrades",
+        "type": "toggle",
+        "img": "images/icons/sc_sanity.png",
+        "codes": "sc_sanity"
+    },
+	{
+        "name": "Lanayru Key Mode",
+        "type": "toggle",
+        "img": "images/icons/key_sanity.png",
+        "codes": "key_sanity"
+    },
+	{
+        "name": "Randomize Silent Realm Entrances",
+        "type": "toggle",
+        "img": "images/icons/silent_sanity.png",
+        "codes": "silent_sanity"
     }
 ]
 

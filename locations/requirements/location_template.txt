@@ -1,0 +1,18 @@
+{
+    "name": "area_name",
+    "children": [
+        {
+            "name": "location_name",
+			"sections": [{}],
+			"access_rules": [
+                "the_rule"                              
+            ],
+            "map_locations": [
+                {
+                    "map": "area_name",
+                    "x": 1863,
+                }   "y": 1255
+			]
+		}
+	]
+}

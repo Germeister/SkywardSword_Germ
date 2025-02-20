@@ -1,0 +1,239 @@
+[{
+    "name": "The Sky",
+    "children": [
+        {
+            "name": "The Sky",
+            "sections": [
+                {
+                    "name": "Goddess Chest on Island next to Bamboo Island",
+                    "item_count": 1
+                },
+                {
+                    "name": "Goddess Chest in Cave on Island next to Bamboo Island",
+                    "item_count": 1
+                },
+                {
+                    "name": "Northeast Island Goddess Chest behind Bombable Rocks",
+                    "item_count": 1
+                },
+                {
+                    "name": "Northeast Island Cage Goddess Chest",
+                    "item_count": 1
+                },
+                {
+                    "name": "Bamboo Island Goddess Chest",
+                    "item_count": 1
+                },
+                {
+                    "name": "Crystal on Beedle's Ship",
+                    "item_count": 1
+                },
+                {
+                    "name": "Beedle's Crystals",
+                    "item_count": 1
+                },
+                {
+                    "name": "Beedle's Island Goddess Chest",
+                    "item_count": 1
+                },
+                {
+                    "name": "Beedle's Island Cage Goddess Chest",
+                    "item_count": 1
+                },
+                {
+                    "name": "Chest in Breakable Boulder near Lumpy Pumpkin",
+                    "item_count": 1
+                },
+                {
+                    "name": "Goddess Chest on Island Closest to Faron Pillar",
+                    "item_count": 1
+                },
+                {
+                    "name": "Crystal outside Lumpy Pumpkin",
+                    "item_count": 1
+                },
+                {
+                    "name": "Outside Goddess Chest",
+                    "item_count": 1
+                },
+                {
+                    "name": "Goddess Chest on the Roof",
+                    "item_count": 1
+                },
+                {
+                    "name": "Start Kina's Quest",
+                    "item_count": 1
+                },
+                {
+                    "name": "Kina's Crystals",
+                    "item_count": 1
+                },
+                {
+                    "name": "Gossip Stone on Lumpy Pumpkin",
+                    "item_count": 1
+                },
+                {
+                    "name": "Pumpkin Carrying",
+                    "item_count": 1
+                },
+                {
+                    "name": "Chandelier",
+                    "item_count": 1
+                },
+                {
+                    "name": "Crystal inside Lumpy Pumpkin",
+                    "item_count": 1
+                },
+                {
+                    "name": "Break the Chandelier",
+                    "item_count": 1
+                },
+                {
+                    "name": "Start Hot Soup Delivery",
+                    "item_count": 1
+                },
+                {
+                    "name": "Complete Hot Soup Delivery",
+                    "item_count": 1
+                },
+                {
+                    "name": "Play the Harp with Kina",
+                    "item_count": 1
+                },
+                {
+                    "name": "Harp Minigame",
+                    "item_count": 1
+                },
+                {
+                    "name": "Pick up Levias' Soup",
+                    "item_count": 1
+                },
+                {
+                    "name": "Chest in Breakable Boulder near Fun Fun Island",
+                    "item_count": 1
+                },
+                {
+                    "name": "Goddess Chest outside Volcanic Island",
+                    "item_count": 1
+                },
+                {
+                    "name": "Goddess Chest inside Volcanic Island",
+                    "item_count": 1
+                },
+                {
+                    "name": "Gossip Stone on Volcanic Island",
+                    "item_count": 1
+                },
+                {
+                    "name": "Talk to Orielle",
+                    "item_count": 1
+                },
+                {
+                    "name": "Save Orielle",
+                    "item_count": 1
+                },
+                {
+                    "name": "Orielle's Crystals",
+                    "item_count": 1
+                },
+                {
+                    "name": "Start Dodoh's Quest",
+                    "item_count": 1
+                },
+                {
+                    "name": "Dodoh's Crystals",
+                    "item_count": 1
+                },
+                {
+                    "name": "Fun Fun Island Minigame -- 500 Rupees",
+                    "item_count": 1
+                },
+                {
+                    "name": "Goddess Chest under Fun Fun Island",
+                    "item_count": 1
+                },
+                {
+                    "name": "Fun Fun Island Minigame",
+                    "item_count": 1
+                },
+                {
+                    "name": "Southwest Triple Island Upper Goddess Chest",
+                    "item_count": 1
+                },
+                {
+                    "name": "Southwest Triple Island Lower Goddess Chest",
+                    "item_count": 1
+                },
+                {
+                    "name": "Southwest Triple Island Cage Goddess Chest",
+                    "item_count": 1
+                },
+                {
+                    "name": "Song from Levias",
+                    "item_count": 1
+                },
+                {
+                    "name": "Goddess Chest outside Isle of Songs",
+                    "item_count": 1
+                },
+                {
+                    "name": "Goddess Chest on top of Isle of Songs",
+                    "item_count": 1
+                },
+                {
+                    "name": "Puzzle Solved",
+                    "item_count": 1
+                },
+                {
+                    "name": "Strike Crest with Goddess Sword",
+                    "item_count": 1
+                },
+                {
+                    "name": "Strike Crest with Longsword",
+                    "item_count": 1
+                },
+                {
+                    "name": "Strike Crest with White Sword",
+                    "item_count": 1
+                },
+                {
+                    "name": "East Island Goddess Chest",
+                    "item_count": 1
+                },
+                {
+                    "name": "East Island Chest",
+                    "item_count": 1
+                },
+                {
+                    "name": "First Goddess Chest on Mogma Mitts Island",
+                    "item_count": 1
+                },
+                {
+                    "name": "Second Goddess Chest on Mogma Mitts Island",
+                    "item_count": 1
+                },
+                {
+                    "name": "Bug Heaven -- 10 Bugs in 3 Minutes",
+                    "item_count": 1
+                },
+                {
+                    "name": "Bug Heaven Goddess Chest",
+                    "item_count": 1
+                },
+                {
+                    "name": "Gossip Stone near Bug Heaven",
+                    "item_count": 1
+                }
+                
+            ],
+            "map_locations": [
+                {
+                    "map": "The Sky",
+                    "x": 425,
+                    "y": 200
+                }
+            ]
+        }
+    ]
+}]
+

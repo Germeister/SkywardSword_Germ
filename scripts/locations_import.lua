@@ -1,0 +1,7 @@
+Tracker:AddLocations("locations/Eldin Province.json")
+Tracker:AddLocations("locations/Faron Province.json")
+Tracker:AddLocations("locations/Lanayru Province.json")
+Tracker:AddLocations("locations/Skyloft.json")
+Tracker:AddLocations("locations/The Sky.json")
+Tracker:AddLocations("locations/The Thunderhead.json")
+--Tracker:AddLocations("locations/Overworld.json")

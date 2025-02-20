@@ -104,26 +104,41 @@
             "orientation": "horizontal",
             "content": [
                 {"type": "layout",
-                "key": "sv",
+                "key": "sv"
                 },
                 {"type": "layout",
-                "key": "et",
+                "key": "et"
                 },
                 {"type": "layout",
-                "key": "lmf",
+                "key": "lmf"
                 },
                 {"type": "layout",
-                "key": "ac",
+                "key": "ac"
                 },
                 {"type": "layout",
-                "key": "ssh",
+                "key": "ssh"
                 },
                 {"type": "layout",
-                "key": "fs",
+                "key": "fs"
                 },
                 {"type": "layout",
-                "key": "sk",
-                }
+                "key": "sk"
+                },
+				{"type": "layout",
+                "key": "rupeesanity"
+                },
+				{"type": "layout",
+                "key": "shopsanity"
+                },
+				{"type": "layout",
+                "key": "scrapupgrades"
+                },
+				{"type": "layout",
+                "key": "keymode"
+                },
+				{"type": "layout",
+                "key": "randomizesilentrealm"
+                },
             ]
         },
         {
@@ -139,29 +154,29 @@
               }
             },
             {
-              "title": "Faron Woods",
+              "title": "Faron Province",
               "content": {
                 "type": "map",
                 "maps": [
-                  "Faron Woods"
+                  "Faron Province"
                 ]
               }
             },
             {
-              "title": "Eldin Volcano",
+              "title": "Eldin Province",
               "content": {
                 "type": "map",
                 "maps": [
-                  "Eldin Volcano"
+                  "Eldin Province"
                 ]
               }
             },
             {
-              "title": "Lanayru Desert",
+              "title": "Lanayru Province",
               "content": {
                 "type": "map",
                 "maps": [
-                  "Lanayru Desert"
+                  "Lanayru Province"
                 ]
               }
             },

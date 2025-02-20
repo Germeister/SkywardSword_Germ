@@ -1,38 +1,38 @@
 [
     {
         "name": "Skyloft",
-        "location_size": 40,
-        "location_border_thickness": 9,
+        "location_size": 5,
+        "location_border_thickness": 3,
         "img": "images/maps/Skyloft.png"
     },
     {
-        "name": "Faron Woods",
-        "location_size": 10,
-        "location_border_thickness": 9,
+        "name": "Faron Province",
+        "location_size": 5,
+        "location_border_thickness": 2,
         "img": "images/maps/Faron.png"
     },
     {
-        "name": "Eldin Volcano",
-        "location_size": 40,
-        "location_border_thickness": 9,
+        "name": "Eldin Province",
+        "location_size": 5,
+        "location_border_thickness": 2,
         "img": "images/maps/Eldin.png"
     },
     {
-        "name": "Lanayru Desert",
-        "location_size": 40,
-        "location_border_thickness": 9,
+        "name": "Lanayru Province",
+        "location_size": 5,
+        "location_border_thickness": 2,
         "img": "images/maps/Lanayru.png"
     },
     {
         "name": "The Sky",
-        "location_size": 40,
-        "location_border_thickness": 9,
+        "location_size": 5,
+        "location_border_thickness": 3,
         "img": "images/maps/Sky.png"
     },
     {
         "name": "The Thunderhead",
-        "location_size": 40,
-        "location_border_thickness": 9,
+        "location_size": 5,
+        "location_border_thickness": 3,
         "img": "images/maps/Sky.png"
     }
   

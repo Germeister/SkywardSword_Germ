@@ -1,0 +1,338 @@
+allowed-time-of-day: DayOnly
+
+# SEALED GROUNDS
+Sealed Grounds:
+  hint-region: Sealed Grounds
+
+  Spiral:
+    toplevel-alias: Sealed Grounds Spiral
+    exits:
+      Upper Part: Defeat Imprisoned 2
+      Door: Nothing
+    locations:
+      Defeat Imprisoned 2: Sealed Temple - Start Imprisoned 2 & Goddess Sword
+
+    Upper Part:
+      exits:
+        Statue: Unlock Statue
+        Spiral: Nothing
+      locations:
+        Unlock Statue: Nothing
+
+      From Behind the Temple:
+        entrance: Nothing
+        exits:
+          Upper Part: Nothing
+          Shortcut Exit to Behind the Temple: Nothing
+
+  Sealed Temple:
+    exits:
+      Main Exit: Nothing
+      Side Exit: Nothing
+      Gate of Time: Open Gate of Time
+    locations:
+      Chest inside Sealed Temple: Nothing
+      Song from Impa: Goddess's Harp
+      Raise Gate of Time: GoT Raising Requirement
+      Start Imprisoned 2: Raise Gate of Time & GoT Opening Requirement
+      Open Gate of Time: Raise Gate of Time & GoT Opening Requirement & Spiral - Defeat Imprisoned 2
+
+  Hylia's Temple:
+    exits:
+      Gate of Time: Nothing
+    locations:
+      Zelda's Blessing: Nothing
+      Defeat Demise: Horde Door Requirement & Sword
+
+  Behind the Temple:
+    exits:
+      Statue: Unlock Statue
+      Door: Nothing
+      Exit to Faron Woods: Nothing
+      Shortcut Exit to Spiral: Nothing
+    locations:
+      Unlock Statue: Nothing
+      Gossip Stone behind the Temple: Nothing
+      Gorko's Goddess Wall Reward: Goddess's Harp & Ballad of the Goddess & Goddess Sword
+
+# FARON WOODS
+Faron Woods:
+  toplevel-alias: Faron Woods
+  hint-region: Faron Woods
+  exits:
+    Entry: Nothing
+    In the Woods Statue Entrance: Impossible
+    Viewing Platform Statue Entrance: Impossible
+    Shared Statue Exit: Unlock In the Woods Statue | Unlock Viewing Platform Statue
+    Door to Lake Floria: Sword | Bomb Bag | Door to Lake Floria - Hit Vine
+    Trial Gate: Open Trial Gate
+    Great Tree - Near Underwater Hole: Water Dragon's Scale
+    Great Tree - Platforms: Clawshots
+    Clawshot Target Branch: Clawshots
+  locations:
+    Unlock Viewing Platform Statue: Nothing
+    Unlock In the Woods Statue: Nothing
+    Push Log to Sealed Grounds: Nothing
+    Amber Relic Farming: Nothing
+    Hit Vine to Deep Woods: Distance Activator
+    Open Trial Gate: Goddess's Harp & Farore's Courage
+    Rupee on Hollow Tree Root: Nothing
+    Rupee on Hollow Tree Branch: Beetle
+    All Kikwis Saved: (Sword | Beetle) & Can Defeat Bokoblins
+    Kikwi Elder's Reward: All Kikwis Saved
+    Door to Lake Floria - Hit Vine: Beetle | Clawshots | Bow
+    Item on Tree: Nothing
+    Item behind Lower Bombable Rock: Bomb Bag
+    Chest behind Upper Bombable Rock: Bomb Bag
+
+  Entry:
+    exits:
+      Faron Woods Entry Statue Entrance: Impossible
+      Faron Woods - Shared Statue Exit: Unlock Statue
+      Faron - Faron Woods: Sword | Bomb Bag | Clawshots | Faron Woods - Push Log to Sealed Grounds
+      # Either cut trees or clawshot vines
+      Exit to Behind the Temple: Nothing
+      Ledge to Lake Floria: Early Lake Floria - Swordless Rope Floria Trick
+    locations:
+      Unlock Statue: Nothing
+
+  Ledge to Lake Floria:
+    entrance: Ledge to Lake Floria - Push Log
+    exits:
+      Faron - Faron Woods: Nothing
+      Shortcut Exit to Floria Waterfall: Nothing
+    locations:
+      Push Log: Nothing
+
+  Ledge To Deep Woods:
+    entrance: Hit Vine to Deep Woods
+    exits:
+      Faron - Faron Woods: Nothing
+      Exit to Deep Woods: Nothing
+
+  Behind the Crawlspace and Rope:
+    entrance: Bomb Bag | Behind the Crawlspace and Rope - Push Log
+    exits:
+      Faron - Faron Woods: Nothing
+    locations:
+      Push Log: Nothing
+      # Save Lopsa: Can defeat Bokoblins  # Don't include, otherwise Slingshot requires Bomb Bag
+      Retrieve Oolo: Scrapper & Skyloft - Knight Academy - Start Owlan's Quest
+
+  West Branch:
+    exits:
+      Faron Woods: Nothing
+    locations:
+      Goddess Cube on West Great Tree near Exit: Goddess Sword
+
+  Clawshot Target Branch:
+    exits:
+      Faron Woods: Nothing
+    locations:
+      Goddess Cube on East Great Tree with Clawshots Target: Goddess Sword
+
+  Rope Branch:
+    exits:
+      Faron Woods: Nothing
+    locations:
+      Goddess Cube on East Great Tree with Rope: Goddess Sword
+
+  Door to Lake Floria:
+    exits:
+      Faron Woods: Nothing
+      Lake Floria Dive: Open Door to Lake Floria | (Early Lake Floria - Fence Hop Trick & Practice Sword)
+      Ledge to Lake Floria: Early Lake Floria - Fence Hop Trick & Practice Sword
+    locations:
+      Hit Vine: Sword | Bomb Bag
+      Open Door to Lake Floria: ((Open Lake Floria option & Water Dragon's Scale) | (Great Tree - Top - Talk to Yerbal & (Goddess Sword | Talk to Yerbal option)))
+      Rupee on Platform near Floria Door: Beetle
+
+  # GREAT TREE
+  Great Tree:
+    hint-region: Faron Woods
+
+    Near Underwater Hole:
+      exits:
+        Faron - Faron Woods: Nothing
+        Underwater Hole: Water Dragon's Scale
+
+    Lower Area: # down in the water
+      exits:
+        Underwater Tunnel: Water Dragon's Scale
+        Path to Chest: Gust Bellows
+        Near Exit: Gust Bellows
+
+      Path to Chest: # area around the chest
+        exits:
+          Lower Area: Nothing
+          Near Exit: Nothing
+        locations:
+          Chest inside Great Tree: Nothing # Not even something to defeat the quadri-baba ?
+
+      Near Exit:
+        exits:
+          Lower Area: Nothing
+          Lower Exit to Platforms: Nothing
+
+    Platforms:
+      exits:
+        Lower Exit to Great Tree: Nothing
+        Upper Exit to Great Tree: Nothing
+        Faron Woods - West Branch: Nothing
+        Faron Woods: Nothing
+
+    Upper Area: # top with the moblin
+      exits:
+        Lower Area: Remove Void Plane
+        Lower Area - Path to Chest: Remove Void Plane
+        Exit to Flooded Great Tree: Nothing
+        Upper Exit to Platforms: Nothing
+        Exit to Top: Nothing
+      locations:
+        Remove Void Plane: Can Defeat Moblins
+
+    Top:
+      exits:
+        Faron - Faron Woods - Shared Statue Exit: Unlock Statue
+        The Great Tree Statue Entrance: Impossible
+        Top Exit to Great Tree: Nothing
+        Platforms: Nothing
+        Faron Woods - Rope Branch: Nothing
+        Faron Woods - Clawshot Target Branch: Nothing
+      locations:
+        Unlock Statue: Nothing
+        Rupee on Great Tree North Branch: Beetle
+        Rupee on Great Tree West Branch: Beetle
+        Talk to Yerbal: Water Dragon's Scale & (Slingshot | Beetle) # only those 2 items (and their upgrades) work
+
+  # DEEP WOODS
+  Deep Woods:
+    hint-region: Faron Woods
+    locations:
+      Deep Woods Chest: Nothing
+      Unlock Deep Woods Statue: Nothing
+      Unlock Forest Temple Statue: Nothing
+      Push Shortcut Logs: Nothing
+      Gossip Stone in Deep Woods: Nothing
+      Initial Goddess Cube: Goddess Sword
+      Goddess Cube in Deep Woods: Goddess Sword
+      Goddess Cube on top of Skyview: Goddess Sword & Clawshots
+    exits:
+      Shared Statue: Nothing
+      Deep Woods Statue Entrance: Impossible
+      Forest Temple Statue Entrance: Impossible
+      Entry: Nothing
+      Exit to Skyview Temple: Distance Activator
+
+    Entry:
+      exits:
+        Exit to Faron Woods: Nothing
+        Deep Woods: Push Shortcut Logs | Distance Activator | Goddess Sword # bomb bag?
+      locations:
+        Hornet Larvae Farming: Nothing # Bonk the tree
+
+
+Faron Silent Realm:
+  hint-region: Faron Silent Realm
+  exits:
+    Exit: Nothing
+  locations:
+    Trial Reward: Nothing
+    Relic 1: Nothing
+    Relic 2: Nothing
+    Relic 3: Nothing
+    Relic 4: Nothing
+    Relic 5: Nothing
+    Relic 6: Nothing
+    Relic 7: Nothing
+    Relic 8: Nothing
+    Relic 9: Nothing
+    Relic 10: Nothing
+
+# FLOODED FARON WOODS
+Flooded Faron Woods:
+  toplevel-alias: Flooded Faron Woods
+  hint-region: Flooded Faron Woods
+  exits:
+    Exit to Upper Flooded Great Tree: Nothing
+    Underwater Hole: Water Dragon's Scale
+  locations:
+    Yellow Tadtone under Lilypad: Water Dragon's Scale
+    8 Light Blue Tadtones near Viewing Platform: Water Dragon's Scale
+    4 Purple Tadtones under Viewing Platform: Water Dragon's Scale
+    Red Moving Tadtone near Viewing Platform: Water Dragon's Scale
+    Light Blue Tadtone under Great Tree Root: Water Dragon's Scale
+    8 Yellow Tadtones near Kikwi Elder: Water Dragon's Scale
+    4 Light Blue Moving Tadtones under Kikwi Elder: Water Dragon's Scale
+    4 Red Moving Tadtones North West of Great Tree: Water Dragon's Scale
+    Green Tadtone behind Upper Bombable Rock: Water Dragon's Scale
+    2 Dark Blue Tadtones in Grass West of Great Tree: Water Dragon's Scale
+    8 Green Tadtones in West Tunnel: Water Dragon's Scale
+    2 Red Tadtones in Grass near Lower Bombable Rock: Water Dragon's Scale
+    16 Dark Blue Tadtones in the South West: Water Dragon's Scale
+    4 Purple Moving Tadtones near Floria Gate: Water Dragon's Scale
+    Dark Blue Moving Tadtone inside Small Hollow Tree: Water Dragon's Scale
+    4 Yellow Tadtones under Small Hollow Tree: Water Dragon's Scale
+    8 Purple Tadtones in Clearing after Small Hollow Tree: Water Dragon's Scale
+    Faron Woods - Retrieve Oolo: Scrapper & Skyloft - Knight Academy - Start Owlan's Quest
+    Can Watch Completed Tadtones Cutscene: Nothing
+
+  Flooded Great Tree:
+    exits:
+      Exit to Great Tree: Nothing
+      Exit to Upper Flooded Faron Woods: Nothing
+      Underwater Tunnel: Water Dragon's Scale
+    locations:
+      Water Dragon's Reward: Group of Tadtones x 17 & Can Watch Completed Tadtones Cutscene
+
+# LAKE FLORIA
+Lake Floria:
+  hint-region: Lake Floria
+
+  Above Rock:
+    exits:
+      Dive from Faron Woods: Impossible
+      Below Rock: Blow Rock & Water Dragon's Scale
+    locations:
+      Rupee behind Southwest Boulder: Water Dragon's Scale
+      Left Rupee behind Northwest Boulder: Water Dragon's Scale
+      Right Rupee behind Northwest Boulder: Water Dragon's Scale
+      Rupee under Central Boulder: Water Dragon's Scale
+      Blow Rock: Water Dragon's Scale
+
+  Below Rock:
+    exits:
+      Emerged Area: Water Dragon's Scale
+      Above Rock: Water Dragon's Scale
+      Exit to Farore's Lair: Water Dragon's Scale
+
+    Emerged Area:
+      exits:
+        Statue: Unlock Statue
+        Below Rock: Water Dragon's Scale
+      locations:
+        Lake Floria Chest: Nothing
+        Goddess Cube in Lake Floria: Goddess Sword
+        Unlock Statue: Nothing
+
+  Farore's Lair:
+    exits:
+      Exit to Waterfall: Nothing
+      Exit to Lake Floria: Water Dragon's Scale
+    locations:
+      Dragon Lair South Chest: Water Dragon's Scale
+      Dragon Lair East Chest: Nothing
+      Talk to Farore: Nothing
+
+  Waterfall:
+    toplevel-alias: Floria Waterfall
+    exits:
+      Statue: Unlock Statue
+      Exit to Farore's Lair: Nothing
+      Exit to Faron Woods: Nothing
+      Exit to Ancient Cistern: Water Dragon's Scale
+    locations:
+      Unlock Statue: Nothing
+      Gossip Stone outside Ancient Cistern: Nothing
+      Goddess Cube in Floria Waterfall: Clawshots & Goddess Sword
+      Rupee on High Ledge outside Ancient Cistern Entrance: Beetle

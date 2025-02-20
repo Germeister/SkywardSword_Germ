@@ -1,0 +1,621 @@
+[
+    {
+        "name": "Lanayru Province",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Lanayru Mine",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest behind First Landing",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Chest near First Timeshift Stone",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Chest behind Statue",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Chest at the End of Mine",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Lanayru Province",
+                        "x": "400",
+                        "y": "190",
+                        "size": 5
+                    }
+                ]
+            },
+            {
+                "name": "Lanayru Desert",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest near Party Wheel",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Chest near Caged Robot",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Rescue Caged Robot",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Chest on Platform near Fire Node",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Chest on Platform near Lightning Node",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Chest near Sand Oasis",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Chest on top of Lanayru Mining Facility",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Secret Passageway Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+					{
+						"name": "Fire Node - Shortcut Chest",
+						"access_rules": [],
+						"visibility_rules": [],
+						"item_count": 1
+					},
+					{
+						"name": "Fire Node - First Small Chest",
+						"access_rules": [],
+						"visibility_rules": [],
+						"item_count": 1
+					},
+					{
+						"name": "Fire Node - Second Small Chest",
+						"access_rules": [],
+						"visibility_rules": [],
+						"item_count": 1
+					},
+					{
+						"name": "Fire Node - Left Ending Chest",
+						"access_rules": [],
+						"visibility_rules": [],
+						"item_count": 1
+					},
+					{
+						"name": "Fire Node - Right Ending Chest",
+						"access_rules": [],
+						"visibility_rules": [],
+						"item_count": 1
+					},
+					{
+						"name": "Lightning Node - First Chest",
+						"access_rules": [],
+						"visibility_rules": [],
+						"item_count": 1
+					},
+					{
+						"name": "Lightning Node - Second Chest",
+						"access_rules": [],
+						"visibility_rules": [],
+						"item_count": 1
+					},
+					{
+						"name": "Lightning Node - Raised Chest near Generator",
+						"access_rules": [],
+						"visibility_rules": [],
+						"item_count": 1
+					}
+                ],
+                "map_locations": [
+                    {
+                        "map": "Lanayru Province",
+                        "x": "355",
+                        "y": "130",
+                        "size": 5
+                    }
+                ]
+            },
+            {
+                "name": "Lanayru Caves",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Golo's Gift",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Lanayru Province",
+                        "x": "315",
+                        "y": "145",
+                        "size": 5
+                    }
+                ]
+            },
+            {
+                "name": "Lanayru Gorge",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Thunder Dragon's Reward",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Item on Pillar",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Digging Spot",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Lanayru Province",
+                        "x": "310",
+                        "y": "220",
+                        "size": 5
+                    }
+                ]
+            },
+            {
+                "name": "Lanayru Sand Sea",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+					{
+						"name": "Ancient Harbour - Rupee on First Pillar",
+						"access_rules": [],
+						"visibility_rules": [],
+						"item_count": 1
+					},
+					{
+						"name": "Ancient Harbour - Left Rupee on Entrance Crown",
+						"access_rules": [],
+						"visibility_rules": [],
+						"item_count": 1
+					},
+					{
+						"name": "Ancient Harbour - Right Rupee on Entrance Crown",
+						"access_rules": [],
+						"visibility_rules": [],
+						"item_count": 1
+					},
+					{
+						"name": "Skipper's Retreat - Chest after Moblin",
+						"access_rules": [],
+						"visibility_rules": [],
+						"item_count": 1
+					},
+					{
+						"name": "Skipper's Retreat - Chest on top of Cacti Pillar",
+						"access_rules": [],
+						"visibility_rules": [],
+						"item_count": 1
+					},
+					{
+						"name": "Skipper's Retreat - Chest in Shack",
+						"access_rules": [],
+						"visibility_rules": [],
+						"item_count": 1
+					},
+					{
+						"name": "Skipper's Retreat - Skydive Chest",
+						"access_rules": [],
+						"visibility_rules": [],
+						"item_count": 1
+					},
+                    {
+                        "name": "Rickety Coaster -- Heart Stopping Track in 1'05",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+					{
+						"name": "Pirate Stronghold - Rupee on East Sea Pillar",
+						"access_rules": [],
+						"visibility_rules": [],
+						"item_count": 1
+					},
+					{
+						"name": "Pirate Stronghold - Rupee on West Sea Pillar",
+						"access_rules": [],
+						"visibility_rules": [],
+						"item_count": 1
+					},
+					{
+						"name": "Pirate Stronghold - Rupee on Bird Statue Pillar or Nose",
+						"access_rules": [],
+						"visibility_rules": [],
+						"item_count": 1
+					},
+					{
+						"name": "Pirate Stronghold - First Chest",
+						"access_rules": [],
+						"visibility_rules": [],
+						"item_count": 1
+					},
+					{
+						"name": "Pirate Stronghold - Second Chest",
+						"access_rules": [],
+						"visibility_rules": [],
+						"item_count": 1
+					},
+					{
+						"name": "Pirate Stronghold - Third Chest",
+						"access_rules": [],
+						"visibility_rules": [],
+						"item_count": 1
+					}
+                ],
+                "map_locations": [
+                    {
+                        "map": "Lanayru Province",
+                        "x": "210",
+                        "y": "165",
+                        "size": 5
+                    }
+                ]
+            },
+            {
+                "name": "Lanayru Mining Facility",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest behind Bars",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "First Chest in Hub Room",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Chest in First West Room",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Chest after Armos Fight",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Chest in Key Locked Room",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Raised Chest in Hop across Boxes Room",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Lower Chest in Hop across Boxes Room",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Chest behind First Crawlspace",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Chest in Spike Maze",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Boss Key Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Shortcut Chest in Main Hub",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Heart Container",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Exit Hall of Ancient Robots",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Lanayru Province",
+                        "x": "352",
+                        "y": "90",
+                        "size": 5
+                    }
+                ]
+            },
+            {
+                "name": "Sandship",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest at the Stern",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Chest before 4-Door Corridor",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Chest behind Combination Lock",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure Room First Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure Room Second Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure Room Third Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure Room Fourth Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Treasure Room Fifth Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Robot in Brig's Reward",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Chest after Scervo Fight",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Boss Key Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Heart Container",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Nayru's Flame",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Lanayru Province",
+                        "x": "160",
+                        "y": "147",
+                        "size": 5
+                    }
+                ]
+            },
+            {
+                "name": "Lanayru Silent Realm",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Trial Reward",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Relic 1",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Relic 2",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Relic 3",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Relic 4",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Relic 5",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Relic 6",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Relic 7",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Relic 8",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Relic 9",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Relic 10",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Lanayru Province",
+                        "x": "352",
+                        "y": "60",
+                        "size": 5
+                    }
+                ]
+            }
+        ]
+    }
+]

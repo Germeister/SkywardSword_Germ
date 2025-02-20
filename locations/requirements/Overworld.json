@@ -1,0 +1,2932 @@
+[
+    {
+        "name": "Overworld Hints",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Eldin Province - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": "Eldin Volcano - Rupee on Ledge before First Room - hint",
+                        "ref": "Eldin Province - hint/Eldin Volcano - hint/Rupee on Ledge before First Room - hint"
+                    },
+                    {
+                        "name": "Eldin Volcano - Chest behind Bombable Wall in First Room - hint",
+                        "ref": "Eldin Province - hint/Eldin Volcano - hint/Chest behind Bombable Wall in First Room - hint"
+                    },
+                    {
+                        "name": "Eldin Volcano - Rupee behind Bombable Wall in First Room - hint",
+                        "ref": "Eldin Province - hint/Eldin Volcano - hint/Rupee behind Bombable Wall in First Room - hint"
+                    },
+                    {
+                        "name": "Eldin Volcano - Rupee in Crawlspace in First Room - hint",
+                        "ref": "Eldin Province - hint/Eldin Volcano - hint/Rupee in Crawlspace in First Room - hint"
+                    },
+                    {
+                        "name": "Eldin Volcano - Chest after Crawlspace - hint",
+                        "ref": "Eldin Province - hint/Eldin Volcano - hint/Chest after Crawlspace - hint"
+                    },
+                    {
+                        "name": "Eldin Volcano - Southeast Rupee above Mogma Turf Entrance - hint",
+                        "ref": "Eldin Province - hint/Eldin Volcano - hint/Southeast Rupee above Mogma Turf Entrance - hint"
+                    },
+                    {
+                        "name": "Eldin Volcano - North Rupee above Mogma Turf Entrance - hint",
+                        "ref": "Eldin Province - hint/Eldin Volcano - hint/North Rupee above Mogma Turf Entrance - hint"
+                    },
+                    {
+                        "name": "Eldin Volcano - Chest behind Bombable Wall near Cliff - hint",
+                        "ref": "Eldin Province - hint/Eldin Volcano - hint/Chest behind Bombable Wall near Cliff - hint"
+                    },
+                    {
+                        "name": "Eldin Volcano - Item on Cliff - hint",
+                        "ref": "Eldin Province - hint/Eldin Volcano - hint/Item on Cliff - hint"
+                    },
+                    {
+                        "name": "Eldin Volcano - Chest behind Bombable Wall near Volcano Ascent - hint",
+                        "ref": "Eldin Province - hint/Eldin Volcano - hint/Chest behind Bombable Wall near Volcano Ascent - hint"
+                    },
+                    {
+                        "name": "Eldin Volcano - Left Rupee behind Bombable Wall on First Slope - hint",
+                        "ref": "Eldin Province - hint/Eldin Volcano - hint/Left Rupee behind Bombable Wall on First Slope - hint"
+                    },
+                    {
+                        "name": "Eldin Volcano - Right Rupee behind Bombable Wall on First Slope - hint",
+                        "ref": "Eldin Province - hint/Eldin Volcano - hint/Right Rupee behind Bombable Wall on First Slope - hint"
+                    },
+                    {
+                        "name": "Eldin Volcano - Digging Spot in front of Earth Temple - hint",
+                        "ref": "Eldin Province - hint/Eldin Volcano - hint/Digging Spot in front of Earth Temple - hint"
+                    },
+                    {
+                        "name": "Eldin Volcano - Digging Spot below Tower - hint",
+                        "ref": "Eldin Province - hint/Eldin Volcano - hint/Digging Spot below Tower - hint"
+                    },
+                    {
+                        "name": "Eldin Volcano - Digging Spot behind Boulder on Sandy Slope - hint",
+                        "ref": "Eldin Province - hint/Eldin Volcano - hint/Digging Spot behind Boulder on Sandy Slope - hint"
+                    },
+                    {
+                        "name": "Eldin Volcano - Digging Spot after Vents - hint",
+                        "ref": "Eldin Province - hint/Eldin Volcano - hint/Digging Spot after Vents - hint"
+                    },
+                    {
+                        "name": "Eldin Volcano - Digging Spot after Draining Lava - hint",
+                        "ref": "Eldin Province - hint/Eldin Volcano - hint/Digging Spot after Draining Lava - hint"
+                    },
+                    {
+                        "name": "Mogma Turf - Free Fall Chest - hint",
+                        "ref": "Eldin Province - hint/Mogma Turf - hint/Free Fall Chest - hint"
+                    },
+                    {
+                        "name": "Mogma Turf - Chest behind Bombable Wall at Entrance - hint",
+                        "ref": "Eldin Province - hint/Mogma Turf - hint/Chest behind Bombable Wall at Entrance - hint"
+                    },
+                    {
+                        "name": "Mogma Turf - Defeat Bokoblins - hint",
+                        "ref": "Eldin Province - hint/Mogma Turf - hint/Defeat Bokoblins - hint"
+                    },
+                    {
+                        "name": "Mogma Turf - Sand Slide Chest - hint",
+                        "ref": "Eldin Province - hint/Mogma Turf - hint/Sand Slide Chest - hint"
+                    },
+                    {
+                        "name": "Mogma Turf - Chest behind Bombable Wall in Fire Maze - hint",
+                        "ref": "Eldin Province - hint/Mogma Turf - hint/Chest behind Bombable Wall in Fire Maze - hint"
+                    },
+                    {
+                        "name": "Volcano Summit - Chest behind Bombable Wall in Waterfall Area - hint",
+                        "ref": "Eldin Province - hint/Volcano Summit - hint/Chest behind Bombable Wall in Waterfall Area - hint"
+                    },
+                    {
+                        "name": "Volcano Summit - Item behind Digging - hint",
+                        "ref": "Eldin Province - hint/Volcano Summit - hint/Item behind Digging - hint"
+                    },
+                    {
+                        "name": "Bokoblin Base - Plats' Gift - hint",
+                        "ref": "Eldin Province - hint/Bokoblin Base - hint/Plats' Gift - hint"
+                    },
+                    {
+                        "name": "Bokoblin Base - Chest near Bone Bridge - hint",
+                        "ref": "Eldin Province - hint/Bokoblin Base - hint/Chest near Bone Bridge - hint"
+                    },
+                    {
+                        "name": "Bokoblin Base - Chest on Cliff - hint",
+                        "ref": "Eldin Province - hint/Bokoblin Base - hint/Chest on Cliff - hint"
+                    },
+                    {
+                        "name": "Bokoblin Base - Chest near Drawbridge - hint",
+                        "ref": "Eldin Province - hint/Bokoblin Base - hint/Chest near Drawbridge - hint"
+                    },
+                    {
+                        "name": "Bokoblin Base - Chest East of Earth Temple Entrance - hint",
+                        "ref": "Eldin Province - hint/Bokoblin Base - hint/Chest East of Earth Temple Entrance - hint"
+                    },
+                    {
+                        "name": "Bokoblin Base - Chest West of Earth Temple Entrance - hint",
+                        "ref": "Eldin Province - hint/Bokoblin Base - hint/Chest West of Earth Temple Entrance - hint"
+                    },
+                    {
+                        "name": "Bokoblin Base - First Chest in Volcano Summit - hint",
+                        "ref": "Eldin Province - hint/Bokoblin Base - hint/First Chest in Volcano Summit - hint"
+                    },
+                    {
+                        "name": "Bokoblin Base - Raised Chest in Volcano Summit - hint",
+                        "ref": "Eldin Province - hint/Bokoblin Base - hint/Raised Chest in Volcano Summit - hint"
+                    },
+                    {
+                        "name": "Bokoblin Base - Chest in Volcano Summit Alcove - hint",
+                        "ref": "Eldin Province - hint/Bokoblin Base - hint/Chest in Volcano Summit Alcove - hint"
+                    },
+                    {
+                        "name": "Bokoblin Base - Fire Dragon's Reward - hint",
+                        "ref": "Eldin Province - hint/Bokoblin Base - hint/Fire Dragon's Reward - hint"
+                    },
+                    {
+                        "name": "Earth Temple - Vent Chest - hint",
+                        "ref": "Eldin Province - hint/Earth Temple - hint/Vent Chest - hint"
+                    },
+                    {
+                        "name": "Earth Temple - Rupee above Drawbridge - hint",
+                        "ref": "Eldin Province - hint/Earth Temple - hint/Rupee above Drawbridge - hint"
+                    },
+                    {
+                        "name": "Earth Temple - Chest behind Bombable Rock - hint",
+                        "ref": "Eldin Province - hint/Earth Temple - hint/Chest behind Bombable Rock - hint"
+                    },
+                    {
+                        "name": "Earth Temple - Chest Left of Main Room Bridge - hint",
+                        "ref": "Eldin Province - hint/Earth Temple - hint/Chest Left of Main Room Bridge - hint"
+                    },
+                    {
+                        "name": "Earth Temple - Chest in West Room - hint",
+                        "ref": "Eldin Province - hint/Earth Temple - hint/Chest in West Room - hint"
+                    },
+                    {
+                        "name": "Earth Temple - Chest after Double Lizalfos Fight - hint",
+                        "ref": "Eldin Province - hint/Earth Temple - hint/Chest after Double Lizalfos Fight - hint"
+                    },
+                    {
+                        "name": "Earth Temple - Ledd's Gift - hint",
+                        "ref": "Eldin Province - hint/Earth Temple - hint/Ledd's Gift - hint"
+                    },
+                    {
+                        "name": "Earth Temple - Rupee in Lava Tunnel - hint",
+                        "ref": "Eldin Province - hint/Earth Temple - hint/Rupee in Lava Tunnel - hint"
+                    },
+                    {
+                        "name": "Earth Temple - Chest Guarded by Lizalfos - hint",
+                        "ref": "Eldin Province - hint/Earth Temple - hint/Chest Guarded by Lizalfos - hint"
+                    },
+                    {
+                        "name": "Earth Temple - Boss Key Chest - hint",
+                        "ref": "Eldin Province - hint/Earth Temple - hint/Boss Key Chest - hint"
+                    },
+                    {
+                        "name": "Earth Temple - Heart Container - hint",
+                        "ref": "Eldin Province - hint/Earth Temple - hint/Heart Container - hint"
+                    },
+                    {
+                        "name": "Earth Temple - Strike Crest - hint",
+                        "ref": "Eldin Province - hint/Earth Temple - hint/Strike Crest - hint"
+                    },
+                    {
+                        "name": "Fire Sanctuary - Chest in First Room - hint",
+                        "ref": "Eldin Province - hint/Fire Sanctuary - hint/Chest in First Room - hint"
+                    },
+                    {
+                        "name": "Fire Sanctuary - Chest in Second Room - hint",
+                        "ref": "Eldin Province - hint/Fire Sanctuary - hint/Chest in Second Room - hint"
+                    },
+                    {
+                        "name": "Fire Sanctuary - Chest on Balcony - hint",
+                        "ref": "Eldin Province - hint/Fire Sanctuary - hint/Chest on Balcony - hint"
+                    },
+                    {
+                        "name": "Fire Sanctuary - Chest near First Trapped Mogma - hint",
+                        "ref": "Eldin Province - hint/Fire Sanctuary - hint/Chest near First Trapped Mogma - hint"
+                    },
+                    {
+                        "name": "Fire Sanctuary - First Chest in Water Fruit Room - hint",
+                        "ref": "Eldin Province - hint/Fire Sanctuary - hint/First Chest in Water Fruit Room - hint"
+                    },
+                    {
+                        "name": "Fire Sanctuary - Second Chest in Water Fruit Room - hint",
+                        "ref": "Eldin Province - hint/Fire Sanctuary - hint/Second Chest in Water Fruit Room - hint"
+                    },
+                    {
+                        "name": "Fire Sanctuary - Rescue First Trapped Mogma - hint",
+                        "ref": "Eldin Province - hint/Fire Sanctuary - hint/Rescue First Trapped Mogma - hint"
+                    },
+                    {
+                        "name": "Fire Sanctuary - Rescue Second Trapped Mogma - hint",
+                        "ref": "Eldin Province - hint/Fire Sanctuary - hint/Rescue Second Trapped Mogma - hint"
+                    },
+                    {
+                        "name": "Fire Sanctuary - Chest after Bombable Wall - hint",
+                        "ref": "Eldin Province - hint/Fire Sanctuary - hint/Chest after Bombable Wall - hint"
+                    },
+                    {
+                        "name": "Fire Sanctuary - Plats' Chest - hint",
+                        "ref": "Eldin Province - hint/Fire Sanctuary - hint/Plats' Chest - hint"
+                    },
+                    {
+                        "name": "Fire Sanctuary - Chest in Staircase Room - hint",
+                        "ref": "Eldin Province - hint/Fire Sanctuary - hint/Chest in Staircase Room - hint"
+                    },
+                    {
+                        "name": "Fire Sanctuary - Boss Key Chest - hint",
+                        "ref": "Eldin Province - hint/Fire Sanctuary - hint/Boss Key Chest - hint"
+                    },
+                    {
+                        "name": "Fire Sanctuary - Heart Container - hint",
+                        "ref": "Eldin Province - hint/Fire Sanctuary - hint/Heart Container - hint"
+                    },
+                    {
+                        "name": "Fire Sanctuary - Din's Flame - hint",
+                        "ref": "Eldin Province - hint/Fire Sanctuary - hint/Din's Flame - hint"
+                    },
+                    {
+                        "name": "Eldin Silent Realm - Trial Reward - hint",
+                        "ref": "Eldin Province - hint/Eldin Silent Realm - hint/Trial Reward - hint"
+                    },
+                    {
+                        "name": "Eldin Silent Realm - Relic 1 - hint",
+                        "ref": "Eldin Province - hint/Eldin Silent Realm - hint/Relic 1 - hint"
+                    },
+                    {
+                        "name": "Eldin Silent Realm - Relic 2 - hint",
+                        "ref": "Eldin Province - hint/Eldin Silent Realm - hint/Relic 2 - hint"
+                    },
+                    {
+                        "name": "Eldin Silent Realm - Relic 3 - hint",
+                        "ref": "Eldin Province - hint/Eldin Silent Realm - hint/Relic 3 - hint"
+                    },
+                    {
+                        "name": "Eldin Silent Realm - Relic 4 - hint",
+                        "ref": "Eldin Province - hint/Eldin Silent Realm - hint/Relic 4 - hint"
+                    },
+                    {
+                        "name": "Eldin Silent Realm - Relic 5 - hint",
+                        "ref": "Eldin Province - hint/Eldin Silent Realm - hint/Relic 5 - hint"
+                    },
+                    {
+                        "name": "Eldin Silent Realm - Relic 6 - hint",
+                        "ref": "Eldin Province - hint/Eldin Silent Realm - hint/Relic 6 - hint"
+                    },
+                    {
+                        "name": "Eldin Silent Realm - Relic 7 - hint",
+                        "ref": "Eldin Province - hint/Eldin Silent Realm - hint/Relic 7 - hint"
+                    },
+                    {
+                        "name": "Eldin Silent Realm - Relic 8 - hint",
+                        "ref": "Eldin Province - hint/Eldin Silent Realm - hint/Relic 8 - hint"
+                    },
+                    {
+                        "name": "Eldin Silent Realm - Relic 9 - hint",
+                        "ref": "Eldin Province - hint/Eldin Silent Realm - hint/Relic 9 - hint"
+                    },
+                    {
+                        "name": "Eldin Silent Realm - Relic 10 - hint",
+                        "ref": "Eldin Province - hint/Eldin Silent Realm - hint/Relic 10 - hint"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "1700",
+                        "y": "2157",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Faron Province - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": "Sealed Grounds - Chest inside Sealed Temple - hint",
+                        "ref": "Faron Province - hint/Sealed Grounds - hint/Chest inside Sealed Temple - hint"
+                    },
+                    {
+                        "name": "Sealed Grounds - Song from Impa - hint",
+                        "ref": "Faron Province - hint/Sealed Grounds - hint/Song from Impa - hint"
+                    },
+                    {
+                        "name": "Sealed Grounds - Gorko's Goddess Wall Reward - hint",
+                        "ref": "Faron Province - hint/Sealed Grounds - hint/Gorko's Goddess Wall Reward - hint"
+                    },
+                    {
+                        "name": "Sealed Grounds - Zelda's Blessing - hint",
+                        "ref": "Faron Province - hint/Sealed Grounds - hint/Zelda's Blessing - hint"
+                    },
+                    {
+                        "name": "Faron Woods - Item behind Lower Bombable Rock - hint",
+                        "ref": "Faron Province - hint/Faron Woods - hint/Item behind Lower Bombable Rock - hint"
+                    },
+                    {
+                        "name": "Faron Woods - Item on Tree - hint",
+                        "ref": "Faron Province - hint/Faron Woods - hint/Item on Tree - hint"
+                    },
+                    {
+                        "name": "Faron Woods - Kikwi Elder's Reward - hint",
+                        "ref": "Faron Province - hint/Faron Woods - hint/Kikwi Elder's Reward - hint"
+                    },
+                    {
+                        "name": "Faron Woods - Rupee on Hollow Tree Root - hint",
+                        "ref": "Faron Province - hint/Faron Woods - hint/Rupee on Hollow Tree Root - hint"
+                    },
+                    {
+                        "name": "Faron Woods - Rupee on Hollow Tree Branch - hint",
+                        "ref": "Faron Province - hint/Faron Woods - hint/Rupee on Hollow Tree Branch - hint"
+                    },
+                    {
+                        "name": "Faron Woods - Rupee on Platform near Floria Door - hint",
+                        "ref": "Faron Province - hint/Faron Woods - hint/Rupee on Platform near Floria Door - hint"
+                    },
+                    {
+                        "name": "Faron Woods - Deep Woods Chest - hint",
+                        "ref": "Faron Province - hint/Faron Woods - hint/Deep Woods Chest - hint"
+                    },
+                    {
+                        "name": "Faron Woods - Chest behind Upper Bombable Rock - hint",
+                        "ref": "Faron Province - hint/Faron Woods - hint/Chest behind Upper Bombable Rock - hint"
+                    },
+                    {
+                        "name": "Faron Woods - Chest inside Great Tree - hint",
+                        "ref": "Faron Province - hint/Faron Woods - hint/Chest inside Great Tree - hint"
+                    },
+                    {
+                        "name": "Faron Woods - Rupee on Great Tree North Branch - hint",
+                        "ref": "Faron Province - hint/Faron Woods - hint/Rupee on Great Tree North Branch - hint"
+                    },
+                    {
+                        "name": "Faron Woods - Rupee on Great Tree West Branch - hint",
+                        "ref": "Faron Province - hint/Faron Woods - hint/Rupee on Great Tree West Branch - hint"
+                    },
+                    {
+                        "name": "Lake Floria - Rupee under Central Boulder - hint",
+                        "ref": "Faron Province - hint/Lake Floria - hint/Rupee under Central Boulder - hint"
+                    },
+                    {
+                        "name": "Lake Floria - Rupee behind Southwest Boulder - hint",
+                        "ref": "Faron Province - hint/Lake Floria - hint/Rupee behind Southwest Boulder - hint"
+                    },
+                    {
+                        "name": "Lake Floria - Left Rupee behind Northwest Boulder - hint",
+                        "ref": "Faron Province - hint/Lake Floria - hint/Left Rupee behind Northwest Boulder - hint"
+                    },
+                    {
+                        "name": "Lake Floria - Right Rupee behind Northwest Boulder - hint",
+                        "ref": "Faron Province - hint/Lake Floria - hint/Right Rupee behind Northwest Boulder - hint"
+                    },
+                    {
+                        "name": "Lake Floria - Lake Floria Chest - hint",
+                        "ref": "Faron Province - hint/Lake Floria - hint/Lake Floria Chest - hint"
+                    },
+                    {
+                        "name": "Lake Floria - Dragon Lair South Chest - hint",
+                        "ref": "Faron Province - hint/Lake Floria - hint/Dragon Lair South Chest - hint"
+                    },
+                    {
+                        "name": "Lake Floria - Dragon Lair East Chest - hint",
+                        "ref": "Faron Province - hint/Lake Floria - hint/Dragon Lair East Chest - hint"
+                    },
+                    {
+                        "name": "Lake Floria - Rupee on High Ledge outside Ancient Cistern Entrance - hint",
+                        "ref": "Faron Province - hint/Lake Floria - hint/Rupee on High Ledge outside Ancient Cistern Entrance - hint"
+                    },
+                    {
+                        "name": "Flooded Faron Woods - Yellow Tadtone under Lilypad - hint",
+                        "ref": "Faron Province - hint/Flooded Faron Woods - hint/Yellow Tadtone under Lilypad - hint"
+                    },
+                    {
+                        "name": "Flooded Faron Woods - 8 Light Blue Tadtones near Viewing Platform - hint",
+                        "ref": "Faron Province - hint/Flooded Faron Woods - hint/8 Light Blue Tadtones near Viewing Platform - hint"
+                    },
+                    {
+                        "name": "Flooded Faron Woods - 4 Purple Tadtones under Viewing Platform - hint",
+                        "ref": "Faron Province - hint/Flooded Faron Woods - hint/4 Purple Tadtones under Viewing Platform - hint"
+                    },
+                    {
+                        "name": "Flooded Faron Woods - Red Moving Tadtone near Viewing Platform - hint",
+                        "ref": "Faron Province - hint/Flooded Faron Woods - hint/Red Moving Tadtone near Viewing Platform - hint"
+                    },
+                    {
+                        "name": "Flooded Faron Woods - Light Blue Tadtone under Great Tree Root - hint",
+                        "ref": "Faron Province - hint/Flooded Faron Woods - hint/Light Blue Tadtone under Great Tree Root - hint"
+                    },
+                    {
+                        "name": "Flooded Faron Woods - 8 Yellow Tadtones near Kikwi Elder - hint",
+                        "ref": "Faron Province - hint/Flooded Faron Woods - hint/8 Yellow Tadtones near Kikwi Elder - hint"
+                    },
+                    {
+                        "name": "Flooded Faron Woods - 4 Light Blue Moving Tadtones under Kikwi Elder - hint",
+                        "ref": "Faron Province - hint/Flooded Faron Woods - hint/4 Light Blue Moving Tadtones under Kikwi Elder - hint"
+                    },
+                    {
+                        "name": "Flooded Faron Woods - 4 Red Moving Tadtones North West of Great Tree - hint",
+                        "ref": "Faron Province - hint/Flooded Faron Woods - hint/4 Red Moving Tadtones North West of Great Tree - hint"
+                    },
+                    {
+                        "name": "Flooded Faron Woods - Green Tadtone behind Upper Bombable Rock - hint",
+                        "ref": "Faron Province - hint/Flooded Faron Woods - hint/Green Tadtone behind Upper Bombable Rock - hint"
+                    },
+                    {
+                        "name": "Flooded Faron Woods - 2 Dark Blue Tadtones in Grass West of Great Tree - hint",
+                        "ref": "Faron Province - hint/Flooded Faron Woods - hint/2 Dark Blue Tadtones in Grass West of Great Tree - hint"
+                    },
+                    {
+                        "name": "Flooded Faron Woods - 8 Green Tadtones in West Tunnel - hint",
+                        "ref": "Faron Province - hint/Flooded Faron Woods - hint/8 Green Tadtones in West Tunnel - hint"
+                    },
+                    {
+                        "name": "Flooded Faron Woods - 2 Red Tadtones in Grass near Lower Bombable Rock - hint",
+                        "ref": "Faron Province - hint/Flooded Faron Woods - hint/2 Red Tadtones in Grass near Lower Bombable Rock - hint"
+                    },
+                    {
+                        "name": "Flooded Faron Woods - 16 Dark Blue Tadtones in the South West - hint",
+                        "ref": "Faron Province - hint/Flooded Faron Woods - hint/16 Dark Blue Tadtones in the South West - hint"
+                    },
+                    {
+                        "name": "Flooded Faron Woods - 4 Purple Moving Tadtones near Floria Gate - hint",
+                        "ref": "Faron Province - hint/Flooded Faron Woods - hint/4 Purple Moving Tadtones near Floria Gate - hint"
+                    },
+                    {
+                        "name": "Flooded Faron Woods - Dark Blue Moving Tadtone inside Small Hollow Tree - hint",
+                        "ref": "Faron Province - hint/Flooded Faron Woods - hint/Dark Blue Moving Tadtone inside Small Hollow Tree - hint"
+                    },
+                    {
+                        "name": "Flooded Faron Woods - 4 Yellow Tadtones under Small Hollow Tree - hint",
+                        "ref": "Faron Province - hint/Flooded Faron Woods - hint/4 Yellow Tadtones under Small Hollow Tree - hint"
+                    },
+                    {
+                        "name": "Flooded Faron Woods - 8 Purple Tadtones in Clearing after Small Hollow Tree - hint",
+                        "ref": "Faron Province - hint/Flooded Faron Woods - hint/8 Purple Tadtones in Clearing after Small Hollow Tree - hint"
+                    },
+                    {
+                        "name": "Flooded Faron Woods - Water Dragon's Reward - hint",
+                        "ref": "Faron Province - hint/Flooded Faron Woods - hint/Water Dragon's Reward - hint"
+                    },
+                    {
+                        "name": "Skyview - Chest on Tree Branch - hint",
+                        "ref": "Faron Province - hint/Skyview - hint/Chest on Tree Branch - hint"
+                    },
+                    {
+                        "name": "Skyview - Digging Spot in Crawlspace - hint",
+                        "ref": "Faron Province - hint/Skyview - hint/Digging Spot in Crawlspace - hint"
+                    },
+                    {
+                        "name": "Skyview - Chest behind Two Eyes - hint",
+                        "ref": "Faron Province - hint/Skyview - hint/Chest behind Two Eyes - hint"
+                    },
+                    {
+                        "name": "Skyview - Chest after Stalfos Fight - hint",
+                        "ref": "Faron Province - hint/Skyview - hint/Chest after Stalfos Fight - hint"
+                    },
+                    {
+                        "name": "Skyview - Item behind Bars - hint",
+                        "ref": "Faron Province - hint/Skyview - hint/Item behind Bars - hint"
+                    },
+                    {
+                        "name": "Skyview - Rupee in Southeast Tunnel - hint",
+                        "ref": "Faron Province - hint/Skyview - hint/Rupee in Southeast Tunnel - hint"
+                    },
+                    {
+                        "name": "Skyview - Rupee in Southwest Tunnel - hint",
+                        "ref": "Faron Province - hint/Skyview - hint/Rupee in Southwest Tunnel - hint"
+                    },
+                    {
+                        "name": "Skyview - Rupee in East Tunnel - hint",
+                        "ref": "Faron Province - hint/Skyview - hint/Rupee in East Tunnel - hint"
+                    },
+                    {
+                        "name": "Skyview - Chest behind Three Eyes - hint",
+                        "ref": "Faron Province - hint/Skyview - hint/Chest behind Three Eyes - hint"
+                    },
+                    {
+                        "name": "Skyview - Chest near Boss Door - hint",
+                        "ref": "Faron Province - hint/Skyview - hint/Chest near Boss Door - hint"
+                    },
+                    {
+                        "name": "Skyview - Boss Key Chest - hint",
+                        "ref": "Faron Province - hint/Skyview - hint/Boss Key Chest - hint"
+                    },
+                    {
+                        "name": "Skyview - Heart Container - hint",
+                        "ref": "Faron Province - hint/Skyview - hint/Heart Container - hint"
+                    },
+                    {
+                        "name": "Skyview - Rupee on Spring Pillar - hint",
+                        "ref": "Faron Province - hint/Skyview - hint/Rupee on Spring Pillar - hint"
+                    },
+                    {
+                        "name": "Skyview - Strike Crest - hint",
+                        "ref": "Faron Province - hint/Skyview - hint/Strike Crest - hint"
+                    },
+                    {
+                        "name": "Ancient Cistern - Rupee in West Hand - hint",
+                        "ref": "Faron Province - hint/Ancient Cistern - hint/Rupee in West Hand - hint"
+                    },
+                    {
+                        "name": "Ancient Cistern - Rupee in East Hand - hint",
+                        "ref": "Faron Province - hint/Ancient Cistern - hint/Rupee in East Hand - hint"
+                    },
+                    {
+                        "name": "Ancient Cistern - First Rupee in East Part in Short Tunnel - hint",
+                        "ref": "Faron Province - hint/Ancient Cistern - hint/First Rupee in East Part in Short Tunnel - hint"
+                    },
+                    {
+                        "name": "Ancient Cistern - Second Rupee in East Part in Short Tunnel - hint",
+                        "ref": "Faron Province - hint/Ancient Cistern - hint/Second Rupee in East Part in Short Tunnel - hint"
+                    },
+                    {
+                        "name": "Ancient Cistern - Third Rupee in East Part in Short Tunnel - hint",
+                        "ref": "Faron Province - hint/Ancient Cistern - hint/Third Rupee in East Part in Short Tunnel - hint"
+                    },
+                    {
+                        "name": "Ancient Cistern - Rupee in East Part in Cubby - hint",
+                        "ref": "Faron Province - hint/Ancient Cistern - hint/Rupee in East Part in Cubby - hint"
+                    },
+                    {
+                        "name": "Ancient Cistern - Rupee in East Part in Main Tunnel - hint",
+                        "ref": "Faron Province - hint/Ancient Cistern - hint/Rupee in East Part in Main Tunnel - hint"
+                    },
+                    {
+                        "name": "Ancient Cistern - Chest in East Part - hint",
+                        "ref": "Faron Province - hint/Ancient Cistern - hint/Chest in East Part - hint"
+                    },
+                    {
+                        "name": "Ancient Cistern - Chest after Whip Hooks - hint",
+                        "ref": "Faron Province - hint/Ancient Cistern - hint/Chest after Whip Hooks - hint"
+                    },
+                    {
+                        "name": "Ancient Cistern - Chest near Vines - hint",
+                        "ref": "Faron Province - hint/Ancient Cistern - hint/Chest near Vines - hint"
+                    },
+                    {
+                        "name": "Ancient Cistern - Chest behind the Waterfall - hint",
+                        "ref": "Faron Province - hint/Ancient Cistern - hint/Chest behind the Waterfall - hint"
+                    },
+                    {
+                        "name": "Ancient Cistern - Bokoblin - hint",
+                        "ref": "Faron Province - hint/Ancient Cistern - hint/Bokoblin - hint"
+                    },
+                    {
+                        "name": "Ancient Cistern - Rupee under Lilypad - hint",
+                        "ref": "Faron Province - hint/Ancient Cistern - hint/Rupee under Lilypad - hint"
+                    },
+                    {
+                        "name": "Ancient Cistern - Chest in Key Locked Room - hint",
+                        "ref": "Faron Province - hint/Ancient Cistern - hint/Chest in Key Locked Room - hint"
+                    },
+                    {
+                        "name": "Ancient Cistern - Boss Key Chest - hint",
+                        "ref": "Faron Province - hint/Ancient Cistern - hint/Boss Key Chest - hint"
+                    },
+                    {
+                        "name": "Ancient Cistern - Heart Container - hint",
+                        "ref": "Faron Province - hint/Ancient Cistern - hint/Heart Container - hint"
+                    },
+                    {
+                        "name": "Ancient Cistern - Farore's Flame - hint",
+                        "ref": "Faron Province - hint/Ancient Cistern - hint/Farore's Flame - hint"
+                    },
+                    {
+                        "name": "Faron Silent Realm - Trial Reward - hint",
+                        "ref": "Faron Province - hint/Faron Silent Realm - hint/Trial Reward - hint"
+                    },
+                    {
+                        "name": "Faron Silent Realm - Relic 1 - hint",
+                        "ref": "Faron Province - hint/Faron Silent Realm - hint/Relic 1 - hint"
+                    },
+                    {
+                        "name": "Faron Silent Realm - Relic 2 - hint",
+                        "ref": "Faron Province - hint/Faron Silent Realm - hint/Relic 2 - hint"
+                    },
+                    {
+                        "name": "Faron Silent Realm - Relic 3 - hint",
+                        "ref": "Faron Province - hint/Faron Silent Realm - hint/Relic 3 - hint"
+                    },
+                    {
+                        "name": "Faron Silent Realm - Relic 4 - hint",
+                        "ref": "Faron Province - hint/Faron Silent Realm - hint/Relic 4 - hint"
+                    },
+                    {
+                        "name": "Faron Silent Realm - Relic 5 - hint",
+                        "ref": "Faron Province - hint/Faron Silent Realm - hint/Relic 5 - hint"
+                    },
+                    {
+                        "name": "Faron Silent Realm - Relic 6 - hint",
+                        "ref": "Faron Province - hint/Faron Silent Realm - hint/Relic 6 - hint"
+                    },
+                    {
+                        "name": "Faron Silent Realm - Relic 7 - hint",
+                        "ref": "Faron Province - hint/Faron Silent Realm - hint/Relic 7 - hint"
+                    },
+                    {
+                        "name": "Faron Silent Realm - Relic 8 - hint",
+                        "ref": "Faron Province - hint/Faron Silent Realm - hint/Relic 8 - hint"
+                    },
+                    {
+                        "name": "Faron Silent Realm - Relic 9 - hint",
+                        "ref": "Faron Province - hint/Faron Silent Realm - hint/Relic 9 - hint"
+                    },
+                    {
+                        "name": "Faron Silent Realm - Relic 10 - hint",
+                        "ref": "Faron Province - hint/Faron Silent Realm - hint/Relic 10 - hint"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "2131",
+                        "y": "270",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Lanayru Province - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": "Lanayru Mine - Chest behind First Landing - hint",
+                        "ref": "Lanayru Province - hint/Lanayru Mine - hint/Chest behind First Landing - hint"
+                    },
+                    {
+                        "name": "Lanayru Mine - Chest near First Timeshift Stone - hint",
+                        "ref": "Lanayru Province - hint/Lanayru Mine - hint/Chest near First Timeshift Stone - hint"
+                    },
+                    {
+                        "name": "Lanayru Mine - Chest behind Statue - hint",
+                        "ref": "Lanayru Province - hint/Lanayru Mine - hint/Chest behind Statue - hint"
+                    },
+                    {
+                        "name": "Lanayru Mine - Chest at the End of Mine - hint",
+                        "ref": "Lanayru Province - hint/Lanayru Mine - hint/Chest at the End of Mine - hint"
+                    },
+                    {
+                        "name": "Fire Node - Shortcut Chest - hint",
+                        "ref": "Lanayru Province - hint/Lanayru Desert - hint/Fire Node - hint/Shortcut Chest - hint"
+                    },
+                    {
+                        "name": "Fire Node - First Small Chest - hint",
+                        "ref": "Lanayru Province - hint/Lanayru Desert - hint/Fire Node - hint/First Small Chest - hint"
+                    },
+                    {
+                        "name": "Fire Node - Second Small Chest - hint",
+                        "ref": "Lanayru Province - hint/Lanayru Desert - hint/Fire Node - hint/Second Small Chest - hint"
+                    },
+                    {
+                        "name": "Fire Node - Left Ending Chest - hint",
+                        "ref": "Lanayru Province - hint/Lanayru Desert - hint/Fire Node - hint/Left Ending Chest - hint"
+                    },
+                    {
+                        "name": "Fire Node - Right Ending Chest - hint",
+                        "ref": "Lanayru Province - hint/Lanayru Desert - hint/Fire Node - hint/Right Ending Chest - hint"
+                    },
+                    {
+                        "name": "Lightning Node - First Chest - hint",
+                        "ref": "Lanayru Province - hint/Lanayru Desert - hint/Lightning Node - hint/First Chest - hint"
+                    },
+                    {
+                        "name": "Lightning Node - Second Chest - hint",
+                        "ref": "Lanayru Province - hint/Lanayru Desert - hint/Lightning Node - hint/Second Chest - hint"
+                    },
+                    {
+                        "name": "Lightning Node - Raised Chest near Generator - hint",
+                        "ref": "Lanayru Province - hint/Lanayru Desert - hint/Lightning Node - hint/Raised Chest near Generator - hint"
+                    },
+                    {
+                        "name": "Lanayru Desert - Chest near Party Wheel - hint",
+                        "ref": "Lanayru Province - hint/Lanayru Desert - hint/Chest near Party Wheel - hint"
+                    },
+                    {
+                        "name": "Lanayru Desert - Chest near Caged Robot - hint",
+                        "ref": "Lanayru Province - hint/Lanayru Desert - hint/Chest near Caged Robot - hint"
+                    },
+                    {
+                        "name": "Lanayru Desert - Rescue Caged Robot - hint",
+                        "ref": "Lanayru Province - hint/Lanayru Desert - hint/Rescue Caged Robot - hint"
+                    },
+                    {
+                        "name": "Lanayru Desert - Chest on Platform near Fire Node - hint",
+                        "ref": "Lanayru Province - hint/Lanayru Desert - hint/Chest on Platform near Fire Node - hint"
+                    },
+                    {
+                        "name": "Lanayru Desert - Chest on Platform near Lightning Node - hint",
+                        "ref": "Lanayru Province - hint/Lanayru Desert - hint/Chest on Platform near Lightning Node - hint"
+                    },
+                    {
+                        "name": "Lanayru Desert - Chest near Sand Oasis - hint",
+                        "ref": "Lanayru Province - hint/Lanayru Desert - hint/Chest near Sand Oasis - hint"
+                    },
+                    {
+                        "name": "Lanayru Desert - Chest on top of Lanayru Mining Facility - hint",
+                        "ref": "Lanayru Province - hint/Lanayru Desert - hint/Chest on top of Lanayru Mining Facility - hint"
+                    },
+                    {
+                        "name": "Lanayru Desert - Secret Passageway Chest - hint",
+                        "ref": "Lanayru Province - hint/Lanayru Desert - hint/Secret Passageway Chest - hint"
+                    },
+                    {
+                        "name": "Lanayru Caves - Chest - hint",
+                        "ref": "Lanayru Province - hint/Lanayru Caves - hint/Chest - hint"
+                    },
+                    {
+                        "name": "Lanayru Caves - Golo's Gift - hint",
+                        "ref": "Lanayru Province - hint/Lanayru Caves - hint/Golo's Gift - hint"
+                    },
+                    {
+                        "name": "Lanayru Gorge - Thunder Dragon's Reward - hint",
+                        "ref": "Lanayru Province - hint/Lanayru Gorge - hint/Thunder Dragon's Reward - hint"
+                    },
+                    {
+                        "name": "Lanayru Gorge - Item on Pillar - hint",
+                        "ref": "Lanayru Province - hint/Lanayru Gorge - hint/Item on Pillar - hint"
+                    },
+                    {
+                        "name": "Lanayru Gorge - Digging Spot - hint",
+                        "ref": "Lanayru Province - hint/Lanayru Gorge - hint/Digging Spot - hint"
+                    },
+                    {
+                        "name": "Ancient Harbour - Rupee on First Pillar - hint",
+                        "ref": "Lanayru Province - hint/Lanayru Sand Sea - hint/Ancient Harbour - hint/Rupee on First Pillar - hint"
+                    },
+                    {
+                        "name": "Ancient Harbour - Left Rupee on Entrance Crown - hint",
+                        "ref": "Lanayru Province - hint/Lanayru Sand Sea - hint/Ancient Harbour - hint/Left Rupee on Entrance Crown - hint"
+                    },
+                    {
+                        "name": "Ancient Harbour - Right Rupee on Entrance Crown - hint",
+                        "ref": "Lanayru Province - hint/Lanayru Sand Sea - hint/Ancient Harbour - hint/Right Rupee on Entrance Crown - hint"
+                    },
+                    {
+                        "name": "Skipper's Retreat - Chest after Moblin - hint",
+                        "ref": "Lanayru Province - hint/Lanayru Sand Sea - hint/Skipper's Retreat - hint/Chest after Moblin - hint"
+                    },
+                    {
+                        "name": "Skipper's Retreat - Chest on top of Cacti Pillar - hint",
+                        "ref": "Lanayru Province - hint/Lanayru Sand Sea - hint/Skipper's Retreat - hint/Chest on top of Cacti Pillar - hint"
+                    },
+                    {
+                        "name": "Skipper's Retreat - Chest in Shack - hint",
+                        "ref": "Lanayru Province - hint/Lanayru Sand Sea - hint/Skipper's Retreat - hint/Chest in Shack - hint"
+                    },
+                    {
+                        "name": "Skipper's Retreat - Skydive Chest - hint",
+                        "ref": "Lanayru Province - hint/Lanayru Sand Sea - hint/Skipper's Retreat - hint/Skydive Chest - hint"
+                    },
+                    {
+                        "name": "Pirate Stronghold - Rupee on East Sea Pillar - hint",
+                        "ref": "Lanayru Province - hint/Lanayru Sand Sea - hint/Pirate Stronghold - hint/Rupee on East Sea Pillar - hint"
+                    },
+                    {
+                        "name": "Pirate Stronghold - Rupee on West Sea Pillar - hint",
+                        "ref": "Lanayru Province - hint/Lanayru Sand Sea - hint/Pirate Stronghold - hint/Rupee on West Sea Pillar - hint"
+                    },
+                    {
+                        "name": "Pirate Stronghold - Rupee on Bird Statue Pillar or Nose - hint",
+                        "ref": "Lanayru Province - hint/Lanayru Sand Sea - hint/Pirate Stronghold - hint/Rupee on Bird Statue Pillar or Nose - hint"
+                    },
+                    {
+                        "name": "Pirate Stronghold - First Chest - hint",
+                        "ref": "Lanayru Province - hint/Lanayru Sand Sea - hint/Pirate Stronghold - hint/First Chest - hint"
+                    },
+                    {
+                        "name": "Pirate Stronghold - Second Chest - hint",
+                        "ref": "Lanayru Province - hint/Lanayru Sand Sea - hint/Pirate Stronghold - hint/Second Chest - hint"
+                    },
+                    {
+                        "name": "Pirate Stronghold - Third Chest - hint",
+                        "ref": "Lanayru Province - hint/Lanayru Sand Sea - hint/Pirate Stronghold - hint/Third Chest - hint"
+                    },
+                    {
+                        "name": "Lanayru Sand Sea - Rickety Coaster -- Heart Stopping Track in 1'05 - hint",
+                        "ref": "Lanayru Province - hint/Lanayru Sand Sea - hint/Rickety Coaster -- Heart Stopping Track in 1'05 - hint"
+                    },
+                    {
+                        "name": "Lanayru Mining Facility - Chest behind Bars - hint",
+                        "ref": "Lanayru Province - hint/Lanayru Mining Facility - hint/Chest behind Bars - hint"
+                    },
+                    {
+                        "name": "Lanayru Mining Facility - First Chest in Hub Room - hint",
+                        "ref": "Lanayru Province - hint/Lanayru Mining Facility - hint/First Chest in Hub Room - hint"
+                    },
+                    {
+                        "name": "Lanayru Mining Facility - Chest in First West Room - hint",
+                        "ref": "Lanayru Province - hint/Lanayru Mining Facility - hint/Chest in First West Room - hint"
+                    },
+                    {
+                        "name": "Lanayru Mining Facility - Chest after Armos Fight - hint",
+                        "ref": "Lanayru Province - hint/Lanayru Mining Facility - hint/Chest after Armos Fight - hint"
+                    },
+                    {
+                        "name": "Lanayru Mining Facility - Chest in Key Locked Room - hint",
+                        "ref": "Lanayru Province - hint/Lanayru Mining Facility - hint/Chest in Key Locked Room - hint"
+                    },
+                    {
+                        "name": "Lanayru Mining Facility - Raised Chest in Hop across Boxes Room - hint",
+                        "ref": "Lanayru Province - hint/Lanayru Mining Facility - hint/Raised Chest in Hop across Boxes Room - hint"
+                    },
+                    {
+                        "name": "Lanayru Mining Facility - Lower Chest in Hop across Boxes Room - hint",
+                        "ref": "Lanayru Province - hint/Lanayru Mining Facility - hint/Lower Chest in Hop across Boxes Room - hint"
+                    },
+                    {
+                        "name": "Lanayru Mining Facility - Chest behind First Crawlspace - hint",
+                        "ref": "Lanayru Province - hint/Lanayru Mining Facility - hint/Chest behind First Crawlspace - hint"
+                    },
+                    {
+                        "name": "Lanayru Mining Facility - Chest in Spike Maze - hint",
+                        "ref": "Lanayru Province - hint/Lanayru Mining Facility - hint/Chest in Spike Maze - hint"
+                    },
+                    {
+                        "name": "Lanayru Mining Facility - Boss Key Chest - hint",
+                        "ref": "Lanayru Province - hint/Lanayru Mining Facility - hint/Boss Key Chest - hint"
+                    },
+                    {
+                        "name": "Lanayru Mining Facility - Shortcut Chest in Main Hub - hint",
+                        "ref": "Lanayru Province - hint/Lanayru Mining Facility - hint/Shortcut Chest in Main Hub - hint"
+                    },
+                    {
+                        "name": "Lanayru Mining Facility - Heart Container - hint",
+                        "ref": "Lanayru Province - hint/Lanayru Mining Facility - hint/Heart Container - hint"
+                    },
+                    {
+                        "name": "Lanayru Mining Facility - Exit Hall of Ancient Robots - hint",
+                        "ref": "Lanayru Province - hint/Lanayru Mining Facility - hint/Exit Hall of Ancient Robots - hint"
+                    },
+                    {
+                        "name": "Sandship - Chest at the Stern - hint",
+                        "ref": "Lanayru Province - hint/Sandship - hint/Chest at the Stern - hint"
+                    },
+                    {
+                        "name": "Sandship - Chest before 4-Door Corridor - hint",
+                        "ref": "Lanayru Province - hint/Sandship - hint/Chest before 4-Door Corridor - hint"
+                    },
+                    {
+                        "name": "Sandship - Chest behind Combination Lock - hint",
+                        "ref": "Lanayru Province - hint/Sandship - hint/Chest behind Combination Lock - hint"
+                    },
+                    {
+                        "name": "Sandship - Treasure Room First Chest - hint",
+                        "ref": "Lanayru Province - hint/Sandship - hint/Treasure Room First Chest - hint"
+                    },
+                    {
+                        "name": "Sandship - Treasure Room Second Chest - hint",
+                        "ref": "Lanayru Province - hint/Sandship - hint/Treasure Room Second Chest - hint"
+                    },
+                    {
+                        "name": "Sandship - Treasure Room Third Chest - hint",
+                        "ref": "Lanayru Province - hint/Sandship - hint/Treasure Room Third Chest - hint"
+                    },
+                    {
+                        "name": "Sandship - Treasure Room Fourth Chest - hint",
+                        "ref": "Lanayru Province - hint/Sandship - hint/Treasure Room Fourth Chest - hint"
+                    },
+                    {
+                        "name": "Sandship - Treasure Room Fifth Chest - hint",
+                        "ref": "Lanayru Province - hint/Sandship - hint/Treasure Room Fifth Chest - hint"
+                    },
+                    {
+                        "name": "Sandship - Robot in Brig's Reward - hint",
+                        "ref": "Lanayru Province - hint/Sandship - hint/Robot in Brig's Reward - hint"
+                    },
+                    {
+                        "name": "Sandship - Chest after Scervo Fight - hint",
+                        "ref": "Lanayru Province - hint/Sandship - hint/Chest after Scervo Fight - hint"
+                    },
+                    {
+                        "name": "Sandship - Boss Key Chest - hint",
+                        "ref": "Lanayru Province - hint/Sandship - hint/Boss Key Chest - hint"
+                    },
+                    {
+                        "name": "Sandship - Heart Container - hint",
+                        "ref": "Lanayru Province - hint/Sandship - hint/Heart Container - hint"
+                    },
+                    {
+                        "name": "Sandship - Nayru's Flame - hint",
+                        "ref": "Lanayru Province - hint/Sandship - hint/Nayru's Flame - hint"
+                    },
+                    {
+                        "name": "Lanayru Silent Realm - Trial Reward - hint",
+                        "ref": "Lanayru Province - hint/Lanayru Silent Realm - hint/Trial Reward - hint"
+                    },
+                    {
+                        "name": "Lanayru Silent Realm - Relic 1 - hint",
+                        "ref": "Lanayru Province - hint/Lanayru Silent Realm - hint/Relic 1 - hint"
+                    },
+                    {
+                        "name": "Lanayru Silent Realm - Relic 2 - hint",
+                        "ref": "Lanayru Province - hint/Lanayru Silent Realm - hint/Relic 2 - hint"
+                    },
+                    {
+                        "name": "Lanayru Silent Realm - Relic 3 - hint",
+                        "ref": "Lanayru Province - hint/Lanayru Silent Realm - hint/Relic 3 - hint"
+                    },
+                    {
+                        "name": "Lanayru Silent Realm - Relic 4 - hint",
+                        "ref": "Lanayru Province - hint/Lanayru Silent Realm - hint/Relic 4 - hint"
+                    },
+                    {
+                        "name": "Lanayru Silent Realm - Relic 5 - hint",
+                        "ref": "Lanayru Province - hint/Lanayru Silent Realm - hint/Relic 5 - hint"
+                    },
+                    {
+                        "name": "Lanayru Silent Realm - Relic 6 - hint",
+                        "ref": "Lanayru Province - hint/Lanayru Silent Realm - hint/Relic 6 - hint"
+                    },
+                    {
+                        "name": "Lanayru Silent Realm - Relic 7 - hint",
+                        "ref": "Lanayru Province - hint/Lanayru Silent Realm - hint/Relic 7 - hint"
+                    },
+                    {
+                        "name": "Lanayru Silent Realm - Relic 8 - hint",
+                        "ref": "Lanayru Province - hint/Lanayru Silent Realm - hint/Relic 8 - hint"
+                    },
+                    {
+                        "name": "Lanayru Silent Realm - Relic 9 - hint",
+                        "ref": "Lanayru Province - hint/Lanayru Silent Realm - hint/Relic 9 - hint"
+                    },
+                    {
+                        "name": "Lanayru Silent Realm - Relic 10 - hint",
+                        "ref": "Lanayru Province - hint/Lanayru Silent Realm - hint/Relic 10 - hint"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "2328",
+                        "y": "112",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "Skyloft - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": "Ghost - Pipit's Crystals - hint",
+                        "ref": "Skyloft - hint/Upper Skyloft - hint/Ghost - hint/Pipit's Crystals - hint"
+                    },
+                    {
+                        "name": "Upper Skyloft - Fledge's Gift - hint",
+                        "ref": "Skyloft - hint/Upper Skyloft - hint/Fledge's Gift - hint"
+                    },
+                    {
+                        "name": "Upper Skyloft - Owlan's Gift - hint",
+                        "ref": "Skyloft - hint/Upper Skyloft - hint/Owlan's Gift - hint"
+                    },
+                    {
+                        "name": "Upper Skyloft - Sparring Hall Chest - hint",
+                        "ref": "Skyloft - hint/Upper Skyloft - hint/Sparring Hall Chest - hint"
+                    },
+                    {
+                        "name": "Upper Skyloft - Ring Knight Academy Bell - hint",
+                        "ref": "Skyloft - hint/Upper Skyloft - hint/Ring Knight Academy Bell - hint"
+                    },
+                    {
+                        "name": "Upper Skyloft - Chest near Goddess Statue - hint",
+                        "ref": "Skyloft - hint/Upper Skyloft - hint/Chest near Goddess Statue - hint"
+                    },
+                    {
+                        "name": "Upper Skyloft - First Goddess Sword Item in Goddess Statue - hint",
+                        "ref": "Skyloft - hint/Upper Skyloft - hint/First Goddess Sword Item in Goddess Statue - hint"
+                    },
+                    {
+                        "name": "Upper Skyloft - Second Goddess Sword Item in Goddess Statue - hint",
+                        "ref": "Skyloft - hint/Upper Skyloft - hint/Second Goddess Sword Item in Goddess Statue - hint"
+                    },
+                    {
+                        "name": "Upper Skyloft - In Zelda's Closet - hint",
+                        "ref": "Skyloft - hint/Upper Skyloft - hint/In Zelda's Closet - hint"
+                    },
+                    {
+                        "name": "Upper Skyloft - Owlan's Crystals - hint",
+                        "ref": "Skyloft - hint/Upper Skyloft - hint/Owlan's Crystals - hint"
+                    },
+                    {
+                        "name": "Upper Skyloft - Fledge's Crystals - hint",
+                        "ref": "Skyloft - hint/Upper Skyloft - hint/Fledge's Crystals - hint"
+                    },
+                    {
+                        "name": "Upper Skyloft - Item from Cawlin - hint",
+                        "ref": "Skyloft - hint/Upper Skyloft - hint/Item from Cawlin - hint"
+                    },
+                    {
+                        "name": "Upper Skyloft - Pumpkin Archery -- 600 Points - hint",
+                        "ref": "Skyloft - hint/Upper Skyloft - hint/Pumpkin Archery -- 600 Points - hint"
+                    },
+                    {
+                        "name": "Peater - Peatrice's Crystals - hint",
+                        "ref": "Skyloft - hint/Central Skyloft - hint/Peater - hint/Peatrice's Crystals - hint"
+                    },
+                    {
+                        "name": "Central Skyloft - Potion Lady's Gift - hint",
+                        "ref": "Skyloft - hint/Central Skyloft - hint/Potion Lady's Gift - hint"
+                    },
+                    {
+                        "name": "Central Skyloft - Repair Gondo's Junk - hint",
+                        "ref": "Skyloft - hint/Central Skyloft - hint/Repair Gondo's Junk - hint"
+                    },
+                    {
+                        "name": "Central Skyloft - Wryna's Crystals - hint",
+                        "ref": "Skyloft - hint/Central Skyloft - hint/Wryna's Crystals - hint"
+                    },
+                    {
+                        "name": "Central Skyloft - Waterfall Cave First Chest - hint",
+                        "ref": "Skyloft - hint/Central Skyloft - hint/Waterfall Cave First Chest - hint"
+                    },
+                    {
+                        "name": "Central Skyloft - Waterfall Cave Second Chest - hint",
+                        "ref": "Skyloft - hint/Central Skyloft - hint/Waterfall Cave Second Chest - hint"
+                    },
+                    {
+                        "name": "Central Skyloft - Rupee Waterfall Cave Crawlspace - hint",
+                        "ref": "Skyloft - hint/Central Skyloft - hint/Rupee Waterfall Cave Crawlspace - hint"
+                    },
+                    {
+                        "name": "Central Skyloft - Parrow's Gift - hint",
+                        "ref": "Skyloft - hint/Central Skyloft - hint/Parrow's Gift - hint"
+                    },
+                    {
+                        "name": "Central Skyloft - Parrow's Crystals - hint",
+                        "ref": "Skyloft - hint/Central Skyloft - hint/Parrow's Crystals - hint"
+                    },
+                    {
+                        "name": "Central Skyloft - Item in Bird Nest - hint",
+                        "ref": "Skyloft - hint/Central Skyloft - hint/Item in Bird Nest - hint"
+                    },
+                    {
+                        "name": "Central Skyloft - Shed Chest - hint",
+                        "ref": "Skyloft - hint/Central Skyloft - hint/Shed Chest - hint"
+                    },
+                    {
+                        "name": "Central Skyloft - West Cliff Goddess Chest - hint",
+                        "ref": "Skyloft - hint/Central Skyloft - hint/West Cliff Goddess Chest - hint"
+                    },
+                    {
+                        "name": "Central Skyloft - Bazaar Goddess Chest - hint",
+                        "ref": "Skyloft - hint/Central Skyloft - hint/Bazaar Goddess Chest - hint"
+                    },
+                    {
+                        "name": "Central Skyloft - Shed Goddess Chest - hint",
+                        "ref": "Skyloft - hint/Central Skyloft - hint/Shed Goddess Chest - hint"
+                    },
+                    {
+                        "name": "Central Skyloft - Floating Island Goddess Chest - hint",
+                        "ref": "Skyloft - hint/Central Skyloft - hint/Floating Island Goddess Chest - hint"
+                    },
+                    {
+                        "name": "Central Skyloft - Waterfall Goddess Chest - hint",
+                        "ref": "Skyloft - hint/Central Skyloft - hint/Waterfall Goddess Chest - hint"
+                    },
+                    {
+                        "name": "Skyloft Village - Mallara's Crystals - hint",
+                        "ref": "Skyloft - hint/Skyloft Village - hint/Mallara's Crystals - hint"
+                    },
+                    {
+                        "name": "Skyloft Village - Bertie's Crystals - hint",
+                        "ref": "Skyloft - hint/Skyloft Village - hint/Bertie's Crystals - hint"
+                    },
+                    {
+                        "name": "Skyloft Village - Sparrot's Crystals - hint",
+                        "ref": "Skyloft - hint/Skyloft Village - hint/Sparrot's Crystals - hint"
+                    },
+                    {
+                        "name": "Batreaux's House - 5 Crystals - hint",
+                        "ref": "Skyloft - hint/Batreaux's House - hint/5 Crystals - hint"
+                    },
+                    {
+                        "name": "Batreaux's House - 10 Crystals - hint",
+                        "ref": "Skyloft - hint/Batreaux's House - hint/10 Crystals - hint"
+                    },
+                    {
+                        "name": "Batreaux's House - 30 Crystals - hint",
+                        "ref": "Skyloft - hint/Batreaux's House - hint/30 Crystals - hint"
+                    },
+                    {
+                        "name": "Batreaux's House - 30 Crystals Chest - hint",
+                        "ref": "Skyloft - hint/Batreaux's House - hint/30 Crystals Chest - hint"
+                    },
+                    {
+                        "name": "Batreaux's House - 40 Crystals - hint",
+                        "ref": "Skyloft - hint/Batreaux's House - hint/40 Crystals - hint"
+                    },
+                    {
+                        "name": "Batreaux's House - 50 Crystals - hint",
+                        "ref": "Skyloft - hint/Batreaux's House - hint/50 Crystals - hint"
+                    },
+                    {
+                        "name": "Batreaux's House - 70 Crystals - hint",
+                        "ref": "Skyloft - hint/Batreaux's House - hint/70 Crystals - hint"
+                    },
+                    {
+                        "name": "Batreaux's House - 70 Crystals Second Reward - hint",
+                        "ref": "Skyloft - hint/Batreaux's House - hint/70 Crystals Second Reward - hint"
+                    },
+                    {
+                        "name": "Batreaux's House - 80 Crystals - hint",
+                        "ref": "Skyloft - hint/Batreaux's House - hint/80 Crystals - hint"
+                    },
+                    {
+                        "name": "Beedle's Shop - 300 Rupee Item - hint",
+                        "ref": "Skyloft - hint/Beedle's Shop - hint/300 Rupee Item - hint"
+                    },
+                    {
+                        "name": "Beedle's Shop - 600 Rupee Item - hint",
+                        "ref": "Skyloft - hint/Beedle's Shop - hint/600 Rupee Item - hint"
+                    },
+                    {
+                        "name": "Beedle's Shop - 1200 Rupee Item - hint",
+                        "ref": "Skyloft - hint/Beedle's Shop - hint/1200 Rupee Item - hint"
+                    },
+                    {
+                        "name": "Beedle's Shop - 800 Rupee Item - hint",
+                        "ref": "Skyloft - hint/Beedle's Shop - hint/800 Rupee Item - hint"
+                    },
+                    {
+                        "name": "Beedle's Shop - 1600 Rupee Item - hint",
+                        "ref": "Skyloft - hint/Beedle's Shop - hint/1600 Rupee Item - hint"
+                    },
+                    {
+                        "name": "Beedle's Shop - First 100 Rupee Item - hint",
+                        "ref": "Skyloft - hint/Beedle's Shop - hint/First 100 Rupee Item - hint"
+                    },
+                    {
+                        "name": "Beedle's Shop - Second 100 Rupee Item - hint",
+                        "ref": "Skyloft - hint/Beedle's Shop - hint/Second 100 Rupee Item - hint"
+                    },
+                    {
+                        "name": "Beedle's Shop - Third 100 Rupee Item - hint",
+                        "ref": "Skyloft - hint/Beedle's Shop - hint/Third 100 Rupee Item - hint"
+                    },
+                    {
+                        "name": "Beedle's Shop - 50 Rupee Item - hint",
+                        "ref": "Skyloft - hint/Beedle's Shop - hint/50 Rupee Item - hint"
+                    },
+                    {
+                        "name": "Beedle's Shop - 1000 Rupee Item - hint",
+                        "ref": "Skyloft - hint/Beedle's Shop - hint/1000 Rupee Item - hint"
+                    },
+                    {
+                        "name": "Sky Keep - First Chest - hint",
+                        "ref": "Skyloft - hint/Sky Keep - hint/First Chest - hint"
+                    },
+                    {
+                        "name": "Sky Keep - Chest after Dreadfuse - hint",
+                        "ref": "Skyloft - hint/Sky Keep - hint/Chest after Dreadfuse - hint"
+                    },
+                    {
+                        "name": "Sky Keep - Rupee in Fire Sanctuary Room in Alcove - hint",
+                        "ref": "Skyloft - hint/Sky Keep - hint/Rupee in Fire Sanctuary Room in Alcove - hint"
+                    },
+                    {
+                        "name": "Sky Keep - Sacred Power of Din - hint",
+                        "ref": "Skyloft - hint/Sky Keep - hint/Sacred Power of Din - hint"
+                    },
+                    {
+                        "name": "Sky Keep - Sacred Power of Nayru - hint",
+                        "ref": "Skyloft - hint/Sky Keep - hint/Sacred Power of Nayru - hint"
+                    },
+                    {
+                        "name": "Sky Keep - Sacred Power of Farore - hint",
+                        "ref": "Skyloft - hint/Sky Keep - hint/Sacred Power of Farore - hint"
+                    },
+                    {
+                        "name": "Skyloft Silent Realm - Trial Reward - hint",
+                        "ref": "Skyloft - hint/Skyloft Silent Realm - hint/Trial Reward - hint"
+                    },
+                    {
+                        "name": "Skyloft Silent Realm - Relic 1 - hint",
+                        "ref": "Skyloft - hint/Skyloft Silent Realm - hint/Relic 1 - hint"
+                    },
+                    {
+                        "name": "Skyloft Silent Realm - Relic 2 - hint",
+                        "ref": "Skyloft - hint/Skyloft Silent Realm - hint/Relic 2 - hint"
+                    },
+                    {
+                        "name": "Skyloft Silent Realm - Relic 3 - hint",
+                        "ref": "Skyloft - hint/Skyloft Silent Realm - hint/Relic 3 - hint"
+                    },
+                    {
+                        "name": "Skyloft Silent Realm - Relic 4 - hint",
+                        "ref": "Skyloft - hint/Skyloft Silent Realm - hint/Relic 4 - hint"
+                    },
+                    {
+                        "name": "Skyloft Silent Realm - Relic 5 - hint",
+                        "ref": "Skyloft - hint/Skyloft Silent Realm - hint/Relic 5 - hint"
+                    },
+                    {
+                        "name": "Skyloft Silent Realm - Relic 6 - hint",
+                        "ref": "Skyloft - hint/Skyloft Silent Realm - hint/Relic 6 - hint"
+                    },
+                    {
+                        "name": "Skyloft Silent Realm - Relic 7 - hint",
+                        "ref": "Skyloft - hint/Skyloft Silent Realm - hint/Relic 7 - hint"
+                    },
+                    {
+                        "name": "Skyloft Silent Realm - Relic 8 - hint",
+                        "ref": "Skyloft - hint/Skyloft Silent Realm - hint/Relic 8 - hint"
+                    },
+                    {
+                        "name": "Skyloft Silent Realm - Relic 9 - hint",
+                        "ref": "Skyloft - hint/Skyloft Silent Realm - hint/Relic 9 - hint"
+                    },
+                    {
+                        "name": "Skyloft Silent Realm - Relic 10 - hint",
+                        "ref": "Skyloft - hint/Skyloft Silent Realm - hint/Relic 10 - hint"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "712",
+                        "y": "862",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "The Sky - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": "Lumpy Pumpkin - Chandelier - hint",
+                        "ref": "The Sky - hint/Lumpy Pumpkin - hint/Chandelier - hint"
+                    },
+                    {
+                        "name": "Lumpy Pumpkin - Harp Minigame - hint",
+                        "ref": "The Sky - hint/Lumpy Pumpkin - hint/Harp Minigame - hint"
+                    },
+                    {
+                        "name": "Lumpy Pumpkin - Goddess Chest on the Roof - hint",
+                        "ref": "The Sky - hint/Lumpy Pumpkin - hint/Goddess Chest on the Roof - hint"
+                    },
+                    {
+                        "name": "Lumpy Pumpkin - Outside Goddess Chest - hint",
+                        "ref": "The Sky - hint/Lumpy Pumpkin - hint/Outside Goddess Chest - hint"
+                    },
+                    {
+                        "name": "The Sky - Kina's Crystals - hint",
+                        "ref": "The Sky - hint/Kina's Crystals - hint"
+                    },
+                    {
+                        "name": "The Sky - Orielle's Crystals - hint",
+                        "ref": "The Sky - hint/Orielle's Crystals - hint"
+                    },
+                    {
+                        "name": "The Sky - Beedle's Crystals - hint",
+                        "ref": "The Sky - hint/Beedle's Crystals - hint"
+                    },
+                    {
+                        "name": "The Sky - Dodoh's Crystals - hint",
+                        "ref": "The Sky - hint/Dodoh's Crystals - hint"
+                    },
+                    {
+                        "name": "The Sky - Fun Fun Island Minigame -- 500 Rupees - hint",
+                        "ref": "The Sky - hint/Fun Fun Island Minigame -- 500 Rupees - hint"
+                    },
+                    {
+                        "name": "The Sky - Chest in Breakable Boulder near Fun Fun Island - hint",
+                        "ref": "The Sky - hint/Chest in Breakable Boulder near Fun Fun Island - hint"
+                    },
+                    {
+                        "name": "The Sky - Chest in Breakable Boulder near Lumpy Pumpkin - hint",
+                        "ref": "The Sky - hint/Chest in Breakable Boulder near Lumpy Pumpkin - hint"
+                    },
+                    {
+                        "name": "The Sky - Bamboo Island Goddess Chest - hint",
+                        "ref": "The Sky - hint/Bamboo Island Goddess Chest - hint"
+                    },
+                    {
+                        "name": "The Sky - Goddess Chest on Island next to Bamboo Island - hint",
+                        "ref": "The Sky - hint/Goddess Chest on Island next to Bamboo Island - hint"
+                    },
+                    {
+                        "name": "The Sky - Goddess Chest in Cave on Island next to Bamboo Island - hint",
+                        "ref": "The Sky - hint/Goddess Chest in Cave on Island next to Bamboo Island - hint"
+                    },
+                    {
+                        "name": "The Sky - Beedle's Island Goddess Chest - hint",
+                        "ref": "The Sky - hint/Beedle's Island Goddess Chest - hint"
+                    },
+                    {
+                        "name": "The Sky - Beedle's Island Cage Goddess Chest - hint",
+                        "ref": "The Sky - hint/Beedle's Island Cage Goddess Chest - hint"
+                    },
+                    {
+                        "name": "The Sky - Northeast Island Goddess Chest behind Bombable Rocks - hint",
+                        "ref": "The Sky - hint/Northeast Island Goddess Chest behind Bombable Rocks - hint"
+                    },
+                    {
+                        "name": "The Sky - Northeast Island Cage Goddess Chest - hint",
+                        "ref": "The Sky - hint/Northeast Island Cage Goddess Chest - hint"
+                    },
+                    {
+                        "name": "The Sky - Goddess Chest on Island Closest to Faron Pillar - hint",
+                        "ref": "The Sky - hint/Goddess Chest on Island Closest to Faron Pillar - hint"
+                    },
+                    {
+                        "name": "The Sky - Goddess Chest outside Volcanic Island - hint",
+                        "ref": "The Sky - hint/Goddess Chest outside Volcanic Island - hint"
+                    },
+                    {
+                        "name": "The Sky - Goddess Chest inside Volcanic Island - hint",
+                        "ref": "The Sky - hint/Goddess Chest inside Volcanic Island - hint"
+                    },
+                    {
+                        "name": "The Sky - Goddess Chest under Fun Fun Island - hint",
+                        "ref": "The Sky - hint/Goddess Chest under Fun Fun Island - hint"
+                    },
+                    {
+                        "name": "The Sky - Southwest Triple Island Upper Goddess Chest - hint",
+                        "ref": "The Sky - hint/Southwest Triple Island Upper Goddess Chest - hint"
+                    },
+                    {
+                        "name": "The Sky - Southwest Triple Island Lower Goddess Chest - hint",
+                        "ref": "The Sky - hint/Southwest Triple Island Lower Goddess Chest - hint"
+                    },
+                    {
+                        "name": "The Sky - Southwest Triple Island Cage Goddess Chest - hint",
+                        "ref": "The Sky - hint/Southwest Triple Island Cage Goddess Chest - hint"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "1314",
+                        "y": "1725",
+                        "size": 12
+                    }
+                ]
+            },
+            {
+                "name": "The Thunderhead - hint",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "{}"
+                ],
+                "sections": [
+                    {
+                        "name": "Isle of Songs - Strike Crest with Goddess Sword - hint",
+                        "ref": "The Thunderhead - hint/Isle of Songs - hint/Strike Crest with Goddess Sword - hint"
+                    },
+                    {
+                        "name": "Isle of Songs - Strike Crest with Longsword - hint",
+                        "ref": "The Thunderhead - hint/Isle of Songs - hint/Strike Crest with Longsword - hint"
+                    },
+                    {
+                        "name": "Isle of Songs - Strike Crest with White Sword - hint",
+                        "ref": "The Thunderhead - hint/Isle of Songs - hint/Strike Crest with White Sword - hint"
+                    },
+                    {
+                        "name": "The Thunderhead - Song from Levias - hint",
+                        "ref": "The Thunderhead - hint/Song from Levias - hint"
+                    },
+                    {
+                        "name": "The Thunderhead - Bug Heaven -- 10 Bugs in 3 Minutes - hint",
+                        "ref": "The Thunderhead - hint/Bug Heaven -- 10 Bugs in 3 Minutes - hint"
+                    },
+                    {
+                        "name": "The Thunderhead - East Island Chest - hint",
+                        "ref": "The Thunderhead - hint/East Island Chest - hint"
+                    },
+                    {
+                        "name": "The Thunderhead - East Island Goddess Chest - hint",
+                        "ref": "The Thunderhead - hint/East Island Goddess Chest - hint"
+                    },
+                    {
+                        "name": "The Thunderhead - Goddess Chest on top of Isle of Songs - hint",
+                        "ref": "The Thunderhead - hint/Goddess Chest on top of Isle of Songs - hint"
+                    },
+                    {
+                        "name": "The Thunderhead - Goddess Chest outside Isle of Songs - hint",
+                        "ref": "The Thunderhead - hint/Goddess Chest outside Isle of Songs - hint"
+                    },
+                    {
+                        "name": "The Thunderhead - First Goddess Chest on Mogma Mitts Island - hint",
+                        "ref": "The Thunderhead - hint/First Goddess Chest on Mogma Mitts Island - hint"
+                    },
+                    {
+                        "name": "The Thunderhead - Second Goddess Chest on Mogma Mitts Island - hint",
+                        "ref": "The Thunderhead - hint/Second Goddess Chest on Mogma Mitts Island - hint"
+                    },
+                    {
+                        "name": "The Thunderhead - Bug Heaven Goddess Chest - hint",
+                        "ref": "The Thunderhead - hint/Bug Heaven Goddess Chest - hint"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "2226",
+                        "y": "1238",
+                        "size": 12
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Overworld",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Eldin Province",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Eldin Volcano - Rupee on Ledge before First Room",
+                        "ref": "Eldin Province/Eldin Volcano/Rupee on Ledge before First Room"
+                    },
+                    {
+                        "name": "Eldin Volcano - Chest behind Bombable Wall in First Room",
+                        "ref": "Eldin Province/Eldin Volcano/Chest behind Bombable Wall in First Room"
+                    },
+                    {
+                        "name": "Eldin Volcano - Rupee behind Bombable Wall in First Room",
+                        "ref": "Eldin Province/Eldin Volcano/Rupee behind Bombable Wall in First Room"
+                    },
+                    {
+                        "name": "Eldin Volcano - Rupee in Crawlspace in First Room",
+                        "ref": "Eldin Province/Eldin Volcano/Rupee in Crawlspace in First Room"
+                    },
+                    {
+                        "name": "Eldin Volcano - Chest after Crawlspace",
+                        "ref": "Eldin Province/Eldin Volcano/Chest after Crawlspace"
+                    },
+                    {
+                        "name": "Eldin Volcano - Southeast Rupee above Mogma Turf Entrance",
+                        "ref": "Eldin Province/Eldin Volcano/Southeast Rupee above Mogma Turf Entrance"
+                    },
+                    {
+                        "name": "Eldin Volcano - North Rupee above Mogma Turf Entrance",
+                        "ref": "Eldin Province/Eldin Volcano/North Rupee above Mogma Turf Entrance"
+                    },
+                    {
+                        "name": "Eldin Volcano - Chest behind Bombable Wall near Cliff",
+                        "ref": "Eldin Province/Eldin Volcano/Chest behind Bombable Wall near Cliff"
+                    },
+                    {
+                        "name": "Eldin Volcano - Item on Cliff",
+                        "ref": "Eldin Province/Eldin Volcano/Item on Cliff"
+                    },
+                    {
+                        "name": "Eldin Volcano - Chest behind Bombable Wall near Volcano Ascent",
+                        "ref": "Eldin Province/Eldin Volcano/Chest behind Bombable Wall near Volcano Ascent"
+                    },
+                    {
+                        "name": "Eldin Volcano - Left Rupee behind Bombable Wall on First Slope",
+                        "ref": "Eldin Province/Eldin Volcano/Left Rupee behind Bombable Wall on First Slope"
+                    },
+                    {
+                        "name": "Eldin Volcano - Right Rupee behind Bombable Wall on First Slope",
+                        "ref": "Eldin Province/Eldin Volcano/Right Rupee behind Bombable Wall on First Slope"
+                    },
+                    {
+                        "name": "Eldin Volcano - Digging Spot in front of Earth Temple",
+                        "ref": "Eldin Province/Eldin Volcano/Digging Spot in front of Earth Temple"
+                    },
+                    {
+                        "name": "Eldin Volcano - Digging Spot below Tower",
+                        "ref": "Eldin Province/Eldin Volcano/Digging Spot below Tower"
+                    },
+                    {
+                        "name": "Eldin Volcano - Digging Spot behind Boulder on Sandy Slope",
+                        "ref": "Eldin Province/Eldin Volcano/Digging Spot behind Boulder on Sandy Slope"
+                    },
+                    {
+                        "name": "Eldin Volcano - Digging Spot after Vents",
+                        "ref": "Eldin Province/Eldin Volcano/Digging Spot after Vents"
+                    },
+                    {
+                        "name": "Eldin Volcano - Digging Spot after Draining Lava",
+                        "ref": "Eldin Province/Eldin Volcano/Digging Spot after Draining Lava"
+                    },
+                    {
+                        "name": "Mogma Turf - Free Fall Chest",
+                        "ref": "Eldin Province/Mogma Turf/Free Fall Chest"
+                    },
+                    {
+                        "name": "Mogma Turf - Chest behind Bombable Wall at Entrance",
+                        "ref": "Eldin Province/Mogma Turf/Chest behind Bombable Wall at Entrance"
+                    },
+                    {
+                        "name": "Mogma Turf - Defeat Bokoblins",
+                        "ref": "Eldin Province/Mogma Turf/Defeat Bokoblins"
+                    },
+                    {
+                        "name": "Mogma Turf - Sand Slide Chest",
+                        "ref": "Eldin Province/Mogma Turf/Sand Slide Chest"
+                    },
+                    {
+                        "name": "Mogma Turf - Chest behind Bombable Wall in Fire Maze",
+                        "ref": "Eldin Province/Mogma Turf/Chest behind Bombable Wall in Fire Maze"
+                    },
+                    {
+                        "name": "Volcano Summit - Chest behind Bombable Wall in Waterfall Area",
+                        "ref": "Eldin Province/Volcano Summit/Chest behind Bombable Wall in Waterfall Area"
+                    },
+                    {
+                        "name": "Volcano Summit - Item behind Digging",
+                        "ref": "Eldin Province/Volcano Summit/Item behind Digging"
+                    },
+                    {
+                        "name": "Bokoblin Base - Plats' Gift",
+                        "ref": "Eldin Province/Bokoblin Base/Plats' Gift"
+                    },
+                    {
+                        "name": "Bokoblin Base - Chest near Bone Bridge",
+                        "ref": "Eldin Province/Bokoblin Base/Chest near Bone Bridge"
+                    },
+                    {
+                        "name": "Bokoblin Base - Chest on Cliff",
+                        "ref": "Eldin Province/Bokoblin Base/Chest on Cliff"
+                    },
+                    {
+                        "name": "Bokoblin Base - Chest near Drawbridge",
+                        "ref": "Eldin Province/Bokoblin Base/Chest near Drawbridge"
+                    },
+                    {
+                        "name": "Bokoblin Base - Chest East of Earth Temple Entrance",
+                        "ref": "Eldin Province/Bokoblin Base/Chest East of Earth Temple Entrance"
+                    },
+                    {
+                        "name": "Bokoblin Base - Chest West of Earth Temple Entrance",
+                        "ref": "Eldin Province/Bokoblin Base/Chest West of Earth Temple Entrance"
+                    },
+                    {
+                        "name": "Bokoblin Base - First Chest in Volcano Summit",
+                        "ref": "Eldin Province/Bokoblin Base/First Chest in Volcano Summit"
+                    },
+                    {
+                        "name": "Bokoblin Base - Raised Chest in Volcano Summit",
+                        "ref": "Eldin Province/Bokoblin Base/Raised Chest in Volcano Summit"
+                    },
+                    {
+                        "name": "Bokoblin Base - Chest in Volcano Summit Alcove",
+                        "ref": "Eldin Province/Bokoblin Base/Chest in Volcano Summit Alcove"
+                    },
+                    {
+                        "name": "Bokoblin Base - Fire Dragon's Reward",
+                        "ref": "Eldin Province/Bokoblin Base/Fire Dragon's Reward"
+                    },
+                    {
+                        "name": "Earth Temple - Vent Chest",
+                        "ref": "Eldin Province/Earth Temple/Vent Chest"
+                    },
+                    {
+                        "name": "Earth Temple - Rupee above Drawbridge",
+                        "ref": "Eldin Province/Earth Temple/Rupee above Drawbridge"
+                    },
+                    {
+                        "name": "Earth Temple - Chest behind Bombable Rock",
+                        "ref": "Eldin Province/Earth Temple/Chest behind Bombable Rock"
+                    },
+                    {
+                        "name": "Earth Temple - Chest Left of Main Room Bridge",
+                        "ref": "Eldin Province/Earth Temple/Chest Left of Main Room Bridge"
+                    },
+                    {
+                        "name": "Earth Temple - Chest in West Room",
+                        "ref": "Eldin Province/Earth Temple/Chest in West Room"
+                    },
+                    {
+                        "name": "Earth Temple - Chest after Double Lizalfos Fight",
+                        "ref": "Eldin Province/Earth Temple/Chest after Double Lizalfos Fight"
+                    },
+                    {
+                        "name": "Earth Temple - Ledd's Gift",
+                        "ref": "Eldin Province/Earth Temple/Ledd's Gift"
+                    },
+                    {
+                        "name": "Earth Temple - Rupee in Lava Tunnel",
+                        "ref": "Eldin Province/Earth Temple/Rupee in Lava Tunnel"
+                    },
+                    {
+                        "name": "Earth Temple - Chest Guarded by Lizalfos",
+                        "ref": "Eldin Province/Earth Temple/Chest Guarded by Lizalfos"
+                    },
+                    {
+                        "name": "Earth Temple - Boss Key Chest",
+                        "ref": "Eldin Province/Earth Temple/Boss Key Chest"
+                    },
+                    {
+                        "name": "Earth Temple - Heart Container",
+                        "ref": "Eldin Province/Earth Temple/Heart Container"
+                    },
+                    {
+                        "name": "Earth Temple - Strike Crest",
+                        "ref": "Eldin Province/Earth Temple/Strike Crest"
+                    },
+                    {
+                        "name": "Fire Sanctuary - Chest in First Room",
+                        "ref": "Eldin Province/Fire Sanctuary/Chest in First Room"
+                    },
+                    {
+                        "name": "Fire Sanctuary - Chest in Second Room",
+                        "ref": "Eldin Province/Fire Sanctuary/Chest in Second Room"
+                    },
+                    {
+                        "name": "Fire Sanctuary - Chest on Balcony",
+                        "ref": "Eldin Province/Fire Sanctuary/Chest on Balcony"
+                    },
+                    {
+                        "name": "Fire Sanctuary - Chest near First Trapped Mogma",
+                        "ref": "Eldin Province/Fire Sanctuary/Chest near First Trapped Mogma"
+                    },
+                    {
+                        "name": "Fire Sanctuary - First Chest in Water Fruit Room",
+                        "ref": "Eldin Province/Fire Sanctuary/First Chest in Water Fruit Room"
+                    },
+                    {
+                        "name": "Fire Sanctuary - Second Chest in Water Fruit Room",
+                        "ref": "Eldin Province/Fire Sanctuary/Second Chest in Water Fruit Room"
+                    },
+                    {
+                        "name": "Fire Sanctuary - Rescue First Trapped Mogma",
+                        "ref": "Eldin Province/Fire Sanctuary/Rescue First Trapped Mogma"
+                    },
+                    {
+                        "name": "Fire Sanctuary - Rescue Second Trapped Mogma",
+                        "ref": "Eldin Province/Fire Sanctuary/Rescue Second Trapped Mogma"
+                    },
+                    {
+                        "name": "Fire Sanctuary - Chest after Bombable Wall",
+                        "ref": "Eldin Province/Fire Sanctuary/Chest after Bombable Wall"
+                    },
+                    {
+                        "name": "Fire Sanctuary - Plats' Chest",
+                        "ref": "Eldin Province/Fire Sanctuary/Plats' Chest"
+                    },
+                    {
+                        "name": "Fire Sanctuary - Chest in Staircase Room",
+                        "ref": "Eldin Province/Fire Sanctuary/Chest in Staircase Room"
+                    },
+                    {
+                        "name": "Fire Sanctuary - Boss Key Chest",
+                        "ref": "Eldin Province/Fire Sanctuary/Boss Key Chest"
+                    },
+                    {
+                        "name": "Fire Sanctuary - Heart Container",
+                        "ref": "Eldin Province/Fire Sanctuary/Heart Container"
+                    },
+                    {
+                        "name": "Fire Sanctuary - Din's Flame",
+                        "ref": "Eldin Province/Fire Sanctuary/Din's Flame"
+                    },
+                    {
+                        "name": "Eldin Silent Realm - Trial Reward",
+                        "ref": "Eldin Province/Eldin Silent Realm/Trial Reward"
+                    },
+                    {
+                        "name": "Eldin Silent Realm - Relic 1",
+                        "ref": "Eldin Province/Eldin Silent Realm/Relic 1"
+                    },
+                    {
+                        "name": "Eldin Silent Realm - Relic 2",
+                        "ref": "Eldin Province/Eldin Silent Realm/Relic 2"
+                    },
+                    {
+                        "name": "Eldin Silent Realm - Relic 3",
+                        "ref": "Eldin Province/Eldin Silent Realm/Relic 3"
+                    },
+                    {
+                        "name": "Eldin Silent Realm - Relic 4",
+                        "ref": "Eldin Province/Eldin Silent Realm/Relic 4"
+                    },
+                    {
+                        "name": "Eldin Silent Realm - Relic 5",
+                        "ref": "Eldin Province/Eldin Silent Realm/Relic 5"
+                    },
+                    {
+                        "name": "Eldin Silent Realm - Relic 6",
+                        "ref": "Eldin Province/Eldin Silent Realm/Relic 6"
+                    },
+                    {
+                        "name": "Eldin Silent Realm - Relic 7",
+                        "ref": "Eldin Province/Eldin Silent Realm/Relic 7"
+                    },
+                    {
+                        "name": "Eldin Silent Realm - Relic 8",
+                        "ref": "Eldin Province/Eldin Silent Realm/Relic 8"
+                    },
+                    {
+                        "name": "Eldin Silent Realm - Relic 9",
+                        "ref": "Eldin Province/Eldin Silent Realm/Relic 9"
+                    },
+                    {
+                        "name": "Eldin Silent Realm - Relic 10",
+                        "ref": "Eldin Province/Eldin Silent Realm/Relic 10"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "1700",
+                        "y": "2157",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Faron Province",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Sealed Grounds - Chest inside Sealed Temple",
+                        "ref": "Faron Province/Sealed Grounds/Chest inside Sealed Temple"
+                    },
+                    {
+                        "name": "Sealed Grounds - Song from Impa",
+                        "ref": "Faron Province/Sealed Grounds/Song from Impa"
+                    },
+                    {
+                        "name": "Sealed Grounds - Gorko's Goddess Wall Reward",
+                        "ref": "Faron Province/Sealed Grounds/Gorko's Goddess Wall Reward"
+                    },
+                    {
+                        "name": "Sealed Grounds - Zelda's Blessing",
+                        "ref": "Faron Province/Sealed Grounds/Zelda's Blessing"
+                    },
+                    {
+                        "name": "Faron Woods - Item behind Lower Bombable Rock",
+                        "ref": "Faron Province/Faron Woods/Item behind Lower Bombable Rock"
+                    },
+                    {
+                        "name": "Faron Woods - Item on Tree",
+                        "ref": "Faron Province/Faron Woods/Item on Tree"
+                    },
+                    {
+                        "name": "Faron Woods - Kikwi Elder's Reward",
+                        "ref": "Faron Province/Faron Woods/Kikwi Elder's Reward"
+                    },
+                    {
+                        "name": "Faron Woods - Rupee on Hollow Tree Root",
+                        "ref": "Faron Province/Faron Woods/Rupee on Hollow Tree Root"
+                    },
+                    {
+                        "name": "Faron Woods - Rupee on Hollow Tree Branch",
+                        "ref": "Faron Province/Faron Woods/Rupee on Hollow Tree Branch"
+                    },
+                    {
+                        "name": "Faron Woods - Rupee on Platform near Floria Door",
+                        "ref": "Faron Province/Faron Woods/Rupee on Platform near Floria Door"
+                    },
+                    {
+                        "name": "Faron Woods - Deep Woods Chest",
+                        "ref": "Faron Province/Faron Woods/Deep Woods Chest"
+                    },
+                    {
+                        "name": "Faron Woods - Chest behind Upper Bombable Rock",
+                        "ref": "Faron Province/Faron Woods/Chest behind Upper Bombable Rock"
+                    },
+                    {
+                        "name": "Faron Woods - Chest inside Great Tree",
+                        "ref": "Faron Province/Faron Woods/Chest inside Great Tree"
+                    },
+                    {
+                        "name": "Faron Woods - Rupee on Great Tree North Branch",
+                        "ref": "Faron Province/Faron Woods/Rupee on Great Tree North Branch"
+                    },
+                    {
+                        "name": "Faron Woods - Rupee on Great Tree West Branch",
+                        "ref": "Faron Province/Faron Woods/Rupee on Great Tree West Branch"
+                    },
+                    {
+                        "name": "Lake Floria - Rupee under Central Boulder",
+                        "ref": "Faron Province/Lake Floria/Rupee under Central Boulder"
+                    },
+                    {
+                        "name": "Lake Floria - Rupee behind Southwest Boulder",
+                        "ref": "Faron Province/Lake Floria/Rupee behind Southwest Boulder"
+                    },
+                    {
+                        "name": "Lake Floria - Left Rupee behind Northwest Boulder",
+                        "ref": "Faron Province/Lake Floria/Left Rupee behind Northwest Boulder"
+                    },
+                    {
+                        "name": "Lake Floria - Right Rupee behind Northwest Boulder",
+                        "ref": "Faron Province/Lake Floria/Right Rupee behind Northwest Boulder"
+                    },
+                    {
+                        "name": "Lake Floria - Lake Floria Chest",
+                        "ref": "Faron Province/Lake Floria/Lake Floria Chest"
+                    },
+                    {
+                        "name": "Lake Floria - Dragon Lair South Chest",
+                        "ref": "Faron Province/Lake Floria/Dragon Lair South Chest"
+                    },
+                    {
+                        "name": "Lake Floria - Dragon Lair East Chest",
+                        "ref": "Faron Province/Lake Floria/Dragon Lair East Chest"
+                    },
+                    {
+                        "name": "Lake Floria - Rupee on High Ledge outside Ancient Cistern Entrance",
+                        "ref": "Faron Province/Lake Floria/Rupee on High Ledge outside Ancient Cistern Entrance"
+                    },
+                    {
+                        "name": "Flooded Faron Woods - Yellow Tadtone under Lilypad",
+                        "ref": "Faron Province/Flooded Faron Woods/Yellow Tadtone under Lilypad"
+                    },
+                    {
+                        "name": "Flooded Faron Woods - 8 Light Blue Tadtones near Viewing Platform",
+                        "ref": "Faron Province/Flooded Faron Woods/8 Light Blue Tadtones near Viewing Platform"
+                    },
+                    {
+                        "name": "Flooded Faron Woods - 4 Purple Tadtones under Viewing Platform",
+                        "ref": "Faron Province/Flooded Faron Woods/4 Purple Tadtones under Viewing Platform"
+                    },
+                    {
+                        "name": "Flooded Faron Woods - Red Moving Tadtone near Viewing Platform",
+                        "ref": "Faron Province/Flooded Faron Woods/Red Moving Tadtone near Viewing Platform"
+                    },
+                    {
+                        "name": "Flooded Faron Woods - Light Blue Tadtone under Great Tree Root",
+                        "ref": "Faron Province/Flooded Faron Woods/Light Blue Tadtone under Great Tree Root"
+                    },
+                    {
+                        "name": "Flooded Faron Woods - 8 Yellow Tadtones near Kikwi Elder",
+                        "ref": "Faron Province/Flooded Faron Woods/8 Yellow Tadtones near Kikwi Elder"
+                    },
+                    {
+                        "name": "Flooded Faron Woods - 4 Light Blue Moving Tadtones under Kikwi Elder",
+                        "ref": "Faron Province/Flooded Faron Woods/4 Light Blue Moving Tadtones under Kikwi Elder"
+                    },
+                    {
+                        "name": "Flooded Faron Woods - 4 Red Moving Tadtones North West of Great Tree",
+                        "ref": "Faron Province/Flooded Faron Woods/4 Red Moving Tadtones North West of Great Tree"
+                    },
+                    {
+                        "name": "Flooded Faron Woods - Green Tadtone behind Upper Bombable Rock",
+                        "ref": "Faron Province/Flooded Faron Woods/Green Tadtone behind Upper Bombable Rock"
+                    },
+                    {
+                        "name": "Flooded Faron Woods - 2 Dark Blue Tadtones in Grass West of Great Tree",
+                        "ref": "Faron Province/Flooded Faron Woods/2 Dark Blue Tadtones in Grass West of Great Tree"
+                    },
+                    {
+                        "name": "Flooded Faron Woods - 8 Green Tadtones in West Tunnel",
+                        "ref": "Faron Province/Flooded Faron Woods/8 Green Tadtones in West Tunnel"
+                    },
+                    {
+                        "name": "Flooded Faron Woods - 2 Red Tadtones in Grass near Lower Bombable Rock",
+                        "ref": "Faron Province/Flooded Faron Woods/2 Red Tadtones in Grass near Lower Bombable Rock"
+                    },
+                    {
+                        "name": "Flooded Faron Woods - 16 Dark Blue Tadtones in the South West",
+                        "ref": "Faron Province/Flooded Faron Woods/16 Dark Blue Tadtones in the South West"
+                    },
+                    {
+                        "name": "Flooded Faron Woods - 4 Purple Moving Tadtones near Floria Gate",
+                        "ref": "Faron Province/Flooded Faron Woods/4 Purple Moving Tadtones near Floria Gate"
+                    },
+                    {
+                        "name": "Flooded Faron Woods - Dark Blue Moving Tadtone inside Small Hollow Tree",
+                        "ref": "Faron Province/Flooded Faron Woods/Dark Blue Moving Tadtone inside Small Hollow Tree"
+                    },
+                    {
+                        "name": "Flooded Faron Woods - 4 Yellow Tadtones under Small Hollow Tree",
+                        "ref": "Faron Province/Flooded Faron Woods/4 Yellow Tadtones under Small Hollow Tree"
+                    },
+                    {
+                        "name": "Flooded Faron Woods - 8 Purple Tadtones in Clearing after Small Hollow Tree",
+                        "ref": "Faron Province/Flooded Faron Woods/8 Purple Tadtones in Clearing after Small Hollow Tree"
+                    },
+                    {
+                        "name": "Flooded Faron Woods - Water Dragon's Reward",
+                        "ref": "Faron Province/Flooded Faron Woods/Water Dragon's Reward"
+                    },
+                    {
+                        "name": "Skyview - Chest on Tree Branch",
+                        "ref": "Faron Province/Skyview/Chest on Tree Branch"
+                    },
+                    {
+                        "name": "Skyview - Digging Spot in Crawlspace",
+                        "ref": "Faron Province/Skyview/Digging Spot in Crawlspace"
+                    },
+                    {
+                        "name": "Skyview - Chest behind Two Eyes",
+                        "ref": "Faron Province/Skyview/Chest behind Two Eyes"
+                    },
+                    {
+                        "name": "Skyview - Chest after Stalfos Fight",
+                        "ref": "Faron Province/Skyview/Chest after Stalfos Fight"
+                    },
+                    {
+                        "name": "Skyview - Item behind Bars",
+                        "ref": "Faron Province/Skyview/Item behind Bars"
+                    },
+                    {
+                        "name": "Skyview - Rupee in Southeast Tunnel",
+                        "ref": "Faron Province/Skyview/Rupee in Southeast Tunnel"
+                    },
+                    {
+                        "name": "Skyview - Rupee in Southwest Tunnel",
+                        "ref": "Faron Province/Skyview/Rupee in Southwest Tunnel"
+                    },
+                    {
+                        "name": "Skyview - Rupee in East Tunnel",
+                        "ref": "Faron Province/Skyview/Rupee in East Tunnel"
+                    },
+                    {
+                        "name": "Skyview - Chest behind Three Eyes",
+                        "ref": "Faron Province/Skyview/Chest behind Three Eyes"
+                    },
+                    {
+                        "name": "Skyview - Chest near Boss Door",
+                        "ref": "Faron Province/Skyview/Chest near Boss Door"
+                    },
+                    {
+                        "name": "Skyview - Boss Key Chest",
+                        "ref": "Faron Province/Skyview/Boss Key Chest"
+                    },
+                    {
+                        "name": "Skyview - Heart Container",
+                        "ref": "Faron Province/Skyview/Heart Container"
+                    },
+                    {
+                        "name": "Skyview - Rupee on Spring Pillar",
+                        "ref": "Faron Province/Skyview/Rupee on Spring Pillar"
+                    },
+                    {
+                        "name": "Skyview - Strike Crest",
+                        "ref": "Faron Province/Skyview/Strike Crest"
+                    },
+                    {
+                        "name": "Ancient Cistern - Rupee in West Hand",
+                        "ref": "Faron Province/Ancient Cistern/Rupee in West Hand"
+                    },
+                    {
+                        "name": "Ancient Cistern - Rupee in East Hand",
+                        "ref": "Faron Province/Ancient Cistern/Rupee in East Hand"
+                    },
+                    {
+                        "name": "Ancient Cistern - First Rupee in East Part in Short Tunnel",
+                        "ref": "Faron Province/Ancient Cistern/First Rupee in East Part in Short Tunnel"
+                    },
+                    {
+                        "name": "Ancient Cistern - Second Rupee in East Part in Short Tunnel",
+                        "ref": "Faron Province/Ancient Cistern/Second Rupee in East Part in Short Tunnel"
+                    },
+                    {
+                        "name": "Ancient Cistern - Third Rupee in East Part in Short Tunnel",
+                        "ref": "Faron Province/Ancient Cistern/Third Rupee in East Part in Short Tunnel"
+                    },
+                    {
+                        "name": "Ancient Cistern - Rupee in East Part in Cubby",
+                        "ref": "Faron Province/Ancient Cistern/Rupee in East Part in Cubby"
+                    },
+                    {
+                        "name": "Ancient Cistern - Rupee in East Part in Main Tunnel",
+                        "ref": "Faron Province/Ancient Cistern/Rupee in East Part in Main Tunnel"
+                    },
+                    {
+                        "name": "Ancient Cistern - Chest in East Part",
+                        "ref": "Faron Province/Ancient Cistern/Chest in East Part"
+                    },
+                    {
+                        "name": "Ancient Cistern - Chest after Whip Hooks",
+                        "ref": "Faron Province/Ancient Cistern/Chest after Whip Hooks"
+                    },
+                    {
+                        "name": "Ancient Cistern - Chest near Vines",
+                        "ref": "Faron Province/Ancient Cistern/Chest near Vines"
+                    },
+                    {
+                        "name": "Ancient Cistern - Chest behind the Waterfall",
+                        "ref": "Faron Province/Ancient Cistern/Chest behind the Waterfall"
+                    },
+                    {
+                        "name": "Ancient Cistern - Bokoblin",
+                        "ref": "Faron Province/Ancient Cistern/Bokoblin"
+                    },
+                    {
+                        "name": "Ancient Cistern - Rupee under Lilypad",
+                        "ref": "Faron Province/Ancient Cistern/Rupee under Lilypad"
+                    },
+                    {
+                        "name": "Ancient Cistern - Chest in Key Locked Room",
+                        "ref": "Faron Province/Ancient Cistern/Chest in Key Locked Room"
+                    },
+                    {
+                        "name": "Ancient Cistern - Boss Key Chest",
+                        "ref": "Faron Province/Ancient Cistern/Boss Key Chest"
+                    },
+                    {
+                        "name": "Ancient Cistern - Heart Container",
+                        "ref": "Faron Province/Ancient Cistern/Heart Container"
+                    },
+                    {
+                        "name": "Ancient Cistern - Farore's Flame",
+                        "ref": "Faron Province/Ancient Cistern/Farore's Flame"
+                    },
+                    {
+                        "name": "Faron Silent Realm - Trial Reward",
+                        "ref": "Faron Province/Faron Silent Realm/Trial Reward"
+                    },
+                    {
+                        "name": "Faron Silent Realm - Relic 1",
+                        "ref": "Faron Province/Faron Silent Realm/Relic 1"
+                    },
+                    {
+                        "name": "Faron Silent Realm - Relic 2",
+                        "ref": "Faron Province/Faron Silent Realm/Relic 2"
+                    },
+                    {
+                        "name": "Faron Silent Realm - Relic 3",
+                        "ref": "Faron Province/Faron Silent Realm/Relic 3"
+                    },
+                    {
+                        "name": "Faron Silent Realm - Relic 4",
+                        "ref": "Faron Province/Faron Silent Realm/Relic 4"
+                    },
+                    {
+                        "name": "Faron Silent Realm - Relic 5",
+                        "ref": "Faron Province/Faron Silent Realm/Relic 5"
+                    },
+                    {
+                        "name": "Faron Silent Realm - Relic 6",
+                        "ref": "Faron Province/Faron Silent Realm/Relic 6"
+                    },
+                    {
+                        "name": "Faron Silent Realm - Relic 7",
+                        "ref": "Faron Province/Faron Silent Realm/Relic 7"
+                    },
+                    {
+                        "name": "Faron Silent Realm - Relic 8",
+                        "ref": "Faron Province/Faron Silent Realm/Relic 8"
+                    },
+                    {
+                        "name": "Faron Silent Realm - Relic 9",
+                        "ref": "Faron Province/Faron Silent Realm/Relic 9"
+                    },
+                    {
+                        "name": "Faron Silent Realm - Relic 10",
+                        "ref": "Faron Province/Faron Silent Realm/Relic 10"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "2131",
+                        "y": "270",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Lanayru Province",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Lanayru Mine - Chest behind First Landing",
+                        "ref": "Lanayru Province/Lanayru Mine/Chest behind First Landing"
+                    },
+                    {
+                        "name": "Lanayru Mine - Chest near First Timeshift Stone",
+                        "ref": "Lanayru Province/Lanayru Mine/Chest near First Timeshift Stone"
+                    },
+                    {
+                        "name": "Lanayru Mine - Chest behind Statue",
+                        "ref": "Lanayru Province/Lanayru Mine/Chest behind Statue"
+                    },
+                    {
+                        "name": "Lanayru Mine - Chest at the End of Mine",
+                        "ref": "Lanayru Province/Lanayru Mine/Chest at the End of Mine"
+                    },
+                    {
+                        "name": "Fire Node - Shortcut Chest",
+                        "ref": "Lanayru Province/Lanayru Desert/Fire Node/Shortcut Chest"
+                    },
+                    {
+                        "name": "Fire Node - First Small Chest",
+                        "ref": "Lanayru Province/Lanayru Desert/Fire Node/First Small Chest"
+                    },
+                    {
+                        "name": "Fire Node - Second Small Chest",
+                        "ref": "Lanayru Province/Lanayru Desert/Fire Node/Second Small Chest"
+                    },
+                    {
+                        "name": "Fire Node - Left Ending Chest",
+                        "ref": "Lanayru Province/Lanayru Desert/Fire Node/Left Ending Chest"
+                    },
+                    {
+                        "name": "Fire Node - Right Ending Chest",
+                        "ref": "Lanayru Province/Lanayru Desert/Fire Node/Right Ending Chest"
+                    },
+                    {
+                        "name": "Lightning Node - First Chest",
+                        "ref": "Lanayru Province/Lanayru Desert/Lightning Node/First Chest"
+                    },
+                    {
+                        "name": "Lightning Node - Second Chest",
+                        "ref": "Lanayru Province/Lanayru Desert/Lightning Node/Second Chest"
+                    },
+                    {
+                        "name": "Lightning Node - Raised Chest near Generator",
+                        "ref": "Lanayru Province/Lanayru Desert/Lightning Node/Raised Chest near Generator"
+                    },
+                    {
+                        "name": "Lanayru Desert - Chest near Party Wheel",
+                        "ref": "Lanayru Province/Lanayru Desert/Chest near Party Wheel"
+                    },
+                    {
+                        "name": "Lanayru Desert - Chest near Caged Robot",
+                        "ref": "Lanayru Province/Lanayru Desert/Chest near Caged Robot"
+                    },
+                    {
+                        "name": "Lanayru Desert - Rescue Caged Robot",
+                        "ref": "Lanayru Province/Lanayru Desert/Rescue Caged Robot"
+                    },
+                    {
+                        "name": "Lanayru Desert - Chest on Platform near Fire Node",
+                        "ref": "Lanayru Province/Lanayru Desert/Chest on Platform near Fire Node"
+                    },
+                    {
+                        "name": "Lanayru Desert - Chest on Platform near Lightning Node",
+                        "ref": "Lanayru Province/Lanayru Desert/Chest on Platform near Lightning Node"
+                    },
+                    {
+                        "name": "Lanayru Desert - Chest near Sand Oasis",
+                        "ref": "Lanayru Province/Lanayru Desert/Chest near Sand Oasis"
+                    },
+                    {
+                        "name": "Lanayru Desert - Chest on top of Lanayru Mining Facility",
+                        "ref": "Lanayru Province/Lanayru Desert/Chest on top of Lanayru Mining Facility"
+                    },
+                    {
+                        "name": "Lanayru Desert - Secret Passageway Chest",
+                        "ref": "Lanayru Province/Lanayru Desert/Secret Passageway Chest"
+                    },
+                    {
+                        "name": "Lanayru Caves - Chest",
+                        "ref": "Lanayru Province/Lanayru Caves/Chest"
+                    },
+                    {
+                        "name": "Lanayru Caves - Golo's Gift",
+                        "ref": "Lanayru Province/Lanayru Caves/Golo's Gift"
+                    },
+                    {
+                        "name": "Lanayru Gorge - Thunder Dragon's Reward",
+                        "ref": "Lanayru Province/Lanayru Gorge/Thunder Dragon's Reward"
+                    },
+                    {
+                        "name": "Lanayru Gorge - Item on Pillar",
+                        "ref": "Lanayru Province/Lanayru Gorge/Item on Pillar"
+                    },
+                    {
+                        "name": "Lanayru Gorge - Digging Spot",
+                        "ref": "Lanayru Province/Lanayru Gorge/Digging Spot"
+                    },
+                    {
+                        "name": "Ancient Harbour - Rupee on First Pillar",
+                        "ref": "Lanayru Province/Lanayru Sand Sea/Ancient Harbour/Rupee on First Pillar"
+                    },
+                    {
+                        "name": "Ancient Harbour - Left Rupee on Entrance Crown",
+                        "ref": "Lanayru Province/Lanayru Sand Sea/Ancient Harbour/Left Rupee on Entrance Crown"
+                    },
+                    {
+                        "name": "Ancient Harbour - Right Rupee on Entrance Crown",
+                        "ref": "Lanayru Province/Lanayru Sand Sea/Ancient Harbour/Right Rupee on Entrance Crown"
+                    },
+                    {
+                        "name": "Skipper's Retreat - Chest after Moblin",
+                        "ref": "Lanayru Province/Lanayru Sand Sea/Skipper's Retreat/Chest after Moblin"
+                    },
+                    {
+                        "name": "Skipper's Retreat - Chest on top of Cacti Pillar",
+                        "ref": "Lanayru Province/Lanayru Sand Sea/Skipper's Retreat/Chest on top of Cacti Pillar"
+                    },
+                    {
+                        "name": "Skipper's Retreat - Chest in Shack",
+                        "ref": "Lanayru Province/Lanayru Sand Sea/Skipper's Retreat/Chest in Shack"
+                    },
+                    {
+                        "name": "Skipper's Retreat - Skydive Chest",
+                        "ref": "Lanayru Province/Lanayru Sand Sea/Skipper's Retreat/Skydive Chest"
+                    },
+                    {
+                        "name": "Pirate Stronghold - Rupee on East Sea Pillar",
+                        "ref": "Lanayru Province/Lanayru Sand Sea/Pirate Stronghold/Rupee on East Sea Pillar"
+                    },
+                    {
+                        "name": "Pirate Stronghold - Rupee on West Sea Pillar",
+                        "ref": "Lanayru Province/Lanayru Sand Sea/Pirate Stronghold/Rupee on West Sea Pillar"
+                    },
+                    {
+                        "name": "Pirate Stronghold - Rupee on Bird Statue Pillar or Nose",
+                        "ref": "Lanayru Province/Lanayru Sand Sea/Pirate Stronghold/Rupee on Bird Statue Pillar or Nose"
+                    },
+                    {
+                        "name": "Pirate Stronghold - First Chest",
+                        "ref": "Lanayru Province/Lanayru Sand Sea/Pirate Stronghold/First Chest"
+                    },
+                    {
+                        "name": "Pirate Stronghold - Second Chest",
+                        "ref": "Lanayru Province/Lanayru Sand Sea/Pirate Stronghold/Second Chest"
+                    },
+                    {
+                        "name": "Pirate Stronghold - Third Chest",
+                        "ref": "Lanayru Province/Lanayru Sand Sea/Pirate Stronghold/Third Chest"
+                    },
+                    {
+                        "name": "Lanayru Sand Sea - Rickety Coaster -- Heart Stopping Track in 1'05",
+                        "ref": "Lanayru Province/Lanayru Sand Sea/Rickety Coaster -- Heart Stopping Track in 1'05"
+                    },
+                    {
+                        "name": "Lanayru Mining Facility - Chest behind Bars",
+                        "ref": "Lanayru Province/Lanayru Mining Facility/Chest behind Bars"
+                    },
+                    {
+                        "name": "Lanayru Mining Facility - First Chest in Hub Room",
+                        "ref": "Lanayru Province/Lanayru Mining Facility/First Chest in Hub Room"
+                    },
+                    {
+                        "name": "Lanayru Mining Facility - Chest in First West Room",
+                        "ref": "Lanayru Province/Lanayru Mining Facility/Chest in First West Room"
+                    },
+                    {
+                        "name": "Lanayru Mining Facility - Chest after Armos Fight",
+                        "ref": "Lanayru Province/Lanayru Mining Facility/Chest after Armos Fight"
+                    },
+                    {
+                        "name": "Lanayru Mining Facility - Chest in Key Locked Room",
+                        "ref": "Lanayru Province/Lanayru Mining Facility/Chest in Key Locked Room"
+                    },
+                    {
+                        "name": "Lanayru Mining Facility - Raised Chest in Hop across Boxes Room",
+                        "ref": "Lanayru Province/Lanayru Mining Facility/Raised Chest in Hop across Boxes Room"
+                    },
+                    {
+                        "name": "Lanayru Mining Facility - Lower Chest in Hop across Boxes Room",
+                        "ref": "Lanayru Province/Lanayru Mining Facility/Lower Chest in Hop across Boxes Room"
+                    },
+                    {
+                        "name": "Lanayru Mining Facility - Chest behind First Crawlspace",
+                        "ref": "Lanayru Province/Lanayru Mining Facility/Chest behind First Crawlspace"
+                    },
+                    {
+                        "name": "Lanayru Mining Facility - Chest in Spike Maze",
+                        "ref": "Lanayru Province/Lanayru Mining Facility/Chest in Spike Maze"
+                    },
+                    {
+                        "name": "Lanayru Mining Facility - Boss Key Chest",
+                        "ref": "Lanayru Province/Lanayru Mining Facility/Boss Key Chest"
+                    },
+                    {
+                        "name": "Lanayru Mining Facility - Shortcut Chest in Main Hub",
+                        "ref": "Lanayru Province/Lanayru Mining Facility/Shortcut Chest in Main Hub"
+                    },
+                    {
+                        "name": "Lanayru Mining Facility - Heart Container",
+                        "ref": "Lanayru Province/Lanayru Mining Facility/Heart Container"
+                    },
+                    {
+                        "name": "Lanayru Mining Facility - Exit Hall of Ancient Robots",
+                        "ref": "Lanayru Province/Lanayru Mining Facility/Exit Hall of Ancient Robots"
+                    },
+                    {
+                        "name": "Sandship - Chest at the Stern",
+                        "ref": "Lanayru Province/Sandship/Chest at the Stern"
+                    },
+                    {
+                        "name": "Sandship - Chest before 4-Door Corridor",
+                        "ref": "Lanayru Province/Sandship/Chest before 4-Door Corridor"
+                    },
+                    {
+                        "name": "Sandship - Chest behind Combination Lock",
+                        "ref": "Lanayru Province/Sandship/Chest behind Combination Lock"
+                    },
+                    {
+                        "name": "Sandship - Treasure Room First Chest",
+                        "ref": "Lanayru Province/Sandship/Treasure Room First Chest"
+                    },
+                    {
+                        "name": "Sandship - Treasure Room Second Chest",
+                        "ref": "Lanayru Province/Sandship/Treasure Room Second Chest"
+                    },
+                    {
+                        "name": "Sandship - Treasure Room Third Chest",
+                        "ref": "Lanayru Province/Sandship/Treasure Room Third Chest"
+                    },
+                    {
+                        "name": "Sandship - Treasure Room Fourth Chest",
+                        "ref": "Lanayru Province/Sandship/Treasure Room Fourth Chest"
+                    },
+                    {
+                        "name": "Sandship - Treasure Room Fifth Chest",
+                        "ref": "Lanayru Province/Sandship/Treasure Room Fifth Chest"
+                    },
+                    {
+                        "name": "Sandship - Robot in Brig's Reward",
+                        "ref": "Lanayru Province/Sandship/Robot in Brig's Reward"
+                    },
+                    {
+                        "name": "Sandship - Chest after Scervo Fight",
+                        "ref": "Lanayru Province/Sandship/Chest after Scervo Fight"
+                    },
+                    {
+                        "name": "Sandship - Boss Key Chest",
+                        "ref": "Lanayru Province/Sandship/Boss Key Chest"
+                    },
+                    {
+                        "name": "Sandship - Heart Container",
+                        "ref": "Lanayru Province/Sandship/Heart Container"
+                    },
+                    {
+                        "name": "Sandship - Nayru's Flame",
+                        "ref": "Lanayru Province/Sandship/Nayru's Flame"
+                    },
+                    {
+                        "name": "Lanayru Silent Realm - Trial Reward",
+                        "ref": "Lanayru Province/Lanayru Silent Realm/Trial Reward"
+                    },
+                    {
+                        "name": "Lanayru Silent Realm - Relic 1",
+                        "ref": "Lanayru Province/Lanayru Silent Realm/Relic 1"
+                    },
+                    {
+                        "name": "Lanayru Silent Realm - Relic 2",
+                        "ref": "Lanayru Province/Lanayru Silent Realm/Relic 2"
+                    },
+                    {
+                        "name": "Lanayru Silent Realm - Relic 3",
+                        "ref": "Lanayru Province/Lanayru Silent Realm/Relic 3"
+                    },
+                    {
+                        "name": "Lanayru Silent Realm - Relic 4",
+                        "ref": "Lanayru Province/Lanayru Silent Realm/Relic 4"
+                    },
+                    {
+                        "name": "Lanayru Silent Realm - Relic 5",
+                        "ref": "Lanayru Province/Lanayru Silent Realm/Relic 5"
+                    },
+                    {
+                        "name": "Lanayru Silent Realm - Relic 6",
+                        "ref": "Lanayru Province/Lanayru Silent Realm/Relic 6"
+                    },
+                    {
+                        "name": "Lanayru Silent Realm - Relic 7",
+                        "ref": "Lanayru Province/Lanayru Silent Realm/Relic 7"
+                    },
+                    {
+                        "name": "Lanayru Silent Realm - Relic 8",
+                        "ref": "Lanayru Province/Lanayru Silent Realm/Relic 8"
+                    },
+                    {
+                        "name": "Lanayru Silent Realm - Relic 9",
+                        "ref": "Lanayru Province/Lanayru Silent Realm/Relic 9"
+                    },
+                    {
+                        "name": "Lanayru Silent Realm - Relic 10",
+                        "ref": "Lanayru Province/Lanayru Silent Realm/Relic 10"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "2328",
+                        "y": "112",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Skyloft",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Ghost - Pipit's Crystals",
+                        "ref": "Skyloft/Upper Skyloft/Ghost/Pipit's Crystals"
+                    },
+                    {
+                        "name": "Upper Skyloft - Fledge's Gift",
+                        "ref": "Skyloft/Upper Skyloft/Fledge's Gift"
+                    },
+                    {
+                        "name": "Upper Skyloft - Owlan's Gift",
+                        "ref": "Skyloft/Upper Skyloft/Owlan's Gift"
+                    },
+                    {
+                        "name": "Upper Skyloft - Sparring Hall Chest",
+                        "ref": "Skyloft/Upper Skyloft/Sparring Hall Chest"
+                    },
+                    {
+                        "name": "Upper Skyloft - Ring Knight Academy Bell",
+                        "ref": "Skyloft/Upper Skyloft/Ring Knight Academy Bell"
+                    },
+                    {
+                        "name": "Upper Skyloft - Chest near Goddess Statue",
+                        "ref": "Skyloft/Upper Skyloft/Chest near Goddess Statue"
+                    },
+                    {
+                        "name": "Upper Skyloft - First Goddess Sword Item in Goddess Statue",
+                        "ref": "Skyloft/Upper Skyloft/First Goddess Sword Item in Goddess Statue"
+                    },
+                    {
+                        "name": "Upper Skyloft - Second Goddess Sword Item in Goddess Statue",
+                        "ref": "Skyloft/Upper Skyloft/Second Goddess Sword Item in Goddess Statue"
+                    },
+                    {
+                        "name": "Upper Skyloft - In Zelda's Closet",
+                        "ref": "Skyloft/Upper Skyloft/In Zelda's Closet"
+                    },
+                    {
+                        "name": "Upper Skyloft - Owlan's Crystals",
+                        "ref": "Skyloft/Upper Skyloft/Owlan's Crystals"
+                    },
+                    {
+                        "name": "Upper Skyloft - Fledge's Crystals",
+                        "ref": "Skyloft/Upper Skyloft/Fledge's Crystals"
+                    },
+                    {
+                        "name": "Upper Skyloft - Item from Cawlin",
+                        "ref": "Skyloft/Upper Skyloft/Item from Cawlin"
+                    },
+                    {
+                        "name": "Upper Skyloft - Pumpkin Archery -- 600 Points",
+                        "ref": "Skyloft/Upper Skyloft/Pumpkin Archery -- 600 Points"
+                    },
+                    {
+                        "name": "Peater - Peatrice's Crystals",
+                        "ref": "Skyloft/Central Skyloft/Peater/Peatrice's Crystals"
+                    },
+                    {
+                        "name": "Central Skyloft - Potion Lady's Gift",
+                        "ref": "Skyloft/Central Skyloft/Potion Lady's Gift"
+                    },
+                    {
+                        "name": "Central Skyloft - Repair Gondo's Junk",
+                        "ref": "Skyloft/Central Skyloft/Repair Gondo's Junk"
+                    },
+                    {
+                        "name": "Central Skyloft - Wryna's Crystals",
+                        "ref": "Skyloft/Central Skyloft/Wryna's Crystals"
+                    },
+                    {
+                        "name": "Central Skyloft - Waterfall Cave First Chest",
+                        "ref": "Skyloft/Central Skyloft/Waterfall Cave First Chest"
+                    },
+                    {
+                        "name": "Central Skyloft - Waterfall Cave Second Chest",
+                        "ref": "Skyloft/Central Skyloft/Waterfall Cave Second Chest"
+                    },
+                    {
+                        "name": "Central Skyloft - Rupee Waterfall Cave Crawlspace",
+                        "ref": "Skyloft/Central Skyloft/Rupee Waterfall Cave Crawlspace"
+                    },
+                    {
+                        "name": "Central Skyloft - Parrow's Gift",
+                        "ref": "Skyloft/Central Skyloft/Parrow's Gift"
+                    },
+                    {
+                        "name": "Central Skyloft - Parrow's Crystals",
+                        "ref": "Skyloft/Central Skyloft/Parrow's Crystals"
+                    },
+                    {
+                        "name": "Central Skyloft - Item in Bird Nest",
+                        "ref": "Skyloft/Central Skyloft/Item in Bird Nest"
+                    },
+                    {
+                        "name": "Central Skyloft - Shed Chest",
+                        "ref": "Skyloft/Central Skyloft/Shed Chest"
+                    },
+                    {
+                        "name": "Central Skyloft - West Cliff Goddess Chest",
+                        "ref": "Skyloft/Central Skyloft/West Cliff Goddess Chest"
+                    },
+                    {
+                        "name": "Central Skyloft - Bazaar Goddess Chest",
+                        "ref": "Skyloft/Central Skyloft/Bazaar Goddess Chest"
+                    },
+                    {
+                        "name": "Central Skyloft - Shed Goddess Chest",
+                        "ref": "Skyloft/Central Skyloft/Shed Goddess Chest"
+                    },
+                    {
+                        "name": "Central Skyloft - Floating Island Goddess Chest",
+                        "ref": "Skyloft/Central Skyloft/Floating Island Goddess Chest"
+                    },
+                    {
+                        "name": "Central Skyloft - Waterfall Goddess Chest",
+                        "ref": "Skyloft/Central Skyloft/Waterfall Goddess Chest"
+                    },
+                    {
+                        "name": "Skyloft Village - Mallara's Crystals",
+                        "ref": "Skyloft/Skyloft Village/Mallara's Crystals"
+                    },
+                    {
+                        "name": "Skyloft Village - Bertie's Crystals",
+                        "ref": "Skyloft/Skyloft Village/Bertie's Crystals"
+                    },
+                    {
+                        "name": "Skyloft Village - Sparrot's Crystals",
+                        "ref": "Skyloft/Skyloft Village/Sparrot's Crystals"
+                    },
+                    {
+                        "name": "Batreaux's House - 5 Crystals",
+                        "ref": "Skyloft/Batreaux's House/5 Crystals"
+                    },
+                    {
+                        "name": "Batreaux's House - 10 Crystals",
+                        "ref": "Skyloft/Batreaux's House/10 Crystals"
+                    },
+                    {
+                        "name": "Batreaux's House - 30 Crystals",
+                        "ref": "Skyloft/Batreaux's House/30 Crystals"
+                    },
+                    {
+                        "name": "Batreaux's House - 30 Crystals Chest",
+                        "ref": "Skyloft/Batreaux's House/30 Crystals Chest"
+                    },
+                    {
+                        "name": "Batreaux's House - 40 Crystals",
+                        "ref": "Skyloft/Batreaux's House/40 Crystals"
+                    },
+                    {
+                        "name": "Batreaux's House - 50 Crystals",
+                        "ref": "Skyloft/Batreaux's House/50 Crystals"
+                    },
+                    {
+                        "name": "Batreaux's House - 70 Crystals",
+                        "ref": "Skyloft/Batreaux's House/70 Crystals"
+                    },
+                    {
+                        "name": "Batreaux's House - 70 Crystals Second Reward",
+                        "ref": "Skyloft/Batreaux's House/70 Crystals Second Reward"
+                    },
+                    {
+                        "name": "Batreaux's House - 80 Crystals",
+                        "ref": "Skyloft/Batreaux's House/80 Crystals"
+                    },
+                    {
+                        "name": "Beedle's Shop - 300 Rupee Item",
+                        "ref": "Skyloft/Beedle's Shop/300 Rupee Item"
+                    },
+                    {
+                        "name": "Beedle's Shop - 600 Rupee Item",
+                        "ref": "Skyloft/Beedle's Shop/600 Rupee Item"
+                    },
+                    {
+                        "name": "Beedle's Shop - 1200 Rupee Item",
+                        "ref": "Skyloft/Beedle's Shop/1200 Rupee Item"
+                    },
+                    {
+                        "name": "Beedle's Shop - 800 Rupee Item",
+                        "ref": "Skyloft/Beedle's Shop/800 Rupee Item"
+                    },
+                    {
+                        "name": "Beedle's Shop - 1600 Rupee Item",
+                        "ref": "Skyloft/Beedle's Shop/1600 Rupee Item"
+                    },
+                    {
+                        "name": "Beedle's Shop - First 100 Rupee Item",
+                        "ref": "Skyloft/Beedle's Shop/First 100 Rupee Item"
+                    },
+                    {
+                        "name": "Beedle's Shop - Second 100 Rupee Item",
+                        "ref": "Skyloft/Beedle's Shop/Second 100 Rupee Item"
+                    },
+                    {
+                        "name": "Beedle's Shop - Third 100 Rupee Item",
+                        "ref": "Skyloft/Beedle's Shop/Third 100 Rupee Item"
+                    },
+                    {
+                        "name": "Beedle's Shop - 50 Rupee Item",
+                        "ref": "Skyloft/Beedle's Shop/50 Rupee Item"
+                    },
+                    {
+                        "name": "Beedle's Shop - 1000 Rupee Item",
+                        "ref": "Skyloft/Beedle's Shop/1000 Rupee Item"
+                    },
+                    {
+                        "name": "Sky Keep - First Chest",
+                        "ref": "Skyloft/Sky Keep/First Chest"
+                    },
+                    {
+                        "name": "Sky Keep - Chest after Dreadfuse",
+                        "ref": "Skyloft/Sky Keep/Chest after Dreadfuse"
+                    },
+                    {
+                        "name": "Sky Keep - Rupee in Fire Sanctuary Room in Alcove",
+                        "ref": "Skyloft/Sky Keep/Rupee in Fire Sanctuary Room in Alcove"
+                    },
+                    {
+                        "name": "Sky Keep - Sacred Power of Din",
+                        "ref": "Skyloft/Sky Keep/Sacred Power of Din"
+                    },
+                    {
+                        "name": "Sky Keep - Sacred Power of Nayru",
+                        "ref": "Skyloft/Sky Keep/Sacred Power of Nayru"
+                    },
+                    {
+                        "name": "Sky Keep - Sacred Power of Farore",
+                        "ref": "Skyloft/Sky Keep/Sacred Power of Farore"
+                    },
+                    {
+                        "name": "Skyloft Silent Realm - Trial Reward",
+                        "ref": "Skyloft/Skyloft Silent Realm/Trial Reward"
+                    },
+                    {
+                        "name": "Skyloft Silent Realm - Relic 1",
+                        "ref": "Skyloft/Skyloft Silent Realm/Relic 1"
+                    },
+                    {
+                        "name": "Skyloft Silent Realm - Relic 2",
+                        "ref": "Skyloft/Skyloft Silent Realm/Relic 2"
+                    },
+                    {
+                        "name": "Skyloft Silent Realm - Relic 3",
+                        "ref": "Skyloft/Skyloft Silent Realm/Relic 3"
+                    },
+                    {
+                        "name": "Skyloft Silent Realm - Relic 4",
+                        "ref": "Skyloft/Skyloft Silent Realm/Relic 4"
+                    },
+                    {
+                        "name": "Skyloft Silent Realm - Relic 5",
+                        "ref": "Skyloft/Skyloft Silent Realm/Relic 5"
+                    },
+                    {
+                        "name": "Skyloft Silent Realm - Relic 6",
+                        "ref": "Skyloft/Skyloft Silent Realm/Relic 6"
+                    },
+                    {
+                        "name": "Skyloft Silent Realm - Relic 7",
+                        "ref": "Skyloft/Skyloft Silent Realm/Relic 7"
+                    },
+                    {
+                        "name": "Skyloft Silent Realm - Relic 8",
+                        "ref": "Skyloft/Skyloft Silent Realm/Relic 8"
+                    },
+                    {
+                        "name": "Skyloft Silent Realm - Relic 9",
+                        "ref": "Skyloft/Skyloft Silent Realm/Relic 9"
+                    },
+                    {
+                        "name": "Skyloft Silent Realm - Relic 10",
+                        "ref": "Skyloft/Skyloft Silent Realm/Relic 10"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "712",
+                        "y": "862",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "The Sky",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Lumpy Pumpkin - Chandelier",
+                        "ref": "The Sky/Lumpy Pumpkin/Chandelier"
+                    },
+                    {
+                        "name": "Lumpy Pumpkin - Harp Minigame",
+                        "ref": "The Sky/Lumpy Pumpkin/Harp Minigame"
+                    },
+                    {
+                        "name": "Lumpy Pumpkin - Goddess Chest on the Roof",
+                        "ref": "The Sky/Lumpy Pumpkin/Goddess Chest on the Roof"
+                    },
+                    {
+                        "name": "Lumpy Pumpkin - Outside Goddess Chest",
+                        "ref": "The Sky/Lumpy Pumpkin/Outside Goddess Chest"
+                    },
+                    {
+                        "name": "The Sky - Kina's Crystals",
+                        "ref": "The Sky/Kina's Crystals"
+                    },
+                    {
+                        "name": "The Sky - Orielle's Crystals",
+                        "ref": "The Sky/Orielle's Crystals"
+                    },
+                    {
+                        "name": "The Sky - Beedle's Crystals",
+                        "ref": "The Sky/Beedle's Crystals"
+                    },
+                    {
+                        "name": "The Sky - Dodoh's Crystals",
+                        "ref": "The Sky/Dodoh's Crystals"
+                    },
+                    {
+                        "name": "The Sky - Fun Fun Island Minigame -- 500 Rupees",
+                        "ref": "The Sky/Fun Fun Island Minigame -- 500 Rupees"
+                    },
+                    {
+                        "name": "The Sky - Chest in Breakable Boulder near Fun Fun Island",
+                        "ref": "The Sky/Chest in Breakable Boulder near Fun Fun Island"
+                    },
+                    {
+                        "name": "The Sky - Chest in Breakable Boulder near Lumpy Pumpkin",
+                        "ref": "The Sky/Chest in Breakable Boulder near Lumpy Pumpkin"
+                    },
+                    {
+                        "name": "The Sky - Bamboo Island Goddess Chest",
+                        "ref": "The Sky/Bamboo Island Goddess Chest"
+                    },
+                    {
+                        "name": "The Sky - Goddess Chest on Island next to Bamboo Island",
+                        "ref": "The Sky/Goddess Chest on Island next to Bamboo Island"
+                    },
+                    {
+                        "name": "The Sky - Goddess Chest in Cave on Island next to Bamboo Island",
+                        "ref": "The Sky/Goddess Chest in Cave on Island next to Bamboo Island"
+                    },
+                    {
+                        "name": "The Sky - Beedle's Island Goddess Chest",
+                        "ref": "The Sky/Beedle's Island Goddess Chest"
+                    },
+                    {
+                        "name": "The Sky - Beedle's Island Cage Goddess Chest",
+                        "ref": "The Sky/Beedle's Island Cage Goddess Chest"
+                    },
+                    {
+                        "name": "The Sky - Northeast Island Goddess Chest behind Bombable Rocks",
+                        "ref": "The Sky/Northeast Island Goddess Chest behind Bombable Rocks"
+                    },
+                    {
+                        "name": "The Sky - Northeast Island Cage Goddess Chest",
+                        "ref": "The Sky/Northeast Island Cage Goddess Chest"
+                    },
+                    {
+                        "name": "The Sky - Goddess Chest on Island Closest to Faron Pillar",
+                        "ref": "The Sky/Goddess Chest on Island Closest to Faron Pillar"
+                    },
+                    {
+                        "name": "The Sky - Goddess Chest outside Volcanic Island",
+                        "ref": "The Sky/Goddess Chest outside Volcanic Island"
+                    },
+                    {
+                        "name": "The Sky - Goddess Chest inside Volcanic Island",
+                        "ref": "The Sky/Goddess Chest inside Volcanic Island"
+                    },
+                    {
+                        "name": "The Sky - Goddess Chest under Fun Fun Island",
+                        "ref": "The Sky/Goddess Chest under Fun Fun Island"
+                    },
+                    {
+                        "name": "The Sky - Southwest Triple Island Upper Goddess Chest",
+                        "ref": "The Sky/Southwest Triple Island Upper Goddess Chest"
+                    },
+                    {
+                        "name": "The Sky - Southwest Triple Island Lower Goddess Chest",
+                        "ref": "The Sky/Southwest Triple Island Lower Goddess Chest"
+                    },
+                    {
+                        "name": "The Sky - Southwest Triple Island Cage Goddess Chest",
+                        "ref": "The Sky/Southwest Triple Island Cage Goddess Chest"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "1314",
+                        "y": "1725",
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "The Thunderhead",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Isle of Songs - Strike Crest with Goddess Sword",
+                        "ref": "The Thunderhead/Isle of Songs/Strike Crest with Goddess Sword"
+                    },
+                    {
+                        "name": "Isle of Songs - Strike Crest with Longsword",
+                        "ref": "The Thunderhead/Isle of Songs/Strike Crest with Longsword"
+                    },
+                    {
+                        "name": "Isle of Songs - Strike Crest with White Sword",
+                        "ref": "The Thunderhead/Isle of Songs/Strike Crest with White Sword"
+                    },
+                    {
+                        "name": "The Thunderhead - Song from Levias",
+                        "ref": "The Thunderhead/Song from Levias"
+                    },
+                    {
+                        "name": "The Thunderhead - Bug Heaven -- 10 Bugs in 3 Minutes",
+                        "ref": "The Thunderhead/Bug Heaven -- 10 Bugs in 3 Minutes"
+                    },
+                    {
+                        "name": "The Thunderhead - East Island Chest",
+                        "ref": "The Thunderhead/East Island Chest"
+                    },
+                    {
+                        "name": "The Thunderhead - East Island Goddess Chest",
+                        "ref": "The Thunderhead/East Island Goddess Chest"
+                    },
+                    {
+                        "name": "The Thunderhead - Goddess Chest on top of Isle of Songs",
+                        "ref": "The Thunderhead/Goddess Chest on top of Isle of Songs"
+                    },
+                    {
+                        "name": "The Thunderhead - Goddess Chest outside Isle of Songs",
+                        "ref": "The Thunderhead/Goddess Chest outside Isle of Songs"
+                    },
+                    {
+                        "name": "The Thunderhead - First Goddess Chest on Mogma Mitts Island",
+                        "ref": "The Thunderhead/First Goddess Chest on Mogma Mitts Island"
+                    },
+                    {
+                        "name": "The Thunderhead - Second Goddess Chest on Mogma Mitts Island",
+                        "ref": "The Thunderhead/Second Goddess Chest on Mogma Mitts Island"
+                    },
+                    {
+                        "name": "The Thunderhead - Bug Heaven Goddess Chest",
+                        "ref": "The Thunderhead/Bug Heaven Goddess Chest"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": "2226",
+                        "y": "1238",
+                        "size": 6
+                    }
+                ]
+            }
+        ]
+    }
+]

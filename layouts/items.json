@@ -168,6 +168,41 @@
                 "sk_requirement"
             ]
         ]
+    },
+	"rupeesanity": {
+        "type": "item",
+        "margin": "100,10,0,0",
+        //"item_margin":
+        //"item_size":
+        "item": "r_sanity"
+    },
+	"shopsanity": {
+        "type": "item",
+        "margin": "0,10",
+        //"item_margin":
+        //"item_size":
+        "item": "sh_sanity"
+    },
+	"scrapupgrades": {
+        "type": "item",
+        "margin": "0,10",
+        //"item_margin":
+        //"item_size":
+        "item": "sc_sanity"
+    },
+	"keymode": {
+        "type": "item",
+        "margin": "0,10",
+        //"item_margin":
+        //"item_size":
+        "item": "key_sanity"
+    },
+	"randomizesilentrealm": {
+        "type": "item",
+        "margin": "0,10",
+        //"item_margin":
+        //"item_size":
+        "item": "silent_sanity"
     }
     
 }
